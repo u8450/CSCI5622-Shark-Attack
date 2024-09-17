@@ -79,11 +79,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
-<div class="cell" data-execution_count="67">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell" data-execution_count="1">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div class="cell" data-execution_count="68">
+<div class="cell" data-execution_count="2">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.read_csv(<span class="st">"shark.csv"</span>)</span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df.info())</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
@@ -106,7 +105,7 @@ memory usage: 7.2+ KB
 None</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="69">
+<div class="cell" data-execution_count="3">
 <div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Categorical columns</span></span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>cat_col <span class="op">=</span> [col <span class="cf">for</span> col <span class="kw">in</span> df.columns <span class="cf">if</span> df[col].dtype <span class="op">==</span> <span class="st">'object'</span>]</span>
 <span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">'Categorical columns :'</span>,cat_col)</span>
@@ -118,7 +117,7 @@ None</code></pre>
 Numerical columns : ['Year', 'Age']</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="70">
+<div class="cell" data-execution_count="4">
 <div class="sourceCode cell-code" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co"># check unique values</span></span>
 <span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df[cat_col].nunique())</span>
 <span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">"</span><span class="ch">\n</span><span class="st">"</span>)</span>
@@ -139,7 +138,7 @@ Age     36
 dtype: int64</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="71">
+<div class="cell" data-execution_count="5">
 <div class="sourceCode cell-code" id="cb8"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="co"># start removing unwanted values</span></span>
 <span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df[<span class="st">'Fatal (Y/N)'</span>].unique()) <span class="co"># We can remove UNKOWN</span></span>
 <span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df[<span class="st">'Type'</span>].unique()) <span class="co"># We can remove "Invalid" and 'Watercraft"</span></span>
@@ -154,7 +153,7 @@ dtype: int64</code></pre>
 ['Unprovoked' 'Provoked']</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="72">
+<div class="cell" data-execution_count="6">
 <div class="sourceCode cell-code" id="cb10"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Check for the amount of missing data</span></span>
 <span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="bu">round</span>((df2.isnull().<span class="bu">sum</span>()<span class="op">/</span>df2.shape[<span class="dv">0</span>])<span class="op">*</span><span class="dv">100</span>,<span class="dv">2</span>))</span>
 <span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">"</span><span class="ch">\n</span><span class="st">"</span>)</span>
@@ -184,7 +183,7 @@ max      68.000000
 Name: Age, dtype: float64</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="73">
+<div class="cell" data-execution_count="7">
 <div class="sourceCode cell-code" id="cb12"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Using median imoutation to fill </span></span>
 <span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a>df3 <span class="op">=</span> df2.copy()</span>
 <span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a>df3[<span class="st">'Age'</span>]<span class="op">=</span> df2[<span class="st">'Age'</span>].fillna(df2.Age.median())</span>
@@ -221,7 +220,7 @@ dtype: float64
 (86, 9)</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="74">
+<div class="cell" data-execution_count="8">
 <div class="sourceCode cell-code" id="cb14"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Given most shark attack victims are male, I'm getting to assumt the 2 missing values are also male</span></span>
 <span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df3.Sex.value_counts())</span>
 <span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a>df3[<span class="st">'Sex'</span>]<span class="op">=</span> df3[<span class="st">'Sex'</span>].fillna(<span class="st">"M"</span>)</span>
@@ -240,7 +239,7 @@ F    12
 Name: count, dtype: int64</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="75">
+<div class="cell" data-execution_count="9">
 <div class="sourceCode cell-code" id="cb16"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Find the entry where the year is missing</span></span>
 <span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df3[df3[<span class="st">'Year'</span>].isna()]) <span class="co"># Since both date and year are missing, I have to drop this row</span></span>
 <span id="cb16-3"><a href="#cb16-3" aria-hidden="true" tabindex="-1"></a>df4 <span class="op">=</span> df3[<span class="op">~</span>df3[<span class="st">'Year'</span>].isna()]</span>
@@ -260,7 +259,7 @@ Fatal (Y/N)    0.00
 dtype: float64</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="76">
+<div class="cell" data-execution_count="10">
 <div class="sourceCode cell-code" id="cb18"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Crop the Date to only month</span></span>
 <span id="cb18-2"><a href="#cb18-2" aria-hidden="true" tabindex="-1"></a>df4[<span class="st">'Date'</span>] <span class="op">=</span> pd.to_datetime(df4[<span class="st">'Date'</span>])</span>
 <span id="cb18-3"><a href="#cb18-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Extract the month from the 'date' column</span></span>
@@ -283,13 +282,13 @@ dtype: float64</code></pre>
 Name: count, dtype: int64</code></pre>
 </div>
 <div class="cell-output cell-output-stderr">
-<pre><code>/var/folders/s6/139t539x26v08f_7wk7wfbd80000gn/T/ipykernel_8595/2112100353.py:2: SettingWithCopyWarning: 
+<pre><code>/var/folders/s6/139t539x26v08f_7wk7wfbd80000gn/T/ipykernel_9984/2112100353.py:2: SettingWithCopyWarning: 
 A value is trying to be set on a copy of a slice from a DataFrame.
 Try using .loc[row_indexer,col_indexer] = value instead
 
 See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
   df4['Date'] = pd.to_datetime(df4['Date'])
-/var/folders/s6/139t539x26v08f_7wk7wfbd80000gn/T/ipykernel_8595/2112100353.py:4: SettingWithCopyWarning: 
+/var/folders/s6/139t539x26v08f_7wk7wfbd80000gn/T/ipykernel_9984/2112100353.py:4: SettingWithCopyWarning: 
 A value is trying to be set on a copy of a slice from a DataFrame.
 Try using .loc[row_indexer,col_indexer] = value instead
 
@@ -297,7 +296,7 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
   df4['Date'] = df4['Date'].dt.month</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="77">
+<div class="cell" data-execution_count="11">
 <div class="sourceCode cell-code" id="cb21"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb21-1"><a href="#cb21-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Since October is the month with the most shark attacl, I will assign the missing row to october</span></span>
 <span id="cb21-2"><a href="#cb21-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df4[df4[<span class="st">'Date'</span>].isna()])</span>
 <span id="cb21-3"><a href="#cb21-3" aria-hidden="true" tabindex="-1"></a>df5 <span class="op">=</span> df4.copy()</span>
@@ -321,7 +320,7 @@ Fatal (Y/N)    0.00
 dtype: float64</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="78">
+<div class="cell" data-execution_count="12">
 <div class="sourceCode cell-code" id="cb23"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb23-1"><a href="#cb23-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Now to have some activities missing</span></span>
 <span id="cb23-2"><a href="#cb23-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df5[df5[<span class="st">'Activity'</span>].isna()])</span>
 <span id="cb23-3"><a href="#cb23-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df5[<span class="st">'Activity'</span>].value_counts()) </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
@@ -368,13 +367,13 @@ Fell overboard                             1
 Name: count, dtype: int64</code></pre>
 </div>
 </div>
-<div class="cell">
+<div class="cell" data-execution_count="13">
 <div class="sourceCode cell-code" id="cb25"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a><span class="co"># There's a lot of activities written differently, I will rename them</span></span>
 <span id="cb25-2"><a href="#cb25-2" aria-hidden="true" tabindex="-1"></a>keyword_swim <span class="op">=</span> [<span class="st">"Swimming"</span>, <span class="st">"Wading"</span>]</span>
 <span id="cb25-3"><a href="#cb25-3" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb25-4"><a href="#cb25-4" aria-hidden="true" tabindex="-1"></a>keyword_dive <span class="op">=</span> []</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div class="cell" data-execution_count="79">
+<div class="cell" data-execution_count="14">
 <div class="sourceCode cell-code" id="cb26"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Since surfing is the most common one, I will code the other missing cases as surfing</span></span>
 <span id="cb26-2"><a href="#cb26-2" aria-hidden="true" tabindex="-1"></a>df5[<span class="st">'Activity'</span>] <span class="op">=</span> df5[<span class="st">'Activity'</span>].fillna(<span class="st">"Surfing"</span>)</span>
 <span id="cb26-3"><a href="#cb26-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df5.isna().<span class="bu">any</span>()) <span class="co"># all clean!</span></span>
@@ -391,21 +390,6 @@ Sex            False
 Age            False
 Fatal (Y/N)    False
 dtype: bool</code></pre>
-</div>
-</div>
-<div class="cell" data-execution_count="80">
-<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Data visualization</span></span>
-<span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb28-3"><a href="#cb28-3" aria-hidden="true" tabindex="-1"></a><span class="co"># box plot</span></span>
-<span id="cb28-4"><a href="#cb28-4" aria-hidden="true" tabindex="-1"></a>plt.boxplot(df5[<span class="st">'Age'</span>])</span>
-<span id="cb28-5"><a href="#cb28-5" aria-hidden="true" tabindex="-1"></a><span class="co"># plt.show()</span></span>
-<span id="cb28-6"><a href="#cb28-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb28-7"><a href="#cb28-7" aria-hidden="true" tabindex="-1"></a><span class="co"># pie chart</span></span>
-<span id="cb28-8"><a href="#cb28-8" aria-hidden="true" tabindex="-1"></a>mylabels <span class="op">=</span> [<span class="st">"M"</span>, <span class="st">"F"</span>]</span>
-<span id="cb28-9"><a href="#cb28-9" aria-hidden="true" tabindex="-1"></a>plt.pie(df5[<span class="st">'Sex'</span>].value_counts(), labels<span class="op">=</span>mylabels, explode <span class="op">=</span> [<span class="fl">0.2</span>, <span class="dv">0</span>])</span>
-<span id="cb28-10"><a href="#cb28-10" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display">
-<p><img src="data_cleaning_files/figure-html/cell-16-output-1.png" class="img-fluid"></p>
 </div>
 </div>
 
