@@ -1,0 +1,1760 @@
+,Month,Year,Type,Country,Area,Activity,Sex,Age,Fatal (Y/N)
+0,July,2023,Unprovoked,USA,Florida,Swimming,F,26.0,N
+5,March,2022,Provoked,USA,Florida,Fishing,M,21.0,N
+7,January,2021,Unprovoked,USA,Hawaii,Snorkeling,M,73.0,N
+8,January,2021,Unprovoked,USA,Florida,Surfing,M,17.0,N
+15,August,2019,Unprovoked,USA,Florida,Standing,M,51.0,N
+17,March,2019,Unprovoked,USA,Florida,Boogie boarding,M,11.0,N
+19,July,2018,Unprovoked,USA,New York,Wading,F,12.0,N
+20,July,2018,Unprovoked,USA,South Carolina,Boogie boarding,F,11.0,N
+26,October,2017,Unprovoked,USA,Hawaii,Stand-Up Paddleboarding,M,22.0,N
+31,September,2016,Unprovoked,USA,California,Surfing,M,43.0,N
+32,May,2016,Unprovoked,USA,Florida,Swimming,F,57.0,N
+42,July,2013,Unprovoked,USA,Alabama,Walking in surf,F,50.0,N
+43,June,2013,Provoked,USA,Florida,Fishing for sharks,M,58.0,N
+47,June,2011,Unprovoked,USA,Florida,Wading,M,19.0,N
+48,May,2011,Unprovoked,USA,Texas,Standing or boogie boardin,F,22.0,N
+51,October,2010,Unprovoked,USA,Oregon,Surfing,M,22.0,N
+54,May,2010,Provoked,USA,Florida,Fishing,M,49.0,N
+57,November,2009,Unprovoked,USA,Florida,Surfing,M,18.0,N
+59,September,2008,Unprovoked,USA,Florida,Surfing,M,22.0,N
+60,September,2007,Unprovoked,USA,Florida,Surfing,F,15.0,N
+61,August,2007,Provoked,USA,North Carolina,Diving,M,22.0,N
+65,September,2006,Unprovoked,USA,Florida,Surfing,M,19.0,N
+66,September,2006,Unprovoked,USA,Florida,Swimming,M,55.0,N
+69,June,2006,Unprovoked,USA,Florida,Body boarding,F,9.0,N
+72,October,2005,Unprovoked,USA,California,Surfing,F,20.0,N
+74,April,2005,Unprovoked,USA,Texas,Surfing,M,37.0,N
+76,June,2004,Unprovoked,USA,Florida,In water with diving seabirds,F,22.0,N
+79,October,2003,Unprovoked,USA,Florida,Surfing,M,19.0,N
+80,May,2003,Provoked,USA,Florida,Surfing,M,34.0,N
+81,November,2002,Unprovoked,USA,California,Body boarding,M,48.0,N
+83,September,2002,Unprovoked,USA,California,Surfing,M,35.0,N
+84,April,2002,Unprovoked,USA,Florida,Swimming / Wading,M,29.0,N
+88,November,2000,Unprovoked,USA,Florida,Swimming,M,73.0,N
+89,August,2000,Unprovoked,USA,Florida,Standing,F,44.0,N
+91,September,1999,Unprovoked,USA,South Carolina,Wading,F,10.0,N
+94,November,1998,Unprovoked,USA,Florida,Surfing,M,14.0,N
+95,July,1998,Unprovoked,USA,Florida,Surfing,M,13.0,N
+97,October,1997,Unprovoked,USA,Florida,Surfing,M,12.0,N
+98,August,1997,Unprovoked,USA,Florida,Boogie boarding,M,17.0,N
+99,June,1997,Unprovoked,USA,Hawaii,Spearfishing / night diving,M,22.0,N
+101,August,1996,Unprovoked,USA,Hawaii,Body Boarding,M,19.0,N
+102,July,1996,Unprovoked,USA,Massachusetts,Swimming,M,46.0,N
+103,July,1996,Unprovoked,USA,Florida,Standing,F,63.0,N
+107,June,1995,Unprovoked,USA,California,Scuba diving (ascending using scooter),M,31.0,N
+108,June,1995,Unprovoked,USA,Hawaii,Swimming,M,38.0,N
+112,August,1993,Unprovoked,USA,California,Free diving for abalone (ascending),M,39.0,N
+117,March,1992,Unprovoked,USA,Oregon,Surfing (sitting on his board),M,21.0,N
+119,February,1990,Unprovoked,USA,Hawaii,Scuba diving & spearfishing,M,22.0,Y
+122,June,1988,Unprovoked,USA,Florida,Surfing,M,25.0,N
+126,November,1984,Unprovoked,USA,Florida,Surfing,M,13.0,N
+129,January,1983,Provoked,USA,North & South Carolina,Fishing,M,22.0,N
+131,July,1982,Unprovoked,USA,Florida,Swimming,M,17.0,N
+134,August,1980,Unprovoked,USA,Louisiana,Wading,M,22.0,N
+137,December,1977,Unprovoked,USA,Florida,Surfing,M,27.0,N
+138,June,1976,Unprovoked,USA,Florida,Skindiving,M,17.0,N
+139,June,1975,Unprovoked,USA,South Carolina,Standing,F,15.0,N
+140,March,1975,Unprovoked,USA,Florida,Floating in inner tube,M,14.0,N
+144,September,1970,Unprovoked,USA,South Carolina,Swimming,M,22.0,N
+170,August,1960,Provoked,USA,Florida,Holding shark on leader & dangling it above the water,M,15.0,N
+179,December,1952,Unprovoked,USA,California,Body surfing & treading water,M,17.0,Y
+252,May,2023,Unprovoked,USA,New Jersey,Surfing,F,15.0,N
+254,August,2022,Unprovoked,USA,South Carolina,Standing,F,22.0,N
+255,August,2021,Unprovoked,USA,Florida,Surfing,M,35.0,N
+259,June,2021,Unprovoked,USA,Florida,Standing,M,12.0,N
+261,November,2020,Unprovoked,USA,Hawaii,Snorkeling,F,35.0,N
+262,August,2020,Unprovoked,USA,California,Kayak fishing,M,22.0,N
+263,August,2020,Unprovoked,USA,Florida,Boogie boarding,F,50.0,N
+264,July,2020,Unprovoked,USA,Alabama,Swimming,M,14.0,N
+266,October,2019,Unprovoked,USA,Florida,Surfing,M,20.0,N
+268,September,2019,Unprovoked,USA,Hawaii,Surfing,F,22.0,N
+269,August,2019,Unprovoked,USA,Hawaii,Surfing,M,16.0,N
+273,August,2018,Unprovoked,USA,Massachusetts,Swimming,M,61.0,N
+274,July,2018,Unprovoked,USA,Florida,Wading,M,17.0,N
+275,June,2018,Provoked,USA,Florida,Fishing,M,22.0,N
+276,September,2017,Unprovoked,USA,Florida,Surfing,M,17.0,N
+282,December,2015,Unprovoked,USA,Hawaii,Paddle boarding,M,71.0,N
+285,June,2015,Unprovoked,USA,North Carolina,Swimming,M,18.0,N
+286,June,2015,Unprovoked,USA,Florida,Attempting to rescue a shark,F,17.0,N
+288,November,2014,Unprovoked,USA,Florida,Surfing,M,44.0,N
+292,December,2013,Unprovoked,USA,Hawaii,Kayaking / Fishing,M,57.0,Y
+308,June,2008,Unprovoked,USA,Florida,Wading,F,35.0,N
+310,October,2007,Unprovoked,USA,Hawaii,Floating,M,32.0,N
+312,August,2007,Unprovoked,USA,Florida,Surfing,M,16.0,N
+313,July,2007,Unprovoked,USA,California,Surfing,M,20.0,N
+315,May,2007,Unprovoked,USA,Florida,Surfing,F,21.0,N
+316,May,2007,Unprovoked,USA,Hawaii,Snorkeling,F,63.0,N
+318,May,2006,Unprovoked,USA,Hawaii,Surfing,M,31.0,N
+319,May,2006,Unprovoked,USA,Guam,Scuba diving,F,35.0,N
+320,November,2005,Unprovoked,USA,California,Surfing,M,25.0,N
+321,June,2005,Unprovoked,USA,Texas,Wading,M,6.0,N
+322,May,2005,Unprovoked,USA,Hawaii,Surfing,M,47.0,N
+325,September,2003,Unprovoked,USA,Florida,Surfing,M,21.0,N
+326,September,2003,Unprovoked,USA,South Carolina,"Standing, stepped on shark",M,15.0,N
+328,May,2003,Unprovoked,USA,Florida,Walking,F,9.0,N
+329,April,2003,Unprovoked,USA,Florida,Surfing,M,23.0,N
+332,September,2001,Unprovoked,USA,North Carolina,Swimming,F,23.0,N
+333,January,2001,Unprovoked,USA,California,Surfing,M,22.0,N
+336,October,2000,Unprovoked,USA,Florida,Swimming,M,69.0,N
+341,June,1999,Unprovoked,USA,Florida,Surfing,M,21.0,N
+342,June,1999,Unprovoked,USA,Florida,Splashing / wading,M,5.0,N
+346,April,1998,Unprovoked,USA,Oregon,Surfing (lying prone on his board),M,50.0,N
+349,August,1997,Unprovoked,USA,Texas,Wading,F,10.0,N
+353,September,1995,Unprovoked,USA,Florida,Swimming,F,19.0,N
+355,November,1992,Unprovoked,USA,California,Scuba diving (submerged),M,40.0,N
+358,November,1991,Unprovoked,USA,Hawaii,Snorkeling,F,41.0,Y
+359,July,1991,Unprovoked,USA,Florida,Swimming,M,22.0,N
+361,October,1990,Unprovoked,USA,Florida,Surfing,M,50.0,N
+362,August,1990,Unprovoked,USA,Texas,Wade fishing,M,18.0,N
+365,April,1989,Unprovoked,USA,Florida,Swimming,M,19.0,N
+367,June,1988,Unprovoked,USA,South Carolina,Sittting in water with his child,M,37.0,N
+369,January,1988,Provoked,USA,Louisiana,Fishing,M,22.0,N
+370,December,1986,Unprovoked,USA,California,Free diving  & spearfishing (submerged),M,27.0,N
+373,January,1983,Provoked,USA,South Carolina,Fishing,M,43.0,N
+375,September,1981,Unprovoked,USA,Florida,Surfing,M,28.0,N
+377,August,1980,Unprovoked,USA,Hawaii,Resting on body board,M,22.0,N
+380,March,1979,Unprovoked,USA,Florida,Surfing,M,27.0,N
+381,March,1979,Unprovoked,USA,California,Scuba diving (submerged),M,22.0,N
+382,January,1979,Unprovoked,USA,Hawaii,Fishing,M,22.0,Y
+383,August,1978,Unprovoked,USA,California,Wading,M,22.0,N
+384,August,1976,Unprovoked,USA,Oregon,Surfing,M,19.0,N
+394,September,1969,Unprovoked,USA,California,Free diving for abalone,M,53.0,N
+399,June,1968,Unprovoked,USA,Florida,Clamming,M,17.0,N
+400,July,1966,Unprovoked,USA,Texas,Fishing,M,14.0,N
+409,April,1963,Unprovoked,USA,Hawaii,Surfing,M,15.0,N
+412,June,1962,Unprovoked,USA,Florida,Rolled off raft,M,11.0,N
+415,April,1961,Unprovoked,USA,Florida,Spearfishing,M,22.0,N
+420,April,1958,Provoked,USA,Florida,Free diving,M,29.0,N
+422,February,1958,Provoked,USA,US Virgin Islands,Spearfishing on Scuba,M,18.0,N
+423,July,1956,Unprovoked,USA,South Carolina,Swimming,M,7.0,N
+486,July,2023,Unprovoked,USA,Florida,Spearfishing,M,22.0,N
+489,September,2022,Unprovoked,USA,Florida,Spearfishing,M,26.0,N
+491,March,2022,Unprovoked,USA,Florida,Surfing,M,20.0,N
+494,July,2021,Unprovoked,USA,New York,Swimming,M,22.0,N
+497,September,2020,Unprovoked,USA,Florida,Snorkeling,M,30.0,N
+499,March,2020,Unprovoked,USA,Florida,Surfing,M,22.0,N
+500,February,2020,Unprovoked,USA,Maui,Stand-Up Paddle boarding,M,22.0,N
+504,September,2018,Unprovoked,USA,Florida,Surfing,M,60.0,N
+507,December,2017,Unprovoked,USA,California,Surfing,F,35.0,N
+513,July,2017,Unprovoked,USA,Florida,Skimboarding,M,15.0,N
+514,June,2017,Unprovoked,USA,Florida,Surfing,M,22.0,N
+517,October,2016,Unprovoked,USA,Florida,Surfing,M,41.0,N
+519,September,2016,Unprovoked,USA,Hawaii,Swimming,F,51.0,N
+520,June,2016,Unprovoked,USA,Florida,Swimming,M,64.0,N
+523,October,2015,Unprovoked,USA,Florida,Body boarding,M,22.0,N
+524,July,2015,Unprovoked,USA,Florida,Surfing,M,25.0,N
+525,October,2014,Unprovoked,USA,Florida,Surfing,M,29.0,N
+527,November,2013,Unprovoked,USA,Florida,Surfing,M,22.0,N
+528,September,2013,Unprovoked,USA,Florida,Surfing,F,13.0,N
+530,August,2013,Unprovoked,USA,Florida,Fishing,M,17.0,N
+536,October,2012,Unprovoked,USA,Hawaii,Paddle boarding,M,55.0,N
+538,September,2012,Unprovoked,USA,Florida,Surfing,M,37.0,N
+540,May,2012,Unprovoked,USA,California,Paddle boarding,F,15.0,N
+549,March,2009,Unprovoked,USA,Florida,Surfing,F,17.0,N
+551,September,2008,Unprovoked,USA,Florida,Swimming,M,32.0,N
+552,August,2008,Unprovoked,USA,Florida,Surfing,M,19.0,N
+555,August,2007,Unprovoked,USA,Florida,Walking out of the water after surfing,M,19.0,N
+558,September,2006,Unprovoked,USA,Florida,Swimming,M,12.0,N
+561,November,2005,Unprovoked,USA,Florida,Surfing,M,15.0,N
+562,August,2005,Unprovoked,USA,Texas,Walking,M,12.0,N
+563,August,2005,Unprovoked,USA,North Carolina,Surfing,M,16.0,N
+564,April,2005,Unprovoked,USA,Florida,Wading,F,70.0,N
+565,September,2004,Unprovoked,USA,South Carolina,Jumping,F,17.0,N
+569,December,2003,Unprovoked,USA,Florida,Swimming,M,13.0,N
+570,October,2003,Unprovoked,USA,Florida,Surfing,M,46.0,N
+571,October,2003,Unprovoked,USA,Florida,Surfing,F,22.0,N
+574,February,2003,Unprovoked,USA,Florida,Swimming,M,54.0,N
+575,June,2002,Unprovoked,USA,Florida,Surfing,M,28.0,N
+576,May,2002,Provoked,USA,Florida,"Fishing, removing the shark from his line",M,55.0,N
+578,September,2001,Unprovoked,USA,North Carolina,Surfing,M,16.0,N
+579,June,2001,Unprovoked,USA,Texas,Swimming,M,14.0,N
+580,March,2001,Unprovoked,USA,Hawaii,Body-boarding,M,22.0,N
+581,June,2000,Unprovoked,USA,Alabama,Swimming,M,55.0,N
+584,February,1998,Unprovoked,USA,Florida,Swimming,M,22.0,N
+587,July,1995,Unprovoked,USA,Florida,Surfing,M,22.0,N
+591,July,1994,Unprovoked,USA,Florida,Surfing,M,15.0,N
+592,October,1993,Unprovoked,USA,Florida,Swimming,F,26.0,N
+593,December,1992,Unprovoked,USA,Hawaii,"Standing in waist-deep water, helping his father tend a gill net containing dead fish",M,10.0,N
+596,July,1990,Unprovoked,USA,Texas,Wading,F,53.0,N
+599,January,1989,Unprovoked,USA,Hawaii,Body boarding,M,10.0,N
+604,July,1985,Unprovoked,USA,South Carolina,Playing in knee-deep water,F,10.0,N
+608,September,1984,Unprovoked,USA,California,Skindiving,M,28.0,Y
+611,December,1981,Unprovoked,USA,California,Surfing,M,24.0,Y
+612,January,1981,Unprovoked,USA,Florida,Commercial spearfishing,M,25.0,N
+614,December,1976,Unprovoked,USA,California,"Diving for abalone (Hookah, submerged)",M,29.0,N
+618,October,1972,Unprovoked,USA,Florida,Surfing,M,17.0,N
+624,August,1966,Unprovoked,USA,Florida,Wading,M,8.0,N
+629,August,1964,Unprovoked,USA,Florida,Swimming,M,22.0,N
+634,April,1963,Unprovoked,USA,US Virgin Islands,Swimming,M,25.0,Y
+635,August,1962,Provoked,USA,California,Diving for abalone,M,39.0,N
+640,June,1960,Unprovoked,USA,Florida,Scuba diving,M,39.0,N
+648,June,1958,Unprovoked,USA,Florida,Walking,M,17.0,N
+726,January,2023,Provoked,USA,Florida,Spearishing,M,30.0,N
+728,August,2022,Unprovoked,USA,Florida,Snorkeling,M,10.0,N
+729,July,2022,Unprovoked,USA,Noirth Carolina,Surfing,F,22.0,N
+732,July,2021,Unprovoked,USA,California,Surfing,F,22.0,N
+733,June,2021,Unprovoked,USA,Florida,Swimming,M,14.0,N
+742,December,2019,Unprovoked,USA,California,Surfing,M,37.0,N
+743,July,2019,Unprovoked,USA,Florida,Boogie boarding,M,49.0,N
+745,March,2019,Unprovoked,USA,Oregon,Surfing,M,22.0,N
+746,January,2019,Unprovoked,USA,California,Surfing,M,19.0,N
+748,October,2018,Unprovoked,USA,Florida,Surfing,M,29.0,N
+756,August,2016,Unprovoked,USA,Florida,Surfing,M,25.0,N
+760,October,2015,Unprovoked,USA,Florida,Surfing,M,14.0,N
+761,August,2015,Unprovoked,USA,Florida,Walking,F,10.0,N
+763,July,2014,Provoked,USA,California,Swimming,M,22.0,N
+767,December,2013,Unprovoked,USA,Hawaii,Boogie boarding,M,29.0,N
+770,September,2013,Unprovoked,USA,Florida,Standing,M,25.0,N
+771,July,2013,Unprovoked,USA,Florida,Swimming,M,15.0,N
+773,June,2013,Unprovoked,USA,South Carolina,Boogie Boarding,F,10.0,N
+776,September,2012,Unprovoked,USA,Florida,Swimming,M,22.0,N
+786,December,2009,Provoked,USA,New Jersey,Diving,M,58.0,N
+788,July,2009,Unprovoked,USA,Texas,Wading,F,14.0,N
+789,July,2009,Unprovoked,USA,North Carolina,Swimming,F,26.0,N
+791,July,2008,Provoked,USA,Florida,Surfing,M,15.0,N
+796,December,2007,Unprovoked,USA,Hawaii,Surfing,M,52.0,N
+800,November,2007,Unprovoked,USA,Florida,Surfing,M,42.0,N
+803,January,2007,Unprovoked,USA,Hawaii,Surfing,M,24.0,N
+804,November,2006,Unprovoked,USA,Hawaii,Swimming,M,29.0,N
+805,October,2006,Unprovoked,USA,Texas,Surfing,M,22.0,N
+810,August,2005,Unprovoked,USA,South Carolina,Swimming,M,14.0,N
+811,July,2005,Unprovoked,USA,Florida,Wading,F,13.0,N
+813,September,2004,Unprovoked,USA,Oregon,Surfing,M,26.0,N
+814,June,2004,Unprovoked,USA,Florida,Swimming,M,8.0,N
+816,March,2004,Unprovoked,USA,Hawaii,Surfing,M,51.0,N
+818,October,2003,Unprovoked,USA,Hawaii,Surfing,F,13.0,N
+819,September,2003,Unprovoked,USA,Florida,Surfing,M,19.0,N
+821,April,2003,Unprovoked,USA,Florida,Surfing,M,22.0,N
+822,September,2002,Unprovoked,USA,Hawaii,Fishing from Surfboard,M,55.0,N
+823,September,2002,Unprovoked,USA,Florida,Boogie boarding,M,20.0,N
+827,August,2001,Unprovoked,USA,Florida,Boogie Boarding,M,18.0,N
+829,April,2001,Unprovoked,USA,Florida,Boogie boarding,M,14.0,N
+832,July,2000,Unprovoked,USA,Florida,Wading,F,20.0,N
+834,July,1999,Unprovoked,USA,Florida,Swimming with dolphins,M,43.0,N
+836,October,1998,Unprovoked,USA,Florida,Swimming,F,17.0,N
+838,August,1997,Unprovoked,USA,Florida,Surfing,M,22.0,N
+845,January,1994,Unprovoked,USA,Hawaii,Surfing,M,22.0,Y
+851,September,1989,Unprovoked,USA,California,Hookah diving for abalone (descending),M,38.0,N
+855,November,1986,Unprovoked,USA,Florida,Surfing,M,17.0,N
+857,August,1985,Unprovoked,USA,South Carolina,Wading,M,87.0,N
+858,May,1983,Unprovoked,USA,Florida,Surfing,M,15.0,N
+860,September,1982,Unprovoked,USA,California,Diving,M,36.0,N
+861,September,1982,Unprovoked,USA,California,Free diving for abalone from Zodiac (submerged),M,28.0,N
+868,January,1976,Unprovoked,USA,Hawaii,Scuba diving,M,22.0,Y
+873,May,1972,Unprovoked,USA,California,Free diving for abalone,M,32.0,N
+886,October,1963,Unprovoked,USA,Florida,"Surf fishing, wading",M,28.0,N
+891,August,1962,Unprovoked,USA,Texas,Surf fishing in waist-deep water,M,40.0,Y
+892,July,1962,Unprovoked,USA,Georgia,Playing in surf with his child  (9),M,41.0,N
+896,August,1960,Unprovoked,USA,Connecticut,Free diving,M,38.0,N
+906,May,1955,Provoked,USA,California,Spearfishing,M,28.0,N
+908,May,1952,Unprovoked,USA,California,Swimming on surface,M,22.0,N
+979,December,2021,Unprovoked,USA,Florida,Wing Foil Surfing,F,42.0,N
+980,June,2021,Unprovoked,USA,Florida,Standing,M,12.0,N
+984,April,2020,Unprovoked,USA,Florida,Surfing,F,22.0,N
+986,November,2019,Unprovoked,USA,Florida,Surfing,M,30.0,N
+990,September,2018,Unprovoked,USA,Florida,Surfing,M,39.0,N
+1001,March,2015,Unprovoked,USA,Hawaii,Standing / Snorkeling,M,58.0,N
+1007,January,2014,Unprovoked,USA,Hawaii,Free diving / Photographing pilot whales,M,22.0,N
+1009,June,2012,Unprovoked,USA,South Carolina,Swimming,F,18.0,N
+1010,May,2012,Unprovoked,USA,North Carolina,Wading,F,33.0,N
+1015,June,2010,Unprovoked,USA,South Carolina,Boogie Boarding,F,6.0,N
+1016,October,2009,Unprovoked,USA,California,Surfing,M,22.0,N
+1021,July,2008,Unprovoked,USA,Florida,Surfing,M,17.0,N
+1022,April,2008,Unprovoked,USA,Florida,Surfing,F,14.0,N
+1023,March,2008,Unprovoked,USA,Florida,Surfing,M,52.0,N
+1024,November,2007,Unprovoked,USA,Florida,Surfing,M,21.0,N
+1026,August,2007,Unprovoked,USA,California,Surfing,M,24.0,N
+1027,September,2006,Unprovoked,USA,Florida,Standing,M,33.0,N
+1035,March,2004,Unprovoked,USA,Florida,Surfing,M,22.0,N
+1036,October,2003,Unprovoked,USA,Hawaii,Wading near a fishing net,F,41.0,N
+1038,May,2003,Unprovoked,USA,Hawaii,Swimming,M,20.0,N
+1042,August,2001,Unprovoked,USA,Florida,Surfing,M,27.0,N
+1047,September,1999,Unprovoked,USA,Florida,Wading,F,61.0,N
+1050,June,1998,Unprovoked,USA,Florida,Surfing,M,18.0,N
+1054,September,1997,Unprovoked,USA,Florida,Surfing,M,12.0,N
+1058,July,1995,Unprovoked,USA,South Carolina,Swimming,F,7.0,N
+1059,June,1995,Unprovoked,USA,South Carolina,Surfing,M,22.0,N
+1060,June,1993,Unprovoked,USA,North Carolina,Swimming,F,60.0,N
+1067,June,1991,Unprovoked,USA,Florida,Swimming behind sailboat,M,31.0,N
+1071,October,1986,Unprovoked,USA,Florida,Surfing,M,28.0,N
+1073,May,1985,Unprovoked,USA,California,"Surfing, but lying prone on his board",M,22.0,N
+1074,September,1984,Unprovoked,USA,California,Wading,M,22.0,N
+1078,May,1981,Unprovoked,USA,Florida,Diving,M,22.0,N
+1082,July,1980,Unprovoked,USA,New Jersey,Body surfing,M,15.0,N
+1089,September,1976,Unprovoked,USA,Florida,Surfing,M,15.0,N
+1095,September,1970,Unprovoked,USA,Florida,Floating on a raft,M,18.0,N
+1105,April,1966,Unprovoked,USA,Puerto Rico,Swimming,M,25.0,N
+1114,August,1961,Unprovoked,USA,South Carolina,Wading,M,19.0,N
+1121,July,1959,Unprovoked,USA,California,Spearfishing (but on surface),M,25.0,N
+1128,July,1956,Unprovoked,USA,Florida,Wading,F,38.0,N
+1132,February,1955,Unprovoked,USA,California,Scuba diving,M,22.0,N
+1135,January,1954,Unprovoked,USA,Hawaii,Fishing,M,22.0,N
+1136,September,1953,Provoked,USA,New York,Surf fishing,M,15.0,N
+1138,July,1953,Unprovoked,USA,Hawaii,Accidentally dragged overboard from the sampan Holokahana into school of yellowfin tuna,M,22.0,N
+1140,August,1952,Unprovoked,USA,Hawaii,Swimming,M,22.0,Y
+1218,June,2023,Unprovoked,USA,Hawaii,Filming,M,22.0,N
+1220,October,2022,Unprovoked,USA,Louisiana,Shipwreck,M,40.0,N
+1222,June,2022,Unprovoked,USA,Florida,Swimming,F,35.0,N
+1227,July,2021,Unprovoked,USA,Florida,Standing,M,8.0,N
+1231,August,2020,Provoked,USA,Florida,Fishing,M,55.0,N
+1233,May,2020,Unprovoked,USA,California,Surfing,M,26.0,Y
+1235,July,2019,Unprovoked,USA,Florida,Surfing,M,23.0,N
+1236,June,2019,Unprovoked,USA,North Carolina,Standing,F,17.0,N
+1238,August,2018,Unprovoked,USA,California,Swimming,M,14.0,N
+1239,May,2018,Unprovoked,USA,South Carolina,Boogie boarding,M,10.0,N
+1240,April,2018,Unprovoked,USA,Hawaii,Body boarding,M,29.0,N
+1242,April,2017,Unprovoked,USA,Florida,Surfing,F,35.0,N
+1246,December,2016,Unprovoked,USA,Florida,Surfing,M,16.0,N
+1247,November,2016,Unprovoked,USA,Hawaii,Floating,F,58.0,N
+1248,July,2016,Unprovoked,USA,California,Kite surfing,M,61.0,N
+1250,June,2016,Unprovoked,USA,Hawaii,Surfing,M,22.0,N
+1251,June,2016,Unprovoked,USA,Texas,Floating in tube,F,6.0,N
+1254,November,2015,Unprovoked,USA,Florida,Swimming,F,22.0,N
+1257,September,2015,Unprovoked,USA,Florida,Surfing,M,14.0,N
+1263,October,2013,Unprovoked,USA,Florida,Wading,M,12.0,N
+1264,September,2013,Unprovoked,USA,Florida,Surfing,M,22.0,N
+1268,November,2012,Unprovoked,USA,Hawaii,Diving,M,30.0,N
+1270,June,2012,Unprovoked,USA,South Carolina,Swimming,M,22.0,N
+1278,September,2010,Unprovoked,USA,Oregon,Surfing,M,29.0,N
+1280,July,2010,Unprovoked,USA,Florida,Surfing,M,20.0,N
+1281,June,2010,Unprovoked,USA,North Carolina,Swimming,F,13.0,N
+1283,May,2010,Unprovoked,USA,Florida,Wading,F,10.0,N
+1287,September,2008,Unprovoked,USA,Florida,Surfing,M,43.0,N
+1288,March,2008,Unprovoked,USA,Florida,Jet skiing,M,8.0,N
+1292,October,2006,Unprovoked,USA,Florida,Fishing,M,15.0,N
+1293,October,2006,Unprovoked,USA,Florida,Playing soccer in the water,M,18.0,N
+1296,December,2005,Unprovoked,USA,Oregon,Surfing,M,30.0,N
+1297,October,2005,Unprovoked,USA,Hawaii,Surfing,M,22.0,N
+1302,October,2004,Unprovoked,USA,California,Surfing,M,16.0,N
+1306,September,2002,Provoked,USA,Florida,Fishing,M,22.0,N
+1309,July,2001,Unprovoked,USA,Georgia,Floating face-down in knee-deep water,M,35.0,N
+1313,July,2000,Unprovoked,USA,Florida,"Spearfishing, holding mesh bag with speared fish",F,55.0,N
+1324,May,1996,Unprovoked,USA,Florida,Surfing,M,27.0,N
+1330,November,1993,Unprovoked,USA,Florida,Swimming,M,30.0,N
+1331,October,1993,Unprovoked,USA,California,Surfing,M,26.0,N
+1332,July,1993,Unprovoked,USA,Florida,Playing,F,12.0,N
+1334,August,1991,Unprovoked,USA,South Carolina,Swimming,M,23.0,N
+1335,August,1991,Unprovoked,USA,Florida,Wading,F,10.0,N
+1338,April,1988,Unprovoked,USA,Florida,Swimming,M,24.0,N
+1346,October,1980,Unprovoked,USA,Oregon,Surfing,M,29.0,N
+1349,January,1978,Unprovoked,USA,Florida,Surfing,F,22.0,N
+1358,August,1969,Provoked,USA,Massachusetts,Fishing,M,28.0,N
+1359,August,1968,Unprovoked,USA,Florida,Standing,M,15.0,N
+1360,July,1968,Unprovoked,USA,South Carolina,Spearfishing using Scuba,M,33.0,N
+1362,February,1968,Unprovoked,USA,Florida,Surfing,M,17.0,N
+1370,November,1963,Provoked,USA,Florida,Testing anti-shark cage,M,22.0,N
+1372,January,1962,Unprovoked,USA,California,Spearfishing / Scuba diving (at surface),M,29.0,N
+1374,August,1961,Unprovoked,USA,Hawaii,"Net fishing, picking catch from the net",M,38.0,N
+1378,July,1960,Provoked,USA,Virginia,"Fishing, tossing netted shark onboard",M,41.0,N
+1380,November,1959,Unprovoked,USA,California,Swimming at surface through school of feeding 2.5' to 5’ sharks,M,21.0,N
+1381,August,1959,Provoked,USA,California,"Spearfishing with Joe Turner (24). Shark attracted to speared halibut on belt of one diver, tried to bite Ide’s speargun & he shot it in the mouth",M,32.0,N
+1386,August,1956,Unprovoked,USA,California,Swimming near pier,M,10.0,N
+1387,July,1956,Provoked,USA,California,Fishing,M,38.0,N
+1390,September,1955,Unprovoked,USA,California,Swimming near breakwater,M,16.0,N
+1450,April,2023,Unprovoked,USA,Hawaii,Surfing,M,58.0,N
+1452,August,2022,Unprovoked,USA,California,Paddleboarding,M,22.0,N
+1453,July,2022,Unprovoked,USA,New York,Lifeguard Training Exercise,M,17.0,N
+1459,December,2020,Unprovoked,USA,California,Swimming,M,22.0,N
+1460,October,2019,Provoked,USA,Florida,Surfing,M,32.0,N
+1463,November,2018,Unprovoked,USA,Florida,Surfing,M,48.0,N
+1468,September,2017,Unprovoked,USA,Florida,Surfing,M,22.0,N
+1471,April,2017,Unprovoked,USA,Florida,Swimming,F,51.0,N
+1472,October,2016,Unprovoked,USA,Hawaii,Surfing,M,36.0,N
+1473,September,2016,Unprovoked,USA,Florida,Surfing,M,16.0,N
+1475,April,2016,Unprovoked,USA,Florida,Spearfishing,M,26.0,N
+1477,October,2015,Unprovoked,USA,Florida,Surfing,M,21.0,N
+1479,September,2015,Unprovoked,USA,Florida,Photographing fish,M,16.0,N
+1480,August,2015,Provoked,USA,California,Spearfishing,M,57.0,N
+1487,July,2014,Unprovoked,USA,North Carolina,Body surfing,M,22.0,N
+1488,May,2014,Unprovoked,USA,Florida,Wading,F,44.0,N
+1490,December,2012,Unprovoked,USA,Hawaii,Surfing,M,60.0,N
+1493,March,2012,Unprovoked,USA,Florida,Kite Surfing,M,19.0,N
+1494,September,2011,Unprovoked,USA,Florida,Surfing,M,25.0,N
+1495,September,2011,Unprovoked,USA,Florida,Surfing,M,19.0,N
+1497,July,2010,Unprovoked,USA,Texas,Fishing,M,22.0,N
+1501,November,2009,Unprovoked,USA,Florida,Wading,M,10.0,N
+1505,September,2008,Unprovoked,USA,Florida,Surfing,M,52.0,N
+1506,July,2008,Unprovoked,USA,North Carolina,Swimming,F,14.0,N
+1508,June,2008,Unprovoked,USA,South Carolina,Body surfing,F,15.0,N
+1509,April,2008,Unprovoked,USA,Florida,Walking out of the water after surfing,M,18.0,N
+1511,October,2007,Unprovoked,USA,California,Surfing,M,22.0,N
+1512,September,2007,Unprovoked,USA,California,Surfing,M,22.0,N
+1513,July,2007,Unprovoked,USA,Florida,Surfing,M,51.0,N
+1516,July,2006,Unprovoked,USA,Oregon,Surfing,M,41.0,N
+1520,September,2005,Unprovoked,USA,North Carolina,Wading,F,18.0,N
+1529,June,2003,Unprovoked,USA,Florida,Standing,F,12.0,N
+1530,April,2003,Unprovoked,USA,Florida,Surfing,M,30.0,N
+1531,May,2002,Unprovoked,USA,California,Surfing,M,24.0,N
+1532,April,2002,Unprovoked,USA,Florida,Wading,M,41.0,N
+1534,October,2000,Unprovoked,USA,Florida,Surfing,M,23.0,N
+1537,October,1999,Unprovoked,USA,Florida,Surfing,M,22.0,N
+1538,August,1999,Unprovoked,USA,North Carolina,Surfing,M,22.0,N
+1540,February,1999,Unprovoked,USA,Florida,Surfing,M,25.0,N
+1544,August,1996,Unprovoked,USA,California,Free diving for abalone,M,36.0,N
+1548,September,1994,Unprovoked,USA,Hawaii,Jumped off rocks into white water,F,12.0,N
+1552,February,1992,Unprovoked,USA,Hawaii,Body boarding,M,22.0,Y
+1555,February,1990,Unprovoked,USA,Florida,Board sailing,M,33.0,N
+1557,September,1989,Provoked,USA,Florida,"Fishing, stepped on hooked shark's head",M,51.0,N
+1559,October,1988,Unprovoked,USA,Florida,Surfing,M,15.0,N
+1561,August,1988,Provoked,USA,Louisiana,Diving in Sharkey's Reef restaurant’s aquarium,M,22.0,N
+1562,July,1988,Unprovoked,USA,Florida,Swimming,F,15.0,N
+1564,April,1988,Unprovoked,USA,California,Surfing,M,22.0,N
+1571,November,1978,Unprovoked,USA,Hawaii,Surfing,M,22.0,N
+1575,July,1976,Unprovoked,USA,Florida,Spearfishing,M,24.0,N
+1579,September,1970,Unprovoked,USA,Florida,Scuba diving,M,22.0,N
+1582,June,1969,Unprovoked,USA,Florida,Wading,M,8.0,N
+1583,May,1969,Provoked,USA,Florida,Diving,M,23.0,N
+1585,March,1969,Unprovoked,USA,Hawaii,Surfing,M,16.0,N
+1590,August,1964,Unprovoked,USA,Florida,Spearfishing using scuba,M,28.0,N
+1607,December,1960,Unprovoked,USA,Hawaii,Swept out to sea while net fishing,M,22.0,Y
+1613,May,1959,Unprovoked,USA,California,Treading water,M,18.0,Y
+1620,June,1958,Provoked,USA,Florida,Wading,M,59.0,N
+1623,September,1956,Unprovoked,USA,Florida,Surf fishing,M,27.0,N
+1716,September,2022,Unprovoked,USA,Hawaii,Swimming  or Snorkeling,F,51.0,N
+1717,July,2022,Unprovoked,USA,New York,Lifeguard Exercises,M,22.0,N
+1722,December,2020,Unprovoked,USA,Oregon,Surfing,M,20.0,N
+1724,August,2020,Unprovoked,USA,Florida,Surfing,M,14.0,N
+1726,June,2020,Unprovoked,USA,North Carolina,Body Surfing,M,16.0,N
+1729,May,2019,Unprovoked,USA,Hawaii,Surfing,M,22.0,N
+1732,June,2018,Unprovoked,USA,Georgia,Standing,F,11.0,N
+1738,November,2017,Unprovoked,USA,Hawaii,Surfing,M,20.0,N
+1741,April,2017,Unprovoked,USA,Florida,Paddle boarding,F,10.0,N
+1742,April,2017,Unprovoked,USA,Florida,Swimming,M,16.0,N
+1743,September,2016,Unprovoked,USA,Florida,Wading,M,60.0,N
+1745,May,2016,Unprovoked,USA,Florida,Swimming,F,11.0,N
+1746,May,2016,Unprovoked,USA,Louisiana,Wading,F,33.0,N
+1748,January,2016,Unprovoked,USA,Hawaii,Surfing,M,22.0,N
+1749,October,2015,Unprovoked,USA,Hawaii,Body boarding,M,10.0,N
+1750,August,2015,Unprovoked,USA,California,Surfing,F,54.0,N
+1751,August,2015,Unprovoked,USA,California,Surfing,M,21.0,N
+1756,July,2014,Unprovoked,USA,Florida,Surfing,M,14.0,N
+1757,May,2014,Unprovoked,USA,Georgia,Surfing,M,12.0,N
+1759,November,2013,Unprovoked,USA,Hawaii,Snorkeling,F,58.0,N
+1761,October,2013,Unprovoked,USA,Hawaii,Diving,M,45.0,N
+1763,November,2012,Unprovoked,USA,Hawaii,Surfing,M,43.0,N
+1766,June,2012,Unprovoked,USA,Florida,Swimming,M,12.0,N
+1767,June,2012,Unprovoked,USA,South Carolina,Swimming,M,16.0,N
+1768,April,2012,Unprovoked,USA,Hawaii,Surfing,M,28.0,N
+1772,August,2011,Unprovoked,USA,North Carolina,Surfing,M,21.0,N
+1775,October,2010,Unprovoked,USA,Maine,Scuba diving,M,30.0,N
+1777,July,2010,Provoked,USA,Florida,Fishing,M,22.0,N
+1780,January,2010,Unprovoked,USA,Florida,Spearfishing,M,32.0,N
+1783,September,2007,Unprovoked,USA,Florida,Surfing,M,23.0,N
+1784,September,2007,Unprovoked,USA,Florida,Snorkeling,M,14.0,N
+1786,July,2006,Unprovoked,USA,South Carolina,Body boarding,F,14.0,N
+1787,June,2006,Unprovoked,USA,Florida,Surfing,M,24.0,N
+1788,April,2006,Provoked,USA,Florida,Fishing,M,35.0,N
+1789,January,2006,Unprovoked,USA,Florida,Surfing,M,21.0,N
+1791,November,2005,Unprovoked,USA,Florida,Surfing,M,18.0,N
+1792,October,2005,Unprovoked,USA,Florida,Treading water/ Surfing,M,48.0,N
+1796,April,2003,Unprovoked,USA,Florida,Surfing,M,17.0,N
+1797,April,2003,Unprovoked,USA,Florida,Jumping,M,11.0,N
+1798,November,2002,Unprovoked,USA,Florida,Surfing,M,21.0,N
+1799,July,2002,Unprovoked,USA,North Carolina,Standing,F,9.0,N
+1800,June,2002,Unprovoked,USA,Florida,Swimming,F,11.0,N
+1801,June,2002,Unprovoked,USA,Florida,Surfing,M,50.0,N
+1802,May,2002,Unprovoked,USA,Florida,Floating on a raft,M,16.0,N
+1804,September,2001,Provoked,USA,Florida,Fishing,M,44.0,N
+1807,July,2001,Unprovoked,USA,Florida,Surfing,M,48.0,N
+1808,July,2001,Unprovoked,USA,Florida,Boogie boarding,M,18.0,N
+1813,September,2000,Unprovoked,USA,Florida,Swimming / Body surfing,M,25.0,N
+1815,June,2000,Unprovoked,USA,Texas,Surfing,M,17.0,N
+1816,September,1999,Unprovoked,USA,Florida,Wading with surfboard,M,39.0,N
+1817,August,1999,Unprovoked,USA,Florida,Surfing,M,28.0,N
+1818,August,1999,Unprovoked,USA,Florida,Body surfing,M,62.0,N
+1819,July,1999,Unprovoked,USA,Hawaii,Surfing,M,43.0,N
+1821,August,1997,Unprovoked,USA,Florida,Wading / Surfing,M,19.0,N
+1823,September,1995,Unprovoked,USA,Florida,Surfing,M,17.0,N
+1824,September,1995,Unprovoked,USA,California,Windsurfing,M,25.0,N
+1826,January,1994,Unprovoked,USA,Florida,Surfing,M,22.0,N
+1830,December,1992,Unprovoked,USA,Hawaii,Lying on surfboard,M,30.0,N
+1832,September,1992,Unprovoked,USA,Florida,Surf fishing,M,22.0,N
+1834,November,1991,Unprovoked,USA,Hawaii,"Fishing from rocks, swept out to sea by large wave & treading water",M,22.0,Y
+1835,July,1991,Unprovoked,USA,Florida,Swimming from makeshift raft  to life vest after fishing boat sank,M,42.0,N
+1836,April,1991,Unprovoked,USA,Hawaii,Sitting on surfboard,M,22.0,N
+1837,August,1990,Unprovoked,USA,Texas,Surfing,M,22.0,N
+1839,June,1989,Unprovoked,USA,Hawaii,Fell off surfboard 20' from shore,M,22.0,N
+1844,July,1987,Unprovoked,USA,Texas,Body surfing,F,32.0,N
+1845,February,1985,Unprovoked,USA,Florida,Surfing,M,16.0,N
+1847,July,1983,Unprovoked,USA,Florida,Floating on air mattress,M,17.0,N
+1849,September,1981,Unprovoked,USA,Florida,Surfing,M,24.0,N
+1850,August,1981,Unprovoked,USA,Florida,Surfing,M,15.0,N
+1854,August,1978,Unprovoked,USA,Florida,Floating on inner tube raft,M,27.0,N
+1857,July,1975,Unprovoked,USA,Florida,Swimming,F,14.0,N
+1861,November,1973,Unprovoked,USA,Florida,Surfing,M,13.0,N
+1865,August,1969,Unprovoked,USA,Florida,Floating on his back,M,22.0,N
+1867,July,1967,Unprovoked,USA,Florida,Snorkeling,M,20.0,N
+1870,January,1966,Unprovoked,USA,California,Free diving / spearfishing (resting on the surface),M,29.0,N
+1873,February,1965,Unprovoked,USA,Massachusetts,Scuba diving,M,18.0,N
+1877,July,1962,Unprovoked,USA,South Carolina,Standing,M,21.0,N
+1885,August,1959,Unprovoked,USA,Florida,Spearfishing on Scuba,M,26.0,Y
+1955,July,2023,Unprovoked,USA,South Carolina,Boogie boarding,M,60.0,N
+1958,October,2022,Provoked,USA,Mississippi,Fishing,M,22.0,N
+1959,July,2022,Unprovoked,USA,Florida,Lobstering,M,13.0,N
+1960,July,2022,Unprovoked,USA,Florida,Wading,M,33.0,N
+1962,April,2022,Unprovoked,USA,Florida,Kayaking,M,22.0,N
+1968,November,2019,Unprovoked,USA,Florida,Surfing,M,9.0,N
+1969,August,2019,Unprovoked,USA,Florida,Wading,M,9.0,N
+1970,June,2019,Unprovoked,USA,North Carolina,Surfing,M,19.0,N
+1974,May,2018,Unprovoked,USA,Florida,Standing,M,12.0,N
+1976,March,2018,Unprovoked,USA,Hawaii,Stand-Up Paddleboarding,M,25.0,N
+1977,December,2017,Unprovoked,USA,Hawaii,Surfing,F,54.0,N
+1979,September,2017,Unprovoked,USA,Florida,Surfing,M,18.0,N
+1980,July,2017,Unprovoked,USA,Washington,Surfing,M,22.0,N
+1985,October,2016,Unprovoked,USA,Florida,Surfng,M,32.0,N
+1986,September,2016,Unprovoked,USA,South Carolina,Boogie boarding,F,12.0,N
+1987,September,2016,Unprovoked,USA,California,Spearfishing,M,22.0,N
+1988,May,2016,Unprovoked,USA,Hawaii,Floating,M,59.0,N
+1990,September,2015,Unprovoked,USA,Florida,Surfing,M,22.0,N
+1992,June,2015,Unprovoked,USA,South Carolina,Standing,M,9.0,N
+1993,May,2015,Unprovoked,USA,Florida,Surfing,M,18.0,N
+1998,October,2014,Unprovoked,USA,Florida,Surfing,M,15.0,N
+1999,August,2014,Unprovoked,USA,Florida,Swimming,F,45.0,N
+2000,July,2014,Unprovoked,USA,South Carolina,Body surfing,M,19.0,N
+2001,June,2014,Unprovoked,USA,Delaware,Standing,M,16.0,N
+2002,October,2013,Unprovoked,USA,Florida,Wading,M,6.0,N
+2003,August,2013,Unprovoked,USA,California,Surfing,F,22.0,N
+2006,June,2013,Unprovoked,USA,South Carolina,Swimming,M,14.0,N
+2008,June,2013,Unprovoked,USA,Florida,Surfing,F,22.0,N
+2009,May,2013,Unprovoked,USA,Florida,Surfing,M,16.0,N
+2011,April,2013,Unprovoked,USA,Hawaii,Surfing,M,58.0,N
+2014,May,2012,Unprovoked,USA,Florida,Swimming,F,47.0,N
+2015,December,2011,Unprovoked,USA,Florida,Surfing,M,27.0,N
+2017,September,2011,Unprovoked,USA,Florida,Spearfishing,M,21.0,N
+2020,July,2011,Unprovoked,USA,Texas,Surf fishing,M,22.0,N
+2023,August,2010,Unprovoked,USA,North Carolina,Surfing,M,25.0,N
+2024,July,2010,Unprovoked,USA,South Carolina,Standing,M,16.0,N
+2030,April,2009,Unprovoked,USA,Florida,Surfing,M,20.0,N
+2032,August,2008,Unprovoked,USA,Florida,Surfing,M,26.0,N
+2035,May,2008,Unprovoked,USA,North Carolina,Surfing,M,9.0,N
+2038,July,2007,Unprovoked,USA,California,Surf paddling,M,22.0,N
+2039,July,2007,Unprovoked,USA,North Carolina,Wading,F,30.0,N
+2045,July,2006,Unprovoked,USA,Florida,Surfing,M,14.0,N
+2048,October,2005,Unprovoked,USA,Florida,Wading,M,15.0,N
+2050,June,2005,Unprovoked,USA,Florida,Swimming,M,20.0,N
+2051,March,2005,Provoked,USA,New Mexico,Diving in aquarium display tank,M,45.0,N
+2056,September,2003,Unprovoked,USA,Florida,Body boarding,M,18.0,N
+2057,September,2003,Unprovoked,USA,Florida,Wade-fishing,M,22.0,N
+2058,April,2003,Unprovoked,USA,Florida,Surfing,M,36.0,N
+2060,October,2002,Unprovoked,USA,Florida,Surfing,M,21.0,N
+2061,June,2002,Unprovoked,USA,Florida,Swimming,M,10.0,N
+2062,April,2002,Unprovoked,USA,Florida,"Surfing, but standing in water alongside board",M,34.0,N
+2063,March,2002,Unprovoked,USA,Florida,Wading,F,11.0,N
+2065,August,2001,Unprovoked,USA,Florida,Standing,F,29.0,N
+2068,August,2000,Unprovoked,USA,Florida,Jumped into the water,M,69.0,Y
+2070,November,1999,Unprovoked,USA,Florida,Surfing,M,19.0,N
+2072,October,1997,Unprovoked,USA,Hawaii,Body boarding or surfing,M,19.0,N
+2073,August,1997,Unprovoked,USA,Florida,Floating on raft,F,12.0,N
+2075,August,1996,Unprovoked,USA,Florida,Wade fishing,M,21.0,N
+2078,August,1995,Unprovoked,USA,Florida,Surfing,M,16.0,N
+2079,August,1995,Unprovoked,USA,South Carolina,Riding waves on a board,F,14.0,N
+2080,June,1995,Unprovoked,USA,California,Kayaking,F,22.0,N
+2087,July,1990,Unprovoked,USA,Florida,Surfing,M,17.0,N
+2090,October,1988,Unprovoked,USA,Oregon,Surfing (sitting on his board),M,21.0,N
+2093,October,1985,Unprovoked,USA,Hawaii,Body boarding,M,33.0,N
+2097,February,1982,Unprovoked,USA,Florida,Swimming,F,75.0,Y
+2099,August,1981,Unprovoked,USA,Florida,"16' catamaran capsized previous night, occupants stayed with wreckage until morning, then attempted to swim ashore",F,19.0,Y
+2105,June,1975,Unprovoked,USA,South Carolina,Swimming,M,18.0,N
+2114,October,1970,Unprovoked,USA,Florida,Surfing,M,22.0,N
+2117,October,1969,Unprovoked,USA,Hawaii,Diving,M,22.0,N
+2125,April,1965,Unprovoked,USA,Florida,Spearfishing,M,28.0,N
+2127,February,1964,Unprovoked,USA,Florida,Floating,M,12.0,N
+2131,July,1961,Provoked,USA,New York,Spearfishing,M,57.0,N
+2136,May,1959,Unprovoked,USA,Florida,Spearfishing,M,19.0,N
+2137,October,1958,Unprovoked,USA,California,Swimming near jetty,M,15.0,N
+2140,April,1955,Unprovoked,USA,Hawaii,"Fishing from boat, Kaimamla",M,22.0,N
+2143,January,1953,Unprovoked,USA,Florida,Standing,F,22.0,N
+2144,December,1952,Unprovoked,USA,Hawaii,Swimming from fishing boat setting nets,M,40.0,Y
+2207,May,2023,Unprovoked,USA,Florida,Spearfishing,M,22.0,N
+2208,November,2022,Unprovoked,USA,Florida,Swimming,F,10.0,N
+2210,June,2022,Unprovoked,USA,Florida,Scalloping,F,17.0,N
+2211,August,2021,Unprovoked,USA,Maryland,Swimming,F,12.0,N
+2212,September,2020,Unprovoked,USA,Florida,Surfing,M,15.0,N
+2213,June,2020,Unprovoked,USA,Florida,Playing,M,7.0,N
+2215,September,2019,Unprovoked,USA,Florida,Surfing,M,13.0,N
+2217,August,2019,Unprovoked,USA,Florida,Surfing,M,20.0,N
+2218,May,2019,Unprovoked,USA,Hawaii,Swimming with sharks,F,34.0,N
+2219,March,2019,Unprovoked,USA,Hawaii,Swimming,M,58.0,N
+2223,May,2018,Provoked,USA,Florida,Fishing,M,52.0,N
+2227,September,2017,Unprovoked,USA,Florida,Swimming,M,22.0,N
+2228,July,2017,Unprovoked,USA,California,SUP,M,50.0,N
+2230,June,2017,Unprovoked,USA,Florida,Spearfishing,M,22.0,N
+2231,April,2017,Unprovoked,USA,South Carolina,Surfing,F,33.0,N
+2232,April,2017,Unprovoked,USA,Hawaii,Surfing,M,28.0,N
+2234,October,2016,Unprovoked,USA,Florida,Surfing,M,21.0,N
+2239,April,2016,Unprovoked,USA,Florida,Fishing,M,34.0,N
+2243,November,2015,Unprovoked,USA,Florida,Wading,F,28.0,N
+2249,May,2015,Unprovoked,USA,Florida,Standing,F,14.0,N
+2250,April,2015,Unprovoked,USA,Florida,Wading,M,63.0,N
+2252,August,2014,Unprovoked,USA,Florida,Body surfing,F,13.0,N
+2253,August,2014,Unprovoked,USA,Florida,Surfing,M,50.0,N
+2254,June,2014,Unprovoked,USA,Texas,Kneeling in the water,F,14.0,N
+2258,February,2013,Unprovoked,USA,Florida,Surfing,M,16.0,N
+2260,December,2012,Unprovoked,USA,Florida,Swimming,M,22.0,N
+2262,September,2012,Unprovoked,USA,Florida,Surfing,M,52.0,N
+2263,June,2012,Unprovoked,USA,South Carolina,Swimming,M,22.0,N
+2264,March,2012,Unprovoked,USA,Florida,Surfing,M,61.0,N
+2267,July,2011,Unprovoked,USA,Texas,Swimming,M,12.0,N
+2273,July,2009,Unprovoked,USA,Florida,Boogie Boarding,F,12.0,N
+2278,June,2006,Provoked,USA,Florida,Fishing,M,22.0,N
+2279,May,2006,Unprovoked,USA,Hawaii,Spearfishing,M,26.0,N
+2283,October,2005,Provoked,USA,Florida,Wading,M,15.0,N
+2285,August,2004,Unprovoked,USA,Florida,Walking,F,38.0,N
+2289,March,2004,Unprovoked,USA,Hawaii,Snorkeling,F,22.0,N
+2292,September,2003,Unprovoked,USA,Florida,Surfing,M,16.0,N
+2295,August,2002,Unprovoked,USA,Florida,Surfing,M,27.0,N
+2296,March,2002,Unprovoked,USA,Florida,Swimming /  boogie boarding,M,20.0,N
+2297,August,2001,Unprovoked,USA,Florida,Surfing,M,32.0,N
+2302,October,2000,Unprovoked,USA,Florida,Surfing,M,23.0,N
+2303,August,2000,Provoked,USA,Alaska,Conducting research,M,22.0,N
+2305,July,2000,Unprovoked,USA,Texas,Jumping,M,5.0,N
+2308,March,2000,Unprovoked,USA,Louisiana,Spearfishing,M,39.0,N
+2310,November,1998,Unprovoked,USA,Florida,Walking,M,13.0,N
+2316,November,1996,Unprovoked,USA,Florida,Surfing,M,26.0,N
+2317,July,1996,Unprovoked,USA,Florida,Swimming,M,9.0,N
+2319,January,1996,Unprovoked,USA,Hawaii,Swimming with mask & snorkel,M,53.0,N
+2321,August,1995,Unprovoked,USA,North Carolina,Swimming,M,16.0,N
+2323,June,1993,Unprovoked,USA,Hawaii,Paddling on surfboard or body board,M,22.0,N
+2324,August,1992,Provoked,USA,Florida,Snorkeling,M,26.0,N
+2330,December,1989,Provoked,USA,Hawaii,On board 51' fishing vessel One Ki,M,22.0,N
+2331,April,1989,Unprovoked,USA,Hawaii,Paddling on surfboard,M,22.0,N
+2332,January,1989,Unprovoked,USA,Hawaii,Swimming in strong current with 3 others when he disappeared,M,22.0,Y
+2333,March,1988,Unprovoked,USA,Hawaii,Body surfing,M,22.0,N
+2338,April,1986,Unprovoked,USA,Hawaii,"Fishing, fell from rocks & disappeared",M,22.0,Y
+2340,July,1985,Unprovoked,USA,Florida,Wading,F,13.0,N
+2341,September,1984,Unprovoked,USA,Florida,Surfing,M,16.0,N
+2346,October,1982,Unprovoked,USA,Florida,Windsurfing,M,26.0,N
+2347,September,1982,Unprovoked,USA,Florida,Surfing,M,20.0,N
+2348,October,1981,Unprovoked,USA,Florida,Surfing,M,24.0,N
+2350,March,1981,Unprovoked,USA,Florida,Surfing,M,24.0,N
+2352,August,1980,Unprovoked,USA,North Carolina,Wading,F,10.0,N
+2355,June,1978,Unprovoked,USA,Florida,Surfing,M,17.0,N
+2359,August,1976,Unprovoked,USA,North Carolina,"Surfing, fell off surfboard",M,23.0,N
+2364,July,1974,Unprovoked,USA,California,Free diving for abalone (submerged),M,36.0,N
+2368,July,1969,Unprovoked,USA,California,Free diving for abalone but at surface,M,22.0,N
+2372,September,1966,Provoked,USA,Hawaii,Fishing,M,20.0,N
+2374,March,1964,Unprovoked,USA,Florida,Skin diving,M,38.0,N
+2378,July,1962,Unprovoked,USA,Georgia,Dived from inner-tube,M,13.0,N
+2389,May,1957,Unprovoked,USA,Florida,3 men & 2 boys picked up wearing life jackets and with inner tube,M,22.0,N
+2390,February,1957,Unprovoked,USA,Florida,Skindiving for specimens,M,22.0,N
+2392,August,1955,Provoked,USA,California,Surfing,M,25.0,N
+2462,April,2023,Unprovoked,USA,Florida,Spearfishing,M,22.0,N
+2463,March,2023,Unprovoked,USA,Hawaii,Swimming,M,60.0,N
+2465,June,2022,Unprovoked,USA,Florida,Jumped into water,M,22.0,N
+2467,April,2022,Unprovoked,USA,Florida,Standing,M,15.0,N
+2469,August,2021,Unprovoked,USA,Florida,Surfing,M,41.0,N
+2470,April,2021,Unprovoked,USA,Florida,Boggie boarding,M,54.0,N
+2474,September,2018,Unprovoked,USA,Massachusetts,Boogie boarding,M,26.0,Y
+2480,March,2017,Unprovoked,USA,Florida,Surfing,M,58.0,N
+2481,September,2016,Unprovoked,USA,Florida,Surfing,M,36.0,N
+2482,August,2016,Unprovoked,USA,Florida,Surfing,M,37.0,N
+2484,November,2015,Unprovoked,USA,Florida,Surfing,M,22.0,N
+2485,October,2015,Unprovoked,USA,Florida,Surfing,M,21.0,N
+2486,September,2015,Unprovoked,USA,Hawaii,Spearfishing,M,27.0,N
+2487,June,2015,Unprovoked,USA,South Carolina,Playing in the water,M,12.0,N
+2491,October,2014,Unprovoked,USA,Florida,Fishing,F,40.0,N
+2494,September,2013,Unprovoked,USA,Florida,Surfing,M,50.0,N
+2495,October,2012,Unprovoked,USA,California,Windsurfing,M,42.0,N
+2496,September,2012,Unprovoked,USA,Florida,Surfing,M,22.0,N
+2497,September,2012,Unprovoked,USA,Florida,Surfing,M,32.0,N
+2498,July,2012,Unprovoked,USA,Hawaii,Surfing,M,44.0,N
+2499,June,2012,Unprovoked,USA,Florida,Swimming,M,6.0,N
+2502,March,2012,Unprovoked,USA,Florida,Surfing,M,21.0,N
+2507,July,2010,Unprovoked,USA,Florida,Surfing,M,55.0,N
+2510,August,2009,Unprovoked,USA,California,Surfing,M,22.0,N
+2511,May,2009,Provoked,USA,Florida,Swimming,M,22.0,N
+2512,April,2009,Unprovoked,USA,California,Spearfishing,M,22.0,N
+2519,September,2007,Unprovoked,USA,California,Surfing,F,22.0,N
+2520,July,2007,Unprovoked,USA,Hawaii,Snorkeling,M,36.0,N
+2521,April,2007,Unprovoked,USA,Florida,Playing on a sandbar,M,7.0,N
+2522,October,2006,Unprovoked,USA,Oregon,Surfing,M,22.0,N
+2523,July,2006,Unprovoked,USA,South Carolina,Swimming,F,21.0,N
+2527,May,2004,Unprovoked,USA,California,Surfing,M,44.0,N
+2528,March,2004,Unprovoked,USA,Florida,Swimming,M,61.0,N
+2529,August,2003,Unprovoked,USA,California,"Swimming, wearing black wetsuit & swim fins",F,50.0,Y
+2530,July,2002,Unprovoked,USA,North Carolina,Swimming,F,15.0,N
+2532,August,2001,Unprovoked,USA,Florida,Surfing,M,17.0,N
+2537,October,1999,Unprovoked,USA,Hawaii,"Surfing, lying on surfboard",M,16.0,N
+2543,November,1997,Unprovoked,USA,Florida,Swimming,M,32.0,N
+2547,October,1995,Unprovoked,USA,Florida,Surfing,M,39.0,N
+2548,August,1995,Unprovoked,USA,North Carolina,Swimming,M,23.0,N
+2549,July,1995,Unprovoked,USA,Florida,Standing,M,18.0,N
+2552,November,1994,Unprovoked,USA,Hawaii,"Surfing, paddling seawards",F,34.0,N
+2553,May,1994,Unprovoked,USA,Florida,Surfing,M,22.0,N
+2557,March,1993,Unprovoked,USA,California,Free diving & spearfishing (ascending),M,55.0,N
+2559,October,1989,Unprovoked,USA,Texas,Surfing,M,12.0,N
+2560,August,1989,Unprovoked,USA,Florida,Swimming,M,21.0,N
+2561,April,1989,Unprovoked,USA,Washington,Surfing (lying prone on his board),M,22.0,N
+2562,October,1988,Unprovoked,USA,Florida,Surfing,M,30.0,N
+2563,July,1987,Unprovoked,USA,Florida,Surfing,M,27.0,N
+2564,July,1987,Unprovoked,USA,Texas,Wading,F,16.0,N
+2570,October,1983,Unprovoked,USA,Florida,Surfing,M,16.0,N
+2574,July,1982,Unprovoked,USA,Florida,Swimming,F,19.0,N
+2575,June,1982,Unprovoked,USA,South Carolina,Swimming,M,20.0,N
+2577,May,1981,Unprovoked,USA,Florida,Free diving,M,32.0,N
+2588,March,1968,Unprovoked,USA,Florida,Surfing,M,20.0,N
+2594,January,1965,Provoked,USA,California,Surfing,M,15.0,N
+2598,January,1964,Unprovoked,USA,California,Spearfishing / Scuba diving (at surface),M,21.0,N
+2611,June,1958,Provoked,USA,Florida,"Swimming, towing the shark",M,22.0,N
+2688,August,2023,Unprovoked,USA,New York,Wading,F,65.0,N
+2689,July,2023,Unprovoked,USA,New York,Swimming,M,49.0,N
+2690,May,2023,Unprovoked,USA,Florida,Spearfishing,M,20.0,N
+2694,July,2022,Unprovoked,USA,New York,Surfing,M,16.0,N
+2695,June,2022,Unprovoked,USA,New York,Swimming,M,22.0,N
+2696,April,2022,Provoked,USA,New Jersey,Feeding sharks & stingrays,F,12.0,N
+2697,November,2021,Unprovoked,USA,Hawaii,Spearfishing,F,27.0,N
+2699,July,2021,Unprovoked,USA,Florida,Spearfishing,M,36.0,Y
+2700,May,2021,Unprovoked,USA,Florida,Wading,F,21.0,N
+2701,January,2021,Unprovoked,USA,Hawaii,Swimming,F,68.0,N
+2702,October,2020,Unprovoked,USA,Florida,Body Surfing,M,31.0,N
+2703,August,2020,Unprovoked,USA,Florida,Standing,M,23.0,N
+2704,July,2020,Unprovoked,USA,Maine,Swimming,F,63.0,Y
+2708,August,2019,Provoked,USA,Florida,Surfing,M,40.0,N
+2711,June,2019,Unprovoked,USA,Florida,Surfing,M,18.0,N
+2713,August,2017,Provoked,USA,Massachusetts,Fishing,M,34.0,N
+2716,April,2017,Unprovoked,USA,Florida,Surfing,M,17.0,N
+2719,October,2015,Unprovoked,USA,Hawaii,Swimming,M,44.0,N
+2721,July,2015,Provoked,USA,California,Kayak Fishing,M,31.0,N
+2723,May,2015,Unprovoked,USA,Florida,Swimming,M,22.0,N
+2729,July,2014,Unprovoked,USA,North Carolina,Swimming,M,15.0,N
+2730,July,2014,Unprovoked,USA,Hawaii,Swimming,M,61.0,N
+2731,May,2014,Unprovoked,USA,South Carolina,Swimming,F,40.0,N
+2734,September,2013,Unprovoked,USA,Florida,Standing,M,7.0,N
+2739,October,2011,Unprovoked,USA,Oregon,Surfing,M,41.0,N
+2745,July,2010,Unprovoked,USA,South Carolina,Swimming,M,10.0,N
+2747,November,2009,Unprovoked,USA,Florida,Surfing,F,27.0,N
+2750,September,2008,Unprovoked,USA,Hawaii,Surfing,M,40.0,N
+2751,July,2008,Unprovoked,USA,South Carolina,Surfing,M,24.0,N
+2752,April,2008,Unprovoked,USA,California,Swimming,M,66.0,Y
+2753,June,2007,Provoked,USA,Florida,Removing hook from shark,M,22.0,N
+2756,May,2006,Provoked,USA,Hawaii,Spearfishing,M,15.0,N
+2759,June,2005,Unprovoked,USA,South Carolina,Boogie boarding,F,11.0,N
+2760,May,2005,Unprovoked,USA,Florida,Crouching in 2' of water,F,22.0,N
+2763,May,2004,Unprovoked,USA,Texas,Wading,M,16.0,N
+2767,September,2003,Unprovoked,USA,Florida,Surfing,M,17.0,N
+2768,June,2003,Unprovoked,USA,Florida,Surfing,M,17.0,N
+2769,June,2003,Unprovoked,USA,Johnston Atoll,Swimming,M,51.0,N
+2770,April,2003,Unprovoked,USA,Florida,Surfing,M,50.0,N
+2772,November,2002,Unprovoked,USA,Hawaii,Swimming,F,34.0,N
+2773,August,2002,Unprovoked,USA,Alabama,Swimming,F,29.0,N
+2776,September,2001,Unprovoked,USA,Virginia,Swimming,M,10.0,Y
+2779,March,2001,Unprovoked,USA,Florida,Surfing,M,22.0,N
+2781,April,2000,Unprovoked,USA,Florida,Boogie boarding / wading,M,22.0,N
+2782,March,2000,Unprovoked,USA,Florida,Fishing,M,22.0,N
+2788,October,1995,Unprovoked,USA,Florida,Surfing,M,17.0,N
+2789,September,1995,Unprovoked,USA,Florida,Surfing,M,14.0,N
+2792,August,1995,Unprovoked,USA,Florida,Wading,M,20.0,N
+2794,February,1994,Provoked,USA,Hawaii,Fishing,M,22.0,N
+2796,February,1991,Unprovoked,USA,Oregon,Surfing,M,38.0,N
+2799,July,1989,Unprovoked,USA,Florida,Surfing,M,16.0,N
+2800,September,1988,Unprovoked,USA,Florida,Surfing,M,21.0,N
+2801,August,1988,Unprovoked,USA,California,Surfing,M,27.0,N
+2802,May,1987,Unprovoked,USA,Florida,Surfing,M,22.0,N
+2803,November,1986,Unprovoked,USA,Florida,Surfing,M,23.0,N
+2805,June,1983,Unprovoked,USA,Florida,Surfing & dangling foot in water amid baitfish,M,21.0,N
+2806,February,1982,Unprovoked,USA,California,Scuba diving (submerged),M,22.0,N
+2811,August,1979,Unprovoked,USA,Florida,Kayaking,M,49.0,N
+2816,August,1974,Unprovoked,USA,California,Surfing,M,22.0,N
+2829,July,1964,Provoked,USA,Florida,Tagging sharks,M,22.0,N
+2839,August,1962,Unprovoked,USA,New Jersey,Standing,M,24.0,N
+2840,June,1962,Unprovoked,USA,California,Escaping from Alacatraz,M,31.0,N
+2847,August,1960,Unprovoked,USA,New Jersey,Standing in knee-deep water,M,24.0,N
+2848,June,1960,Unprovoked,USA,Georgia,Swimming,M,24.0,N
+2849,May,1960,Unprovoked,USA,California,Swimming,F,16.0,N
+2856,July,1958,Unprovoked,USA,Florida,"Swimming, ducking for shells in water 0.9 m deep",M,8.0,N
+2859,April,1957,Provoked,USA,Florida,Standing,M,17.0,N
+2864,September,1953,Unprovoked,USA,Hawaii,Crabbing,M,22.0,N
+2936,July,2022,Unprovoked,USA,New York,Surfing,M,41.0,N
+2937,March,2021,Unprovoked,USA,Florida,Body surfing,M,9.0,N
+2940,July,2020,Unprovoked,USA,Florida,Wading,F,14.0,N
+2944,April,2019,Unprovoked,USA,Hawaii,Swimming,M,23.0,N
+2946,October,2018,Unprovoked,USA,California,Diving / Filming,M,22.0,N
+2947,August,2018,Unprovoked,USA,North Carolina,Standing,M,16.0,N
+2951,September,2017,Unprovoked,USA,Florida,Surfing,M,22.0,N
+2952,September,2017,Unprovoked,USA,Florida,Surfing,M,28.0,N
+2953,April,2017,Unprovoked,USA,Florida,Swimming,F,17.0,N
+2954,September,2016,Unprovoked,USA,Florida,Surfing,M,43.0,N
+2957,November,2015,Unprovoked,USA,Hawaii,Swimming,M,54.0,N
+2958,September,2015,Provoked,USA,California,Kayak Fishing,M,29.0,N
+2959,May,2015,Unprovoked,USA,Florida,Swimming,F,13.0,N
+2962,March,2014,Unprovoked,USA,Florida,Surfing,M,9.0,N
+2964,September,2013,Unprovoked,USA,Florida,Swimming,M,21.0,N
+2965,September,2013,Unprovoked,USA,Florida,Casting a net,M,9.0,N
+2966,August,2013,Unprovoked,USA,Hawaii,Surfing,M,16.0,N
+2967,August,2013,Unprovoked,USA,Hawaii,Kiteboarding,F,19.0,N
+2971,September,2012,Unprovoked,USA,Florida,Surfing,M,35.0,N
+2978,July,2010,Unprovoked,USA,North Carolina,Swimming,F,13.0,N
+2987,September,2008,Unprovoked,USA,Florida,Surfing,M,15.0,N
+2989,April,2008,Provoked,USA,Florida,Surfing,M,21.0,N
+2991,February,2008,Unprovoked,USA,Florida,Surf-skiing,M,22.0,N
+2992,August,2007,Unprovoked,USA,Florida,Jumped into the water,F,19.0,N
+2993,June,2007,Unprovoked,USA,Florida,Swimming,F,22.0,N
+2994,March,2007,Provoked,USA,Florida,Shark fishing,M,22.0,N
+3003,September,2005,Unprovoked,USA,Florida,Standing / Surfing,M,62.0,N
+3005,February,2005,Provoked,USA,Florida,Spearfishing,M,22.0,N
+3008,August,2004,Unprovoked,USA,Florida,Swimming,M,47.0,N
+3009,July,2004,Unprovoked,USA,Texas,Swimming,F,19.0,N
+3011,May,2004,Unprovoked,USA,Florida,Boogie-boarding / swimming,M,9.0,N
+3012,October,2003,Unprovoked,USA,Florida,Surfing,M,18.0,N
+3013,May,2003,Unprovoked,USA,Florida,Surfing,M,18.0,N
+3019,August,2001,Unprovoked,USA,Florida,Surfing,M,19.0,N
+3020,June,2001,Unprovoked,USA,South Carolina,Wading,F,29.0,N
+3023,July,2000,Unprovoked,USA,Florida,Swimming,M,41.0,N
+3025,September,1999,Unprovoked,USA,Florida,Surfing,M,13.0,N
+3026,September,1999,Provoked,USA,Florida,Wading,M,7.0,N
+3027,June,1999,Unprovoked,USA,Florida,Swimming,M,41.0,N
+3028,March,1999,Unprovoked,USA,Hawaii,"Swimming, towing a kayak",F,29.0,Y
+3030,December,1997,Unprovoked,USA,Florida,Swimming,M,8.0,N
+3032,May,1997,Unprovoked,USA,Florida,Spearfishing,M,35.0,N
+3037,August,1995,Unprovoked,USA,South Carolina,On a float,M,44.0,N
+3039,September,1994,Unprovoked,USA,South Carolina,Swimming,F,30.0,N
+3045,July,1989,Unprovoked,USA,Texas,Playing,F,9.0,N
+3046,September,1988,Unprovoked,USA,Florida,Walking,F,22.0,N
+3048,May,1988,Unprovoked,USA,Florida,Surfing / treading water,M,29.0,N
+3050,July,1984,Unprovoked,USA,Florida,"During a shark fishing tournament, the 18' Boatem was capsized by waves, throwing 3 men into the water",M,30.0,N
+3053,February,1982,Unprovoked,USA,Hawaii,Wading,F,22.0,N
+3054,May,1981,Unprovoked,USA,Hawaii,"Scuba diving, reportedly also spearfishing",M,22.0,Y
+3059,April,1979,Unprovoked,USA,Florida,Body surfing,M,8.0,N
+3062,August,1975,Unprovoked,USA,Florida,Floating on a small orange raft,M,20.0,N
+3065,November,1974,Unprovoked,USA,Florida,Standing,M,24.0,N
+3070,May,1969,Provoked,USA,Texas,Surf-fishing,M,22.0,N
+3071,August,1969,Provoked,USA,Florida,Fishing,M,21.0,N
+3076,June,1966,Unprovoked,USA,Texas,Swimming,M,18.0,N
+3079,August,1964,Unprovoked,USA,Florida,Swimming,M,14.0,N
+3107,July,1953,Provoked,USA,California,Fishing from market fishboat Sea Spray,M,22.0,N
+3112,July,1950,Unprovoked,USA,Florida,"Goggle-diving for seaweeds, but standing in water",M,21.0,N
+3180,June,2023,Unprovoked,USA,Florida,Fishing,M,22.0,N
+3181,October,2022,Provoked,USA,Florida,Fishing,M,15.0,N
+3186,June,2021,Unprovoked,USA,North Carolina,Swimming,F,7.0,N
+3191,August,2019,Unprovoked,USA,Hawaii,Swimming/ Treading water,F,26.0,N
+3197,May,2017,Provoked,USA,South Carolina,Touching a shark,F,20.0,N
+3200,July,2016,Provoked,USA,Massachusetts,Fishing,M,59.0,N
+3201,November,2015,Unprovoked,USA,Florida,Surfing,M,28.0,N
+3203,June,2015,Unprovoked,USA,North Carolina,Body surfing?,M,47.0,N
+3204,June,2015,Unprovoked,USA,North Carolina,Swimming,M,6.0,N
+3206,September,2014,Provoked,USA,Florida,Fishing,M,52.0,N
+3207,August,2014,Unprovoked,USA,South Carolina,Standing,F,22.0,N
+3209,August,2014,Unprovoked,USA,Florida,Boogie boarding,M,8.0,N
+3212,August,2013,Unprovoked,USA,Florida,Boogie boarding,F,11.0,N
+3216,May,2013,Unprovoked,USA,Hawaii,Diving,M,32.0,N
+3218,April,2013,Unprovoked,USA,Florida,Swimming,M,50.0,N
+3223,September,2011,Unprovoked,USA,California,Surfing,M,37.0,N
+3226,July,2011,Unprovoked,USA,Texas,Wade Fishing,M,14.0,N
+3227,March,2011,Provoked,USA,Texas,"Standing, holding shark pup",M,22.0,N
+3231,October,2010,Unprovoked,USA,California,Body boarding,M,19.0,Y
+3235,November,2009,Unprovoked,USA,California,Fishing,M,31.0,N
+3237,May,2009,Unprovoked,USA,Florida,Surfing,M,49.0,N
+3241,September,2008,Unprovoked,USA,California,Surfing,M,22.0,N
+3244,April,2008,Unprovoked,USA,Florida,Surfing,M,30.0,N
+3245,August,2007,Unprovoked,USA,South Carolina,Swimming,M,30.0,N
+3246,August,2007,Unprovoked,USA,South Carolina,Boogie Boarding,M,9.0,N
+3249,March,2007,Unprovoked,USA,Florida,Surfing,M,29.0,N
+3251,August,2006,Unprovoked,USA,Oregon,Surfing,M,23.0,N
+3253,August,2006,Unprovoked,USA,North Carolina,Wading,F,59.0,N
+3254,July,2006,Unprovoked,USA,Florida,Spearfishing,F,28.0,N
+3256,June,2005,Unprovoked,USA,Florida,Swimming with boogie board,F,14.0,Y
+3257,May,2005,Unprovoked,USA,Florida,Swimming,M,33.0,N
+3262,July,2003,Provoked,USA,Florida,"Walking, carrying surfboard & stepped on shark",M,10.0,N
+3269,July,2000,Unprovoked,USA,Florida,Snorkeling,F,45.0,N
+3270,July,2000,Unprovoked,USA,Florida,Standing,F,19.0,N
+3272,October,1999,Unprovoked,USA,Florida,Body boarding,M,45.0,N
+3273,November,1998,Unprovoked,USA,Florida,Swimming,M,9.0,Y
+3276,August,1997,Unprovoked,USA,Florida,Wade-fishing,M,22.0,N
+3278,October,1996,Unprovoked,USA,California,Surfing,M,31.0,N
+3279,July,1996,Unprovoked,USA,Florida,Standing,F,8.0,N
+3280,July,1995,Unprovoked,USA,Florida,Surfing,M,18.0,N
+3281,May,1994,Unprovoked,USA,Florida,Spearfishing,M,35.0,N
+3285,January,1993,Unprovoked,USA,Oregon,Surfing,M,29.0,N
+3291,October,1990,Unprovoked,USA,Florida,Surfing,M,25.0,N
+3292,October,1990,Unprovoked,USA,Florida,Surfing,M,19.0,N
+3295,September,1989,Unprovoked,USA,North Carolina,Surfing,M,31.0,N
+3298,August,1987,Unprovoked,USA,Florida,Wading,M,12.0,N
+3300,September,1985,Unprovoked,USA,California,Free diving & spearfishing (descending),M,22.0,N
+3303,January,1984,Unprovoked,USA,Florida,Surfing,M,22.0,N
+3304,October,1983,Unprovoked,USA,Florida,Wading,M,20.0,N
+3308,November,1981,Unprovoked,USA,Hawaii,Diving to untangle a crab trap line from boat's propeller,M,59.0,N
+3317,July,1976,Unprovoked,USA,Louisiana,Playing,M,10.0,N
+3319,May,1975,Unprovoked,USA,Florida,Bathing,F,10.0,N
+3320,July,1974,Unprovoked,USA,Georgia,Swimming,M,17.0,Y
+3321,April,1974,Unprovoked,USA,Florida,Swimming,F,11.0,N
+3325,August,1972,Unprovoked,USA,Hawaii,Spearfishing,M,22.0,N
+3329,August,1969,Unprovoked,USA,Florida,Surfing,M,15.0,N
+3330,July,1968,Unprovoked,USA,Florida,Wading,M,33.0,N
+3333,June,1967,Provoked,USA,Florida,Spearfishing,M,26.0,N
+3350,August,1959,Unprovoked,USA,Georgia,Standing,F,15.0,N
+3351,July,1959,Provoked,USA,California,Dragging stranded shark ashore,M,22.0,N
+3353,June,1959,Unprovoked,USA,California,Free diving for abalone,M,33.0,Y
+3356,December,1958,Unprovoked,USA,Hawaii,Surfing on air mattress,M,15.0,Y
+3362,July,1950,Unprovoked,USA,Texas,Swimming,M,11.0,N
+3419,March,2023,Unprovoked,USA,Florida,Kite-Surfing,M,67.0,N
+3425,July,2021,Provoked,USA,Florida,Fishing,M,47.0,N
+3436,June,2019,Unprovoked,USA,Georgia,Swimming,M,64.0,N
+3438,February,2019,Unprovoked,USA,Florida,Spearfishing,M,50.0,N
+3441,September,2018,Unprovoked,USA,California,Diving,M,13.0,N
+3442,November,2017,Unprovoked,USA,California,Spearfishing,M,25.0,N
+3445,April,2017,Unprovoked,USA,Florida,Surfing,F,22.0,N
+3447,October,2016,Unprovoked,USA,Florida,Surfing,M,42.0,N
+3449,May,2016,Provoked,USA,Florida,Teasing a shark,F,23.0,N
+3453,September,2015,Unprovoked,USA,Florida,Wading,M,12.0,N
+3458,December,2014,Unprovoked,USA,California,Surfing,M,50.0,N
+3461,August,2014,Unprovoked,USA,North Carolina,Surfing,M,29.0,N
+3464,March,2014,Unprovoked,USA,Florida,Kite Surfing,M,22.0,N
+3468,July,2013,Unprovoked,USA,South Carolina,Swimming,M,32.0,N
+3469,April,2013,Unprovoked,USA,Florida,Playing in the surf,M,9.0,N
+3473,July,2012,Unprovoked,USA,Massachusetts,Body surfing,M,50.0,N
+3474,June,2012,Unprovoked,USA,Hawaii,Sitting in the water,F,16.0,N
+3475,March,2012,Unprovoked,USA,Florida,Surfing,F,15.0,N
+3476,September,2011,Unprovoked,USA,South Carolina,Jumping in the waves,M,5.0,N
+3478,April,2011,Unprovoked,USA,Florida,Spearfishing,M,32.0,N
+3482,June,2010,Unprovoked,USA,Florida,Surfing,M,20.0,N
+3485,October,2009,Unprovoked,USA,California,Surfing,M,22.0,N
+3486,September,2009,Unprovoked,USA,Florida,Swimming,M,22.0,N
+3489,May,2009,Unprovoked,USA,Florida,Surfing,M,55.0,N
+3490,April,2009,Unprovoked,USA,Florida,Surfing,M,52.0,N
+3497,February,2008,Unprovoked,USA,Florida,Surfing,M,25.0,N
+3498,September,2007,Unprovoked,USA,Florida,Swimming,M,58.0,N
+3499,June,2007,Unprovoked,USA,Florida,Surfing,M,20.0,N
+3503,July,2006,Unprovoked,USA,Florida,Wading,M,40.0,N
+3504,December,2005,Unprovoked,USA,Hawaii,Swimming,M,29.0,N
+3505,August,2005,Unprovoked,USA,South Carolina,Swimming,M,8.0,N
+3509,September,2003,Unprovoked,USA,Florida,Surfing,M,30.0,N
+3510,August,2003,Provoked,USA,Texas,Fishing,M,22.0,N
+3515,September,2001,Unprovoked,USA,Florida,Boogie boarding,M,6.0,N
+3516,August,2001,Unprovoked,USA,Florida,Surfing,F,17.0,N
+3518,April,2001,Unprovoked,USA,Florida,Surfing,M,22.0,N
+3519,November,2000,Unprovoked,USA,California,Surfing,M,27.0,N
+3520,October,2000,Unprovoked,USA,Florida,Surfing,M,17.0,N
+3523,June,2000,Unprovoked,USA,Florida,Standing,M,52.0,N
+3530,February,1996,Provoked,USA,Missouri,Swimming in fish tank,F,32.0,N
+3531,August,1995,Unprovoked,USA,Florida,Surfing,M,18.0,N
+3532,August,1995,Unprovoked,USA,Florida,Body boarding,M,12.0,N
+3534,July,1995,Provoked,USA,Mississippi,Fishing,F,32.0,N
+3538,May,1994,Unprovoked,USA,Florida,Surfing,M,24.0,N
+3545,October,1991,Unprovoked,USA,Florida,Surfing,M,21.0,N
+3546,January,1989,Unprovoked,USA,California,Kayaking,F,24.0,Y
+3549,November,1986,Unprovoked,USA,Florida,Surfing,M,26.0,N
+3550,January,1986,Unprovoked,USA,California,Surfing,M,16.0,N
+3551,November,1984,Provoked,USA,Florida,Spearfishing,M,29.0,N
+3552,September,1984,Unprovoked,USA,Florida,Swimming,M,60.0,N
+3554,August,1983,Provoked,USA,Florida,Skindiving,M,14.0,N
+3555,May,1983,Unprovoked,USA,Florida,Water-skiing,M,21.0,N
+3563,June,1977,Unprovoked,USA,Texas,Collecting fish from net,M,25.0,N
+3564,April,1977,Unprovoked,USA,Hawaii,Swimming,M,22.0,N
+3566,November,1975,Unprovoked,USA,Florida,Surfing,M,18.0,N
+3568,July,1975,Unprovoked,USA,Florida,Surfing,M,16.0,N
+3584,July,1966,Unprovoked,USA,Texas,Diving for sand dollars,M,16.0,N
+3597,June,1961,Unprovoked,USA,Florida,Scuba diving & spearfishing,M,23.0,Y
+3610,June,1954,Provoked,USA,California,Grabbed shark & threw it on deck,M,35.0,N
+3616,October,1950,Unprovoked,USA,California,Body surfing / treading water,M,31.0,N
+3617,June,1950,Unprovoked,USA,New York,Swimming,M,16.0,N
+3690,July,2023,Unprovoked,USA,New York,Swimming,M,47.0,N
+3691,April,2023,Unprovoked,USA,Florida,Windsurfing,M,50.0,N
+3692,November,2022,Provoked,USA,Florida,Fishing,M,29.0,N
+3697,July,2020,Unprovoked,USA,Florida,Diving,M,38.0,N
+3698,March,2020,Unprovoked,USA,California,Stand-Up Paddleboarding,M,15.0,N
+3699,October,2019,Unprovoked,USA,Guam,Surfing,M,22.0,N
+3701,July,2019,Unprovoked,USA,Rhode Island,Surfing,M,18.0,N
+3706,May,2018,Unprovoked,USA,South Carolina,Swimming,M,10.0,N
+3710,August,2017,Unprovoked,USA,South Carolina,Swimming,M,13.0,N
+3711,July,2017,Unprovoked,USA,Florida,Swimming,M,46.0,N
+3713,June,2017,Unprovoked,USA,South Carolina,Swimming,F,16.0,N
+3717,July,2016,Unprovoked,USA,Florida,Surfing,F,9.0,N
+3719,May,2016,Unprovoked,USA,Florida,Swimming,M,48.0,N
+3723,May,2015,Unprovoked,USA,Florida,Wading,F,19.0,N
+3724,April,2015,Unprovoked,USA,Hawaii,Snorkeling,F,65.0,Y
+3725,January,2015,Provoked,USA,Hawaii,Shark fishing,M,20.0,N
+3728,August,2014,Unprovoked,USA,South Carolina,Boogie boarding,M,10.0,N
+3729,April,2014,Unprovoked,USA,Florida,Surfing,M,15.0,N
+3730,March,2014,Unprovoked,USA,Florida,Surfing,M,21.0,N
+3732,June,2013,Unprovoked,USA,Florida,Swimming,M,22.0,N
+3734,September,2012,Unprovoked,USA,Florida,Swimming or boogie boarding,F,56.0,N
+3736,December,2011,Provoked,USA,Hawaii,Canoeing,M,22.0,N
+3738,February,2010,Provoked,USA,Florida,Surf fishing / wading,M,22.0,N
+3748,August,2007,Unprovoked,USA,Florida,Swimming,F,15.0,N
+3749,July,2007,Unprovoked,USA,North Carolina,Swimming,M,14.0,N
+3750,April,2007,Unprovoked,USA,Florida,Surfing,M,24.0,N
+3753,July,2006,Unprovoked,USA,Texas,Surf fishing,M,22.0,N
+3755,March,2006,Unprovoked,USA,Hawaii,Surfing,F,28.0,N
+3756,November,2005,Unprovoked,USA,Florida,Surfing,M,17.0,N
+3759,July,2004,Unprovoked,USA,North Carolina,Surfing,F,28.0,N
+3760,July,2004,Unprovoked,USA,Texas,Wading / fishing & carrying a bag of fish,M,11.0,N
+3764,November,2003,Unprovoked,USA,Florida,Surfing,M,24.0,N
+3767,August,2002,Unprovoked,USA,Florida,Surfing,M,15.0,N
+3768,July,2002,Unprovoked,USA,South Carolina,Surfing,M,13.0,N
+3770,September,2001,Unprovoked,USA,Florida,Surfing,M,14.0,N
+3771,April,2001,Unprovoked,USA,Florida,Surfing,M,22.0,N
+3772,April,2001,Unprovoked,USA,Hawaii,Surfing,M,22.0,N
+3774,October,2000,Unprovoked,USA,Florida,Body surfing,M,11.0,N
+3775,August,2000,Unprovoked,USA,Hawaii,"Windsurfing, but sitting on his board",M,53.0,N
+3778,April,1998,Provoked,USA,Florida,Scuba diving,M,16.0,N
+3779,October,1997,Unprovoked,USA,Florida,Surfing,M,23.0,N
+3784,October,1994,Provoked,USA,Florida,Wading,F,9.0,N
+3785,May,1994,Unprovoked,USA,Florida,Surfing,M,28.0,N
+3788,April,1994,Unprovoked,USA,Florida,Freediving for seashells,M,71.0,N
+3790,August,1993,Unprovoked,USA,North Carolina,Riding floatation device,F,19.0,N
+3791,November,1992,Unprovoked,USA,California,Spearfishing / free diving,M,31.0,N
+3792,October,1992,Unprovoked,USA,California,Hookah diving for sea urchins,M,40.0,N
+3802,November,1987,Unprovoked,USA,Florida,Surfing,M,15.0,N
+3810,September,1983,Unprovoked,USA,Florida,Standing,M,15.0,N
+3811,October,1981,Unprovoked,USA,Florida,Swimming,M,19.0,N
+3814,September,1974,Unprovoked,USA,California,Surfing,M,17.0,N
+3815,September,1974,Unprovoked,USA,Oregon,Surfing,M,24.0,N
+3817,July,1971,Unprovoked,USA,California,Hookah diving (submerged),M,22.0,N
+3830,May,1961,Unprovoked,USA,California,Free diving for abalone,M,20.0,N
+3835,September,1960,Provoked,USA,South Carolina,Fishing inside net,M,22.0,N
+3838,October,1959,Unprovoked,USA,California,Diving for abalone,M,30.0,N
+3840,September,1958,Provoked,USA,New York,Spearfishing,M,20.0,N
+3841,September,1955,Unprovoked,USA,Hawaii,Hunting turtle,M,22.0,N
+3916,July,2023,Unprovoked,USA,Florida,Surfing,M,21.0,N
+3918,May,2023,Provoked,USA,Florida,Fishing,M,35.0,N
+3919,December,2022,Unprovoked,USA,Hawaii,Snorkeling,F,60.0,Y
+3920,October,2022,Unprovoked,USA,Hawaii,Snorkeling,M,51.0,N
+3923,July,2021,Unprovoked,USA,Georgia,Surfing,M,58.0,N
+3924,April,2021,Unprovoked,USA,Florida,Swimming,M,36.0,N
+3925,March,2021,Unprovoked,USA,Florida,Swimming,M,7.0,N
+3928,January,2021,Unprovoked,USA,Florida,Surfing,M,19.0,N
+3930,September,2020,Unprovoked,USA,Hawaii,Snorkeling,F,70.0,N
+3932,May,2020,Unprovoked,USA,California,Swimming,F,57.0,N
+3936,December,2019,Unprovoked,USA,Hawaii,Stand-Up Paddleboarding,M,57.0,N
+3937,August,2019,Unprovoked,USA,Florida,Wading,M,11.0,N
+3938,May,2019,Unprovoked,USA,Florida,Fishing,M,22.0,N
+3940,February,2019,Unprovoked,USA,Hawaii,Surfing,M,22.0,N
+3942,July,2018,Provoked,USA,California,Wading,F,58.0,N
+3944,October,2017,Unprovoked,USA,Hawaii,Snorkeling,F,40.0,N
+3949,May,2016,Unprovoked,USA,California,Swimming,F,52.0,N
+3950,October,2015,Unprovoked,USA,Texas,Wading,M,13.0,N
+3955,October,2014,Unprovoked,USA,Hawaii,Stand-Up Paddleboarding,F,22.0,N
+3958,April,2014,Unprovoked,USA,Florida,Wading,M,25.0,N
+3960,November,2013,Unprovoked,USA,New Jersey,Body boarding,M,16.0,N
+3961,October,2013,Unprovoked,USA,Hawaii,Kiteboarding,M,46.0,N
+3962,September,2013,Provoked,USA,Florida,Surfing,M,43.0,N
+3963,July,2013,Unprovoked,USA,Hawaii,Snorkeling,F,56.0,N
+3969,July,2011,Unprovoked,USA,New Jersey,Wade Fishing,M,22.0,N
+3971,May,2011,Unprovoked,USA,Florida,Body surfing,M,86.0,N
+3972,May,2011,Unprovoked,USA,Florida,Surfing,M,37.0,N
+3976,July,2010,Provoked,USA,New York,Fishing,M,20.0,N
+3982,October,2009,Unprovoked,USA,Hawaii,Surfing,M,54.0,N
+3983,July,2009,Unprovoked,USA,Florida,Swimming,F,19.0,N
+3985,March,2009,Unprovoked,USA,Hawaii,Swimming,M,61.0,N
+3988,September,2008,Unprovoked,USA,Florida,Surfing,M,40.0,N
+3989,August,2008,Unprovoked,USA,Florida,"Swimming, towing surfboard",M,20.0,N
+3990,August,2008,Unprovoked,USA,Florida,Wading,F,13.0,N
+3994,March,2007,Unprovoked,USA,Florida,Surfing,M,27.0,N
+3998,June,2006,Unprovoked,USA,South Carolina,Playing,F,7.0,N
+4000,January,2006,Unprovoked,USA,California,Night Surfing,M,22.0,N
+4002,August,2005,Unprovoked,USA,California,Surfing,M,37.0,N
+4003,July,2005,Unprovoked,USA,Texas,Holding onto an inflatable boat,F,14.0,N
+4005,February,2005,Unprovoked,USA,Hawaii,Surfing,M,22.0,N
+4008,May,2004,Unprovoked,USA,Texas,Tandem surfing,M,28.0,N
+4009,March,2004,Unprovoked,USA,Florida,Surfing,M,20.0,N
+4012,April,2003,Unprovoked,USA,Florida,Surfing,M,12.0,N
+4014,March,2002,Unprovoked,USA,Florida,Snorkeling,M,39.0,N
+4015,September,2001,Unprovoked,USA,Florida,Walking in shallows,M,13.0,N
+4016,August,2001,Unprovoked,USA,Florida,Surfing,M,19.0,N
+4018,March,2000,Unprovoked,USA,Florida,Surfing,M,37.0,N
+4020,September,1999,Unprovoked,USA,Florida,Wading to shore after surfing,M,22.0,N
+4023,June,1999,Unprovoked,USA,Florida,Adrift in a life jacket,M,20.0,N
+4025,November,1998,Unprovoked,USA,Oregon,Surfing,M,32.0,N
+4028,March,1998,Unprovoked,USA,Florida,Swimming,M,40.0,N
+4029,March,1998,Unprovoked,USA,Florida,Swimming or paddle boarding,M,32.0,N
+4030,September,1997,Unprovoked,USA,Florida,Surfing,M,20.0,N
+4031,October,1996,Unprovoked,USA,California,Surfing,M,22.0,N
+4035,August,1993,Unprovoked,USA,Hawaii,"Surfing, paddling seawards",M,22.0,N
+4041,March,1992,Unprovoked,USA,Hawaii,"Surfing, paddling seawards",F,36.0,N
+4043,May,1991,Unprovoked,USA,Hawaii,Sitting on surfboard,M,23.0,N
+4051,July,1988,Unprovoked,USA,Florida,Boogie boarding,M,37.0,N
+4059,November,1983,Unprovoked,USA,Florida,Surfing,M,15.0,N
+4063,September,1981,Unprovoked,USA,Florida,Surfing,M,22.0,N
+4067,September,1976,Unprovoked,USA,Florida,Swimming,M,16.0,Y
+4069,September,1974,Unprovoked,USA,California,Scuba diving (but on surface),M,41.0,N
+4075,October,1967,Unprovoked,USA,Florida,Standing on sandbar,M,19.0,N
+4081,June,1966,Provoked,USA,New Jersey,Clamming,M,15.0,N
+4082,January,1966,Unprovoked,USA,Florida,Swimming,M,35.0,N
+4096,August,1961,Unprovoked,USA,California,Swimming,M,16.0,N
+4101,March,1960,Unprovoked,USA,Florida,Treading water,M,42.0,N
+4110,August,1954,Unprovoked,USA,Louisiana,Wading,F,27.0,N
+4112,February,1953,Provoked,USA,Hawaii,Bitten while cutting shark from net,M,22.0,N
+4171,May,2023,Unprovoked,USA,South Carolina,Swimming,F,24.0,N
+4174,December,2022,Unprovoked,USA,Samoa,Diving,M,43.0,N
+4176,April,2022,Unprovoked,USA,Alabama,Swimming,M,17.0,N
+4177,December,2021,Unprovoked,USA,Hawaii,Surfing,M,22.0,N
+4181,January,2020,Unprovoked,USA,North Carolina,Surfing,M,26.0,N
+4184,September,2019,Unprovoked,USA,Florida,Swimming,M,22.0,N
+4185,August,2019,Unprovoked,USA,Cayman Islands,Spearfishing,M,70.0,N
+4186,July,2019,Provoked,USA,North Carolina,Fishing,M,22.0,N
+4192,October,2017,Unprovoked,USA,Florida,Surfing,M,17.0,N
+4202,September,2015,Unprovoked,USA,Florida,Swimming,M,22.0,N
+4203,July,2015,Unprovoked,USA,North Carolina,Swimming,M,68.0,N
+4204,June,2015,Unprovoked,USA,North Carolina,Wading,F,12.0,N
+4205,August,2014,Unprovoked,USA,Florida,Standing,M,22.0,N
+4206,July,2014,Unprovoked,USA,Florida,Swimming,M,39.0,N
+4209,August,2013,Unprovoked,USA,South Carolina,Surfing,M,10.0,N
+4214,August,2011,Unprovoked,USA,Texas,Wade Fishing,F,39.0,N
+4218,May,2011,Unprovoked,USA,Hawaii,Surfing,F,22.0,N
+4219,May,2011,Provoked,USA,Florida,Fishing,M,22.0,N
+4222,June,2010,Unprovoked,USA,Florida,Boogie Boarding,F,18.0,N
+4228,September,2008,Unprovoked,USA,Florida,Surfing,M,44.0,N
+4234,August,2007,Unprovoked,USA,Florida,Surfing,M,54.0,N
+4238,June,2006,Unprovoked,USA,California,Scuba diving,M,43.0,N
+4240,September,2005,Unprovoked,USA,South Carolina,Surfing,M,18.0,Y
+4244,October,2004,Unprovoked,USA,California,Surfing,M,22.0,N
+4247,October,2003,Provoked,USA,Florida,Surfing,M,30.0,N
+4249,July,2002,Provoked,USA,Maryland,Shark Fishing,M,41.0,Y
+4252,March,2002,Unprovoked,USA,Florida,Surfing,M,31.0,N
+4255,August,2001,Unprovoked,USA,Florida,Boogie Boarding,M,18.0,N
+4257,May,2001,Unprovoked,USA,South Carolina,Swimming,M,11.0,N
+4258,April,2001,Unprovoked,USA,Florida,Surfing,M,16.0,N
+4259,October,2000,Unprovoked,USA,North Carolina,Surfing,M,24.0,N
+4260,September,2000,Unprovoked,USA,Florida,Wading,M,40.0,N
+4262,December,1999,Unprovoked,USA,Florida,Surfing,M,35.0,N
+4263,December,1998,Provoked,USA,Florida,Surfing,M,19.0,N
+4264,August,1998,Unprovoked,USA,Florida,Body-boarding,M,11.0,N
+4265,August,1997,Unprovoked,USA,Florida,Walking / surfing,M,22.0,N
+4266,August,1997,Unprovoked,USA,California,Surfing (sitting on his board),M,29.0,N
+4269,September,1995,Unprovoked,USA,Florida,Surfing,M,19.0,N
+4270,August,1995,Unprovoked,USA,Florida,Surfing,M,20.0,N
+4273,September,1992,Unprovoked,USA,Florida,Standing,F,18.0,N
+4276,April,1990,Unprovoked,USA,Hawaii,Sitting on surfboard,M,22.0,N
+4278,April,1988,Unprovoked,USA,Florida,Surfing,M,14.0,N
+4280,April,1987,Unprovoked,USA,Texas,Swimming,F,16.0,N
+4282,October,1985,Provoked,USA,Alabama,Fishing,M,22.0,N
+4287,December,1981,Unprovoked,USA,Hawaii,"Spearfishing, but swimming on surface",M,22.0,N
+4288,July,1981,Unprovoked,USA,Florida,Swimming,F,16.0,N
+4295,July,1975,Unprovoked,USA,California,Diving for abalone (Hookah),M,34.0,N
+4297,August,1973,Unprovoked,USA,Virginia,Crabbing (spearing crabs),M,17.0,N
+4304,July,1968,Unprovoked,USA,California,Free diving,M,25.0,N
+4307,June,1966,Provoked,USA,Florida,Fishing,M,18.0,N
+4310,April,1965,Unprovoked,USA,Florida,Paddling on surfboard,M,17.0,N
+4320,August,1959,Provoked,USA,South Carolina,Fishing,M,22.0,N
+4322,July,1958,Unprovoked,USA,Florida,"Swimming, ducking for shells in water 0.9 m deep",M,12.0,N
+4323,February,1957,Unprovoked,USA,Florida,Floating,M,22.0,N
+4327,July,1952,Unprovoked,USA,Puerto Rico,"Spearfishing, carrying fish on spear",M,22.0,N
+4329,January,1952,Unprovoked,USA,Florida,Swimming,M,22.0,Y
+4334,January,1950,Unprovoked,USA,Florida,Standing,M,22.0,N
+4425,November,2022,Unprovoked,USA,California,Swimming,F,50.0,N
+4434,May,2019,Unprovoked,USA,California,Surfing,F,28.0,N
+4439,August,2018,Unprovoked,USA,North Carolina,Swimming/Standing,F,15.0,N
+4442,August,2017,Unprovoked,USA,Florida,Wading,F,3.0,N
+4443,June,2017,Unprovoked,USA,South Carolina,Swimming,F,14.0,N
+4445,April,2017,Unprovoked,USA,California,Swimming,F,22.0,N
+4447,April,2017,Unprovoked,USA,Florida,Swimming,F,21.0,N
+4453,June,2016,Unprovoked,USA,Florida,Wading,M,22.0,N
+4454,April,2016,Unprovoked,USA,Florida,Surfing,M,15.0,N
+4456,January,2016,Unprovoked,USA,Texas,Spearfishing,M,22.0,N
+4459,June,2015,Unprovoked,USA,North Carolina,Wading,M,16.0,N
+4461,November,2014,Unprovoked,USA,Florida,Surfing,M,18.0,N
+4463,August,2014,Unprovoked,USA,Louisiana,Swimming,M,7.0,N
+4464,July,2014,Unprovoked,USA,California,Surfing,M,22.0,N
+4466,August,2013,Unprovoked,USA,California,Swimming,M,22.0,N
+4467,July,2013,Unprovoked,USA,North Carolina,Wading,F,63.0,N
+4469,September,2012,Unprovoked,USA,Florida,Surfing,M,21.0,N
+4470,August,2012,Unprovoked,USA,Alabama,Wading or swimming,M,31.0,N
+4472,May,2012,Unprovoked,USA,Florida,Surfing,M,22.0,N
+4475,June,2011,Unprovoked,USA,California,Surfing,M,22.0,N
+4478,July,2010,Unprovoked,USA,California,Surfing,M,19.0,N
+4479,April,2010,Unprovoked,USA,Hawaii,Surfing,M,68.0,N
+4482,May,2009,Unprovoked,USA,Florida,Surfing,M,31.0,N
+4484,August,2008,Unprovoked,USA,Florida,Swimming,M,47.0,N
+4489,June,2007,Unprovoked,USA,California,Swimming,F,22.0,N
+4493,July,2006,Unprovoked,USA,Florida,Surfing,M,15.0,N
+4494,July,2006,Unprovoked,USA,South Carolina,Standing,M,49.0,N
+4495,April,2006,Unprovoked,USA,Florida,Standing,F,13.0,N
+4496,November,2005,Unprovoked,USA,Florida,Surfing,M,35.0,N
+4498,September,2005,Unprovoked,USA,South Carolina,Body surfing,F,68.0,N
+4499,August,2004,Unprovoked,USA,California,Diving,M,50.0,Y
+4503,July,2003,Unprovoked,USA,Florida,Surfing,M,21.0,N
+4504,May,2003,Unprovoked,USA,Florida,Wading,M,22.0,N
+4506,October,2002,Unprovoked,USA,Florida,Surfing,M,14.0,N
+4507,October,2002,Unprovoked,USA,Florida,Surfing,M,35.0,N
+4508,September,2002,Unprovoked,USA,Oregon,Boogie boarding or Surfing,M,24.0,N
+4512,September,2000,Unprovoked,USA,California,Sitting on surfboard,M,22.0,N
+4513,August,2000,Unprovoked,USA,North Carolina,Swimming out to porpoises,M,22.0,N
+4514,July,2000,Unprovoked,USA,North Carolina,Playing,F,12.0,N
+4515,July,2000,Unprovoked,USA,Florida,Wading,F,13.0,N
+4522,June,1997,Unprovoked,USA,Florida,"Body surfing, stood up on sandbar",M,33.0,N
+4523,June,1996,Unprovoked,USA,South Carolina,Body surfing,F,24.0,N
+4524,August,1995,Unprovoked,USA,Florida,Surfing,M,19.0,N
+4525,August,1995,Unprovoked,USA,Florida,Surfing,M,19.0,N
+4527,December,1994,Unprovoked,USA,California,Commercial diver (submerged or treading water),M,42.0,Y
+4530,September,1993,Unprovoked,USA,Florida,Wading,M,19.0,N
+4533,November,1992,Unprovoked,USA,Florida,Surfing,M,19.0,N
+4538,January,1989,Unprovoked,USA,Virginia,Spearfishing using scuba & trailing a string of bleeding fish,M,22.0,N
+4541,January,1986,Unprovoked,USA,Florida,Surfing,M,22.0,N
+4542,October,1985,Unprovoked,USA,Hawaii,Floating on inner tube after diving for lobster,M,24.0,N
+4544,July,1983,Unprovoked,USA,Florida,Windsurfing,F,39.0,N
+4545,April,1983,Unprovoked,USA,Florida,Surfing,M,16.0,N
+4546,March,1982,Unprovoked,USA,Florida,Surfing,M,16.0,N
+4547,February,1982,Unprovoked,USA,Florida,Diving,M,29.0,Y
+4549,September,1981,Unprovoked,USA,Florida,Swimming,M,26.0,Y
+4550,August,1981,Unprovoked,USA,Florida,Diving,M,22.0,N
+4555,July,1976,Unprovoked,USA,Florida,Spearfishing,M,23.0,N
+4558,June,1975,Unprovoked,USA,Alabama,Swimming near his boat,M,27.0,N
+4559,June,1974,Unprovoked,USA,Florida,Swimming,F,61.0,N
+4579,June,1962,Unprovoked,USA,California,Escaping from Alacatraz,M,32.0,Y
+4583,August,1960,Unprovoked,USA,Delaware,"Fishing, Struck by another shark when removing shark from line",M,46.0,N
+4593,April,1957,Unprovoked,USA,California,Swimming,M,25.0,Y
+4595,August,1956,Unprovoked,USA,Puerto Rico,Skin diving,M,13.0,Y
+4666,February,2023,Unprovoked,USA,Florida,Surfing,M,60.0,N
+4667,May,2022,Provoked,USA,Georgia,Fishing,M,22.0,N
+4673,June,2021,Unprovoked,USA,Florida,Standing,M,71.0,N
+4676,October,2020,Unprovoked,USA,"Franklin County, Florida",Surfing,M,22.0,N
+4682,July,2019,Unprovoked,USA,Hawaii,Swimming,M,49.0,N
+4691,September,2017,Unprovoked,USA,Texas,Swimming,F,22.0,N
+4693,October,2016,Unprovoked,USA,Hawaii,Snorkeling,F,66.0,N
+4698,October,2014,Unprovoked,USA,Hawaii,Stand-Up Paddleboarding,M,22.0,N
+4700,June,2014,Unprovoked,USA,Palmyra Atoll,Tagging sharks,F,37.0,N
+4702,June,2013,Unprovoked,USA,Texas,Swimming,M,15.0,N
+4707,June,2012,Unprovoked,USA,Florida,Surfing,M,26.0,N
+4708,June,2011,Unprovoked,USA,California,Spearfishing,M,28.0,N
+4710,April,2011,Unprovoked,USA,Florida,Surfing,M,49.0,N
+4713,September,2010,Unprovoked,USA,Florida,Swimming,M,27.0,N
+4722,July,2008,Unprovoked,USA,North Carolina,Wading,F,8.0,N
+4723,July,2008,Unprovoked,USA,Florida,Wading,M,16.0,N
+4726,March,2007,Unprovoked,USA,Florida,Surfing,M,11.0,N
+4727,December,2006,Unprovoked,USA,California,Surfing,M,43.0,N
+4731,July,2005,Unprovoked,USA,Florida,Surfing,M,61.0,N
+4732,June,2005,Unprovoked,USA,Florida,Fishing,M,16.0,N
+4735,July,2004,Unprovoked,USA,Alabama,Wading,M,7.0,N
+4737,October,2003,Unprovoked,USA,Florida,Sitting on surfboard,M,50.0,N
+4739,June,2003,Unprovoked,USA,Hawaii,Swimming with pod of dolphins,M,60.0,N
+4740,September,2002,Unprovoked,USA,Florida,Surfing,M,32.0,N
+4741,March,2002,Unprovoked,USA,Hawaii,Body-boarding,M,17.0,N
+4743,September,2001,Unprovoked,USA,Florida,Wading,M,20.0,N
+4744,August,2001,Unprovoked,USA,Florida,Surfing,M,20.0,N
+4745,July,2001,Unprovoked,USA,Florida,Swimming,M,8.0,N
+4747,September,2000,Unprovoked,USA,Florida,Swimming,M,8.0,N
+4750,July,1999,Unprovoked,USA,Florida,Wading in school of baitfish,F,30.0,N
+4751,May,1998,Unprovoked,USA,Florida,Swimming / surfing,M,24.0,N
+4754,June,1995,Unprovoked,USA,Florida,Swimming,M,45.0,N
+4755,June,1995,Unprovoked,USA,Florida,Swimming,F,10.0,N
+4760,August,1992,Unprovoked,USA,California,Surfing,M,22.0,N
+4761,December,1991,Unprovoked,USA,California,Hookah diving for sea urchins,M,25.0,N
+4762,July,1991,Unprovoked,USA,California,Surfing,M,32.0,N
+4766,October,1988,Unprovoked,USA,Florida,Surfing,M,23.0,N
+4773,November,1985,Provoked,USA,California,Fishing,M,24.0,N
+4776,June,1983,Unprovoked,USA,Florida,Swimming,M,42.0,N
+4777,March,1983,Unprovoked,USA,Florida,Surfing,M,22.0,N
+4778,February,1981,Unprovoked,USA,Florida,Surfing,M,15.0,N
+4780,November,1979,Unprovoked,USA,Oregon,Surfing,M,20.0,N
+4783,April,1979,Unprovoked,USA,Florida,Swimming,M,24.0,N
+4784,July,1976,Unprovoked,USA,Hawaii,Scuba diving,M,18.0,Y
+4786,December,1975,Unprovoked,USA,California,Scuba diving & spearfishing,M,27.0,N
+4788,August,1975,Unprovoked,USA,California,Free diving for abalone,M,44.0,N
+4789,July,1975,Unprovoked,USA,California,"Diving for abaone (Scuba, but at surface)",M,23.0,N
+4793,June,1972,Unprovoked,USA,Florida,Surfing,M,22.0,N
+4803,August,1967,Provoked,USA,California,Pulling shark from the water,M,24.0,N
+4809,August,1965,Unprovoked,USA,New Jersey,Swimming,M,15.0,N
+4815,June,1962,Unprovoked,USA,Florida,Free diving,M,31.0,N
+4829,November,1954,Unprovoked,USA,Wake Island,Spearfishing,M,22.0,N
+4891,July,2023,Unprovoked,USA,Florida,Sitting,M,49.0,N
+4892,July,2023,Unprovoked,USA,New York,Surfing,M,15.0,N
+4894,December,2022,Unprovoked,USA,Texas,Surfing,M,22.0,N
+4895,September,2021,Unprovoked,USA,Louisiana,"Fishing, fell in water",M,64.0,N
+4897,July,2020,Unprovoked,USA,North Carolina,Treading water,M,22.0,N
+4901,May,2019,Unprovoked,USA,Hawaii,Swimming,M,65.0,Y
+4908,July,2018,Unprovoked,USA,Florida,Surfing,M,30.0,N
+4912,October,2017,Unprovoked,USA,Hawaii,Surfing,M,54.0,N
+4915,September,2016,Unprovoked,USA,Florida,Body boarding,M,9.0,N
+4916,July,2016,Provoked,USA,Florida,Lobstering,M,43.0,N
+4919,May,2016,Unprovoked,USA,Florida,Swimming,M,13.0,N
+4925,August,2014,Unprovoked,USA,Florida,Surfing,M,17.0,N
+4927,May,2014,Unprovoked,USA,Florida,Surfing,M,23.0,N
+4929,December,2013,Unprovoked,USA,Florida,Surfing,M,30.0,N
+4932,July,2012,Unprovoked,USA,North Carolina,Swimming,F,43.0,N
+4937,September,2010,Unprovoked,USA,Virginia,Surfing,M,18.0,N
+4938,September,2010,Unprovoked,USA,Florida,Surfing,M,24.0,N
+4939,July,2010,Unprovoked,USA,California,Stand-Up Paddleboarding,M,48.0,N
+4941,August,2009,Unprovoked,USA,Louisiana,Wade Fishing,M,56.0,N
+4946,July,2008,Unprovoked,USA,Hawaii,Swimming,M,22.0,N
+4948,March,2008,Unprovoked,USA,Florida,Wading,M,15.0,N
+4949,September,2007,Unprovoked,USA,Florida,Wading?,M,56.0,N
+4950,September,2007,Unprovoked,USA,South Carolina,Standing,M,15.0,N
+4951,August,2007,Provoked,USA,Delaware,Fishing,M,22.0,N
+4954,September,2006,Unprovoked,USA,Florida,Surfing,M,52.0,N
+4956,July,2005,Unprovoked,USA,North Carolina,Swimming,M,22.0,N
+4957,February,2005,Unprovoked,USA,Florida,Spearfishing,M,22.0,N
+4965,July,2003,Unprovoked,USA,Florida,Spearfishing,M,22.0,N
+4966,June,2003,Unprovoked,USA,Florida,Surfing,M,15.0,N
+4972,September,2001,Provoked,USA,Florida,"Surfing, fell off surfboard & stepped on the shark.",M,21.0,N
+4973,May,2001,Unprovoked,USA,South Carolina,Swimming,M,22.0,N
+4974,April,2001,Unprovoked,USA,Florida,Surfing,M,38.0,N
+4976,November,1999,Unprovoked,USA,California,Surfing (sitting on his board),M,22.0,N
+4977,August,1999,Unprovoked,USA,South Carolina,Lying prone in 2' of water,M,10.0,N
+4979,September,1998,Unprovoked,USA,Florida,Surfing,M,18.0,N
+4980,September,1998,Unprovoked,USA,Florida,Surfing,M,28.0,N
+4984,October,1996,Unprovoked,USA,Florida,Surfing,M,21.0,N
+4994,November,1992,Unprovoked,USA,Florida,Surfing,M,24.0,N
+4995,November,1992,Unprovoked,USA,Hawaii,Body boarding,M,18.0,Y
+4996,October,1992,Unprovoked,USA,Hawaii,Surfing,M,28.0,N
+5000,August,1990,Unprovoked,USA,California,Surfing,M,22.0,N
+5002,January,1990,Unprovoked,USA,California,Surfing (sitting on his board),M,22.0,N
+5005,September,1988,Unprovoked,USA,Florida,Snorkeling,M,38.0,Y
+5007,June,1988,Unprovoked,USA,Florida,Swimming,M,12.0,N
+5008,April,1988,Unprovoked,USA,Florida,Windsurfing,M,22.0,N
+5017,May,1983,Unprovoked,USA,Florida,Surfing,M,22.0,N
+5019,September,1981,Unprovoked,USA,Florida,Surfing,M,25.0,N
+5022,September,1976,Unprovoked,USA,Florida,Swimming,M,22.0,Y
+5023,March,1976,Unprovoked,USA,Florida,Standing,M,24.0,N
+5027,October,1972,Unprovoked,USA,US Virgin Islands,Scuba diving,M,22.0,Y
+5029,March,1972,Unprovoked,USA,Hawaii,Spearfishing,M,22.0,N
+5039,July,1963,Unprovoked,USA,Florida,Bathing,M,14.0,N
+5040,July,1963,Provoked,USA,Mississippi,"Fishing, on charter boat Silver Dollar",M,24.0,N
+5048,February,1961,Provoked,USA,Pennsylvania,Cleaning a tank,M,30.0,N
+5049,August,1960,Unprovoked,USA,South Carolina,Swimming from camp,M,22.0,Y
+5050,July,1960,Unprovoked,USA,Mississippi,Pulling raft out to ride to shore,M,17.0,N
+5051,June,1960,Provoked,USA,South Carolina,Surf fishing,M,22.0,N
+5052,April,1960,Unprovoked,USA,California,Free diving for abalone diving but at surface),M,48.0,N
+5057,July,1959,Provoked,USA,Florida,Free diving,M,13.0,N
+5066,January,1956,Provoked,USA,Virginia,Removing shark from net,M,22.0,N
+5069,June,1955,Unprovoked,USA,Rhode Island,Wading,M,13.0,N
+5074,April,1953,Unprovoked,USA,Texas,Swimming,F,19.0,N
+5134,May,2023,Provoked,USA,Hawaii,Kayak fishing,M,22.0,N
+5135,October,2022,Unprovoked,USA,California,Surfing,M,22.0,N
+5137,March,2022,Provoked,USA,Florida,Fishing,M,50.0,N
+5140,February,2022,Unprovoked,USA,Florida,Surfing,M,18.0,N
+5141,December,2020,Unprovoked,USA,Hawaii,Surfing,M,56.0,Y
+5142,August,2020,Unprovoked,USA,South Carolina,Surfing,M,12.0,N
+5143,July,2020,Unprovoked,USA,Florida,Surfing,F,22.0,N
+5146,July,2019,Unprovoked,USA,Florida,Surfing,M,18.0,N
+5148,March,2019,Unprovoked,USA,Florida,Surfing,M,46.0,N
+5149,August,2018,Unprovoked,USA,North Carolina,Surfing,M,14.0,N
+5150,August,2018,Unprovoked,USA,Texas,Spearfishing,M,42.0,N
+5151,July,2018,Unprovoked,USA,Florida,Surfing,M,14.0,N
+5160,March,2016,Unprovoked,USA,Florida,Body surfing,M,19.0,N
+5162,January,2016,Unprovoked,USA,Hawaii,Surfing,F,15.0,N
+5163,September,2015,Unprovoked,USA,California,Stand-Up Paddleboarding,F,50.0,N
+5165,November,2014,Unprovoked,USA,Hawaii,Snorkeling,M,53.0,N
+5167,September,2013,Unprovoked,USA,Florida,Swimming,F,45.0,N
+5169,October,2012,Unprovoked,USA,Hawaii,Swimming,F,51.0,N
+5172,June,2012,Unprovoked,USA,North Carolina,Wading,F,6.0,N
+5174,October,2011,Unprovoked,USA,Oregon,Surfing,M,22.0,N
+5176,August,2011,Unprovoked,USA,North Carolina,Wading,F,20.0,N
+5179,December,2010,Unprovoked,USA,Hawaii,Body boarding,M,16.0,N
+5180,December,2010,Unprovoked,USA,Hawaii,Surfing,M,46.0,N
+5186,August,2009,Unprovoked,USA,California,Swimming,F,22.0,N
+5187,August,2009,Unprovoked,USA,Hawaii,Surfing,M,22.0,N
+5193,May,2007,Unprovoked,USA,South Carolina,Wading,F,22.0,N
+5194,May,2007,Provoked,USA,Virginia,Reviving a sedated shark,F,40.0,N
+5196,July,2006,Unprovoked,USA,Florida,Swimming,M,13.0,N
+5197,July,2006,Unprovoked,USA,Florida,Spearfishing,M,35.0,N
+5198,November,2005,Unprovoked,USA,California,Surfing,M,26.0,N
+5203,July,2004,Unprovoked,USA,North Carolina,Swimming,F,13.0,N
+5204,April,2004,Unprovoked,USA,Hawaii,Surfing,M,57.0,Y
+5205,November,2003,Unprovoked,USA,Florida,Surfing,F,35.0,N
+5208,October,2003,Unprovoked,USA,Florida,Surfing,M,18.0,N
+5211,November,2002,Unprovoked,USA,Florida,Boogie boarding,M,16.0,N
+5212,October,2002,Unprovoked,USA,Hawaii,Swimming,F,60.0,N
+5213,September,2002,Provoked,USA,Florida,"Wading, when he stepped on the shark",M,36.0,N
+5214,August,2002,Unprovoked,USA,Florida,Standing,M,15.0,N
+5215,July,2002,Provoked,USA,Florida,Surfing,M,19.0,N
+5218,September,2001,Unprovoked,USA,North Carolina,Swimming,M,28.0,Y
+5219,April,2001,Unprovoked,USA,Florida,Surfing,M,21.0,N
+5220,October,2000,Unprovoked,USA,Hawaii,Swimming / snorkeling,F,56.0,N
+5221,July,2000,Unprovoked,USA,North Carolina,Surfing,M,16.0,N
+5222,June,2000,Unprovoked,USA,Alabama,Swimming,M,44.0,N
+5223,August,1999,Unprovoked,USA,Florida,Surfing,M,17.0,N
+5225,March,1999,Unprovoked,USA,Hawaii,Body surfing or body boarding,M,18.0,N
+5227,September,1997,Unprovoked,USA,Florida,Surfing,M,17.0,N
+5228,August,1997,Unprovoked,USA,Florida,Surfing,M,18.0,N
+5229,May,1997,Unprovoked,USA,Florida,Surfing,M,34.0,N
+5233,September,1994,Unprovoked,USA,Oregon,Surfing,M,43.0,N
+5238,November,1991,Unprovoked,USA,Hawaii,Snorkeling,F,22.0,N
+5239,July,1991,Unprovoked,USA,Virginia,Boogie boarding,M,13.0,N
+5242,June,1988,Unprovoked,USA,North Carolina,Scuba diving,M,42.0,N
+5243,May,1988,Unprovoked,USA,Florida,Surfing,M,31.0,N
+5245,December,1987,Unprovoked,USA,Florida,Surfing,M,16.0,N
+5247,September,1984,Unprovoked,USA,Florida,Surfing,M,17.0,N
+5249,July,1984,Unprovoked,USA,Texas,Swimming,F,13.0,N
+5252,June,1982,Unprovoked,USA,Hawaii,"Sailboarding, fell into water 100 yards outside the breakwater",M,22.0,N
+5253,August,1981,Provoked,USA,Florida,Spearfishing,M,19.0,N
+5254,July,1981,Unprovoked,USA,Florida,Spearfishing,M,22.0,N
+5258,June,1978,Unprovoked,USA,Florida,Surfing,M,20.0,N
+5262,November,1976,Unprovoked,USA,Florida,Surfing,M,19.0,N
+5265,September,1972,Unprovoked,USA,California,Surfing,M,22.0,N
+5267,October,1971,Unprovoked,USA,California,Scuba diving,M,30.0,N
+5268,January,1971,Unprovoked,USA,California,Free diving,M,22.0,N
+5296,July,1957,Unprovoked,USA,North Carolina,Swimming,M,57.0,Y
+5298,January,1957,Unprovoked,USA,Florida,Helmet diving in Miami Seaquarium,M,22.0,N
+5307,August,1954,Provoked,USA,New Jersey,Surf fishing,M,22.0,N
+5381,October,2022,Unprovoked,USA,California,Surfing,M,31.0,N
+5382,July,2022,Unprovoked,USA,Florida,Surfing,M,35.0,N
+5385,February,2022,Unprovoked,USA,California,Boogie boarding,M,42.0,Y
+5387,October,2021,Unprovoked,USA,California,Surfing,M,38.0,N
+5388,April,2021,Unprovoked,USA,Hawaii,Swimming,F,57.0,N
+5390,March,2021,Unprovoked,USA,Florida,Wading,M,20.0,N
+5394,July,2020,Unprovoked,USA,Florida,Standing,M,11.0,N
+5399,May,2019,Unprovoked,USA,New Jersey,Body Boarding,M,67.0,N
+5401,April,2019,Unprovoked,USA,Hawaii,Kayaking,F,65.0,N
+5404,July,2018,Unprovoked,USA,Florida,Surfing,M,14.0,N
+5407,October,2017,Unprovoked,USA,Florida,Swimming,F,60.0,N
+5410,October,2016,Unprovoked,USA,Oregon,Surfing,M,29.0,N
+5411,August,2016,Unprovoked,USA,Florida,Wading,M,49.0,N
+5413,March,2016,Unprovoked,USA,Hawaii,Snorkeling,F,46.0,N
+5414,June,2015,Unprovoked,USA,North Carolina,Boogie boarding,F,13.0,N
+5415,June,2015,Unprovoked,USA,Florida,Playing,M,11.0,N
+5418,October,2014,Unprovoked,USA,Florida,Body surfing or Boogie boarding,F,22.0,N
+5419,September,2014,Unprovoked,USA,Florida,Surfing,M,22.0,N
+5420,August,2014,Provoked,USA,Florida,Fishing for sharks,M,22.0,N
+5421,August,2014,Unprovoked,USA,Florida,Swimming,F,10.0,N
+5424,August,2013,Unprovoked,USA,Hawaii,Snorkeling,F,20.0,Y
+5425,July,2013,Unprovoked,USA,Hawaii,Surfing,M,18.0,N
+5428,September,2012,Unprovoked,USA,Florida,Surfing,M,25.0,N
+5435,June,2011,Unprovoked,USA,North Carolina,Playing in the surf,F,10.0,N
+5437,August,2010,Unprovoked,USA,Florida,Standing,F,37.0,N
+5438,April,2010,Provoked,USA,Florida,Measuring sharks,M,29.0,N
+5440,April,2009,Unprovoked,USA,Florida,Surfing,M,31.0,N
+5444,July,2008,Unprovoked,USA,Hawaii,Snorkeling,F,44.0,N
+5445,June,2008,Unprovoked,USA,Florida,Body surfing,M,40.0,N
+5446,April,2008,Unprovoked,USA,Florida,Surfing,M,18.0,N
+5449,March,2008,Unprovoked,USA,Florida,Walking out of the water after surfing,M,13.0,N
+5451,September,2007,Unprovoked,USA,Florida,Wading,F,58.0,N
+5452,September,2007,Unprovoked,USA,Florida,Wading,F,36.0,N
+5456,May,2006,Unprovoked,USA,Florida,Swimming,F,20.0,N
+5457,April,2006,Unprovoked,USA,Florida,Wading,M,11.0,N
+5458,October,2005,Unprovoked,USA,California,Surfing,M,36.0,N
+5464,March,2003,Provoked,USA,Florida,Petting captive sharks,F,22.0,N
+5465,September,2002,Unprovoked,USA,Florida,Surfing,M,47.0,N
+5467,April,2002,Unprovoked,USA,Florida,Surfing,M,28.0,N
+5469,January,2002,Unprovoked,USA,Hawaii,Snorkeling,M,35.0,N
+5474,May,2001,Unprovoked,USA,Florida,Surfing,M,45.0,N
+5478,August,1998,Unprovoked,USA,California,Boogie boarding,M,16.0,N
+5479,January,1998,Unprovoked,USA,Virginia,Spearfishing on scuba & transferring fish onto a stringer,M,22.0,N
+5480,June,1997,Unprovoked,USA,Florida,Surfing,M,18.0,N
+5487,November,1992,Unprovoked,USA,Florida,Surfing,M,17.0,N
+5490,September,1989,Provoked,USA,California,Filming 5' blue shark,M,46.0,N
+5496,August,1983,Unprovoked,USA,Oregon,Surfing,M,22.0,N
+5497,August,1983,Unprovoked,USA,Virginia,Swimming,F,14.0,N
+5498,February,1982,Unprovoked,USA,Hawaii,Swimming,F,22.0,N
+5501,August,1977,Unprovoked,USA,California,Free diving for abalone (surfacing),M,20.0,N
+5503,January,1976,Unprovoked,USA,Florida,Spearfishing / scuba diving,M,25.0,N
+5505,May,1974,Unprovoked,USA,California,Free diving (but on surface),M,45.0,N
+5508,August,1972,Unprovoked,USA,Florida,Surfing,M,15.0,N
+5509,October,1971,Unprovoked,USA,Florida,Surfing,M,18.0,N
+5512,October,1970,Unprovoked,USA,Hawaii,Body surfing,M,22.0,N
+5513,June,1970,Provoked,USA,Florida,Fishing,M,13.0,N
+5527,November,1962,Unprovoked,USA,California,Spearfishing / Scuba diving (at surface),M,24.0,N
+5528,July,1962,Provoked,USA,California,Fishing for albacore,M,19.0,N
+5537,April,1959,Unprovoked,USA,Hawaii,Fishing,M,22.0,N
+5539,July,1958,Provoked,USA,Florida,Free diving,M,20.0,N
+5545,August,1955,Provoked,USA,South Carolina,Fishing,M,22.0,N
+5624,October,2021,Unprovoked,USA,Florida,Surfing,M,25.0,N
+5625,October,2021,Unprovoked,USA,Florida,Swimming,M,22.0,N
+5626,May,2021,Unprovoked,USA,South Carolina,Swimming,M,26.0,N
+5627,May,2021,Unprovoked,USA,Hawaii,Surfing,M,14.0,N
+5631,October,2020,Unprovoked,USA,Florida,Swimming,M,17.0,N
+5633,August,2020,Unprovoked,USA,Virgin Islands,Snorkeling,F,22.0,N
+5637,August,2019,Unprovoked,USA,Florida,Surfing,F,21.0,N
+5638,August,2019,Unprovoked,USA,Florida,Spearfishing / Diving,M,37.0,N
+5641,October,2018,Unprovoked,USA,Florida,Surfing,F,22.0,N
+5646,June,2017,Unprovoked,USA,Florida,Surfing,M,19.0,N
+5651,July,2016,Unprovoked,USA,South Carolina,Swimming,M,22.0,N
+5657,October,2015,Unprovoked,USA,Hawaii,Surfing,M,25.0,N
+5659,June,2015,Unprovoked,USA,Florida,Swimming,M,10.0,N
+5664,October,2014,Unprovoked,USA,South Carolina,Standing in inner tube,F,7.0,N
+5665,October,2014,Unprovoked,USA,California,Surfing,M,28.0,N
+5670,November,2013,Unprovoked,USA,Oregon,Surfing,M,25.0,N
+5671,October,2013,Unprovoked,USA,California,Surfing,M,45.0,N
+5672,June,2013,Unprovoked,USA,Hawaii,Swimming,M,28.0,N
+5677,November,2012,Unprovoked,USA,Florida,Surfing,M,14.0,N
+5678,September,2012,Unprovoked,USA,Florida,Boogie boarding,F,8.0,N
+5680,June,2012,Provoked,USA,Florida,Fishing,M,23.0,N
+5681,June,2012,Unprovoked,USA,Florida,Surfing,F,12.0,N
+5683,February,2012,Provoked,USA,Florida,Kite Surfing,M,22.0,N
+5684,August,2011,Unprovoked,USA,Florida,Surfing,M,19.0,N
+5687,February,2010,Unprovoked,USA,Florida,Kite Boarding,M,38.0,Y
+5693,July,2009,Unprovoked,USA,California,Paddle-surfing,M,22.0,N
+5694,April,2009,Unprovoked,USA,California,Surfing,M,22.0,N
+5699,March,2008,Unprovoked,USA,California,Surfing,M,27.0,N
+5702,September,2007,Unprovoked,USA,Florida,Surfing,F,22.0,N
+5703,August,2007,Unprovoked,USA,Florida,Surfing,M,27.0,N
+5704,May,2007,Unprovoked,USA,Florida,Swimming,M,68.0,N
+5711,October,2002,Unprovoked,USA,Florida,Surfing,M,18.0,N
+5712,June,2001,Provoked,USA,California,Spearfishing,M,52.0,N
+5714,September,2000,Unprovoked,USA,Florida,Surfing,F,26.0,N
+5716,August,2000,Unprovoked,USA,Florida,Swimming,M,47.0,N
+5717,August,2000,Unprovoked,USA,Florida,Surfing / Wading,M,27.0,N
+5719,July,2000,Unprovoked,USA,North Carolina,Surfing,M,14.0,N
+5723,October,1999,Unprovoked,USA,Florida,Body surfing,M,13.0,N
+5724,October,1998,Unprovoked,USA,Florida,Surfing,M,22.0,N
+5725,May,1998,Unprovoked,USA,Florida,Swimming,F,14.0,N
+5726,September,1996,Unprovoked,USA,Florida,Standing,M,5.0,N
+5729,October,1995,Unprovoked,USA,Florida,Boogie boarding,M,13.0,N
+5731,June,1995,Unprovoked,USA,Georgia,Playing / jumping,M,13.0,N
+5735,December,1993,Unprovoked,USA,Hawaii,Surfing,M,22.0,Y
+5739,March,1993,Unprovoked,USA,Florida,Floating on his back,M,25.0,N
+5740,September,1992,Unprovoked,USA,Oregon,Surfing,M,20.0,N
+5743,November,1991,Provoked,USA,Florida,Fishing,M,22.0,N
+5744,October,1991,Unprovoked,USA,California,Surfing,M,32.0,N
+5745,October,1990,Unprovoked,USA,Florida,Surfing,M,18.0,N
+5746,October,1990,Unprovoked,USA,Hawaii,Surfing,M,43.0,N
+5747,April,1989,Unprovoked,USA,Hawaii,Paddling on surfboard,M,22.0,N
+5749,October,1986,Unprovoked,USA,Florida,Swimming,F,6.0,N
+5751,February,1985,Unprovoked,USA,California,Scuba Diving for lobster (at surface),M,29.0,N
+5754,September,1984,Unprovoked,USA,Oregon,Surfing (sitting on his board),M,25.0,N
+5757,January,1984,Provoked,USA,California,Steinhart Aquarium,M,22.0,N
+5759,November,1982,Unprovoked,USA,South Carolina,In waist-deep water,M,22.0,N
+5762,October,1980,Unprovoked,USA,California,Surfing,M,19.0,N
+5763,November,1978,Unprovoked,USA,Florida,Surfing,M,17.0,N
+5766,June,1975,Unprovoked,USA,Florida,Surfing,M,20.0,N
+5768,September,1974,Unprovoked,USA,California,Scuba diving (but on surface),M,48.0,N
+5771,January,1973,Unprovoked,USA,Hawaii,Surfing,M,22.0,N
+5783,June,1962,Unprovoked,USA,California,Escaping from Alacatraz,M,35.0,Y
+5784,June,1962,Unprovoked,USA,South Carolina,Standing,M,13.0,N
+5792,August,1960,Unprovoked,USA,New Jersey,Swimming 3 miles offshore,M,25.0,N
+5802,July,1956,Provoked,USA,Puerto Rico,Floating in inner tube,M,13.0,Y
+5806,September,1953,Unprovoked,USA,California,Scuba diving,M,22.0,N
+5807,July,1953,Unprovoked,USA,Hawaii,Spearfishing,M,15.0,Y
+5811,July,1952,Provoked,USA,South Carolina,Fishing,M,43.0,N
+5812,July,1952,Provoked,USA,South Carolina,Fishing,M,34.0,N
+5872,July,2023,Unprovoked,USA,New York,Swimming,F,15.0,N
+5877,January,2022,Unprovoked,USA,Florida,Wing Foil Surfing,F,42.0,N
+5879,July,2021,Unprovoked,USA,Florida,Playing,F,9.0,N
+5886,October,2018,Unprovoked,USA,Florida,Surfing,F,22.0,N
+5888,September,2018,Unprovoked,USA,Hawaii,Stand-Up Paddleboarding,M,23.0,N
+5890,April,2018,Provoked,USA,Texas,Fishing,M,22.0,N
+5893,August,2017,Unprovoked,USA,Massachusetts,SUP,M,69.0,N
+5896,July,2016,Unprovoked,USA,Florida,Swimming,F,42.0,N
+5897,June,2016,Unprovoked,USA,South Carolina,Floating,M,42.0,N
+5899,October,2015,Unprovoked,USA,South Carolina,Boogie boarding,F,9.0,N
+5900,September,2015,Unprovoked,USA,Florida,Surfing,M,20.0,N
+5901,August,2015,Unprovoked,USA,South Carolina,Surfing,M,15.0,N
+5903,April,2015,Unprovoked,USA,Florida,Spearfishing,M,70.0,N
+5905,August,2014,Provoked,USA,Maryland,Fishing,M,33.0,N
+5906,July,2014,Unprovoked,USA,Florida,Standing,M,8.0,N
+5911,December,2011,Unprovoked,USA,Oregon,Surfing,F,22.0,N
+5912,June,2011,Unprovoked,USA,Florida,Jet skiing,M,20.0,N
+5916,November,2010,Provoked,USA,Palmyra Atoll,Snorkeling,M,33.0,N
+5917,September,2010,Unprovoked,USA,Florida,Surfing,M,24.0,N
+5918,June,2010,Unprovoked,USA,Texas,Surfing,M,20.0,N
+5923,July,2009,Provoked,USA,Florida,Swimming,F,43.0,N
+5926,May,2008,Unprovoked,USA,Florida,Wading,M,6.0,N
+5927,April,2008,Unprovoked,USA,Florida,Surfing,M,24.0,N
+5930,July,2007,Unprovoked,USA,Florida,Surfing,M,18.0,N
+5931,June,2007,Unprovoked,USA,Hawaii,Surfing,M,22.0,N
+5936,April,2006,Unprovoked,USA,Florida,Surfing,M,54.0,N
+5942,July,2004,Unprovoked,USA,Florida,Surfing,F,20.0,N
+5945,April,2003,Unprovoked,USA,Florida,Surfing,M,18.0,N
+5947,August,2002,Unprovoked,USA,North Carolina,Standing,M,14.0,N
+5948,May,2002,Unprovoked,USA,Florida,Playing in the surf with his 2 dogs,M,35.0,N
+5953,November,1999,Unprovoked,USA,Hawaii,Swimming,F,51.0,N
+5955,August,1998,Unprovoked,USA,Virginia,Spearfishing,M,22.0,N
+5958,July,1997,Unprovoked,USA,South Carolina,Standing,M,50.0,N
+5959,November,1996,Unprovoked,USA,California,Surfing,M,45.0,N
+5960,September,1996,Unprovoked,USA,Florida,Swimming,M,14.0,N
+5961,January,1996,Unprovoked,USA,North Carolina,Surfing,M,22.0,N
+5962,September,1995,Unprovoked,USA,Florida,Scuba diving,M,25.0,Y
+5964,July,1995,Unprovoked,USA,Florida,Body boarding,M,47.0,N
+5965,May,1994,Unprovoked,USA,Florida,Wading,M,26.0,N
+5966,March,1994,Provoked,USA,California,Removing shark from tank in nightclub,M,33.0,N
+5968,March,1993,Unprovoked,USA,Hawaii,Paddling on surfboard,M,35.0,N
+5970,August,1991,Provoked,USA,Florida,Fishing,M,22.0,N
+5973,March,1988,Unprovoked,USA,Florida,Standing,F,30.0,N
+5974,April,1987,Unprovoked,USA,Hawaii,Swimming from shore to anchored sailboat,M,22.0,Y
+5977,March,1985,Unprovoked,USA,Florida,Surfing,M,25.0,N
+5978,June,1984,Unprovoked,USA,Hawaii,Towing her sister on plastic ski board,F,13.0,N
+5981,February,1982,Unprovoked,USA,Florida,Surfing,M,18.0,N
+5982,October,1981,Unprovoked,USA,Florida,Surfing,M,17.0,N
+5984,July,1980,Unprovoked,USA,Delaware,Standing,F,22.0,N
+5988,October,1976,Unprovoked,USA,California,Surfing,M,25.0,N
+5991,July,1975,Unprovoked,USA,Florida,Free diving,M,24.0,N
+5992,May,1975,Unprovoked,USA,Florida,Surfing,M,17.0,N
+6007,June,1961,Unprovoked,USA,Florida,Standing,M,25.0,N
+6022,February,1955,Unprovoked,USA,California,Spearfishing,M,19.0,N
+6023,September,1954,Unprovoked,USA,California,Swimming,M,35.0,N
+6112,July,2023,Unprovoked,USA,New York,Standing,F,22.0,N
+6118,July,2021,Unprovoked,USA,North Carolina,Standing,M,15.0,N
+6120,July,2021,Provoked,USA,BAHAMAS,Spearfishing,F,19.0,N
+6121,June,2021,Unprovoked,USA,California,Canoeing,M,15.0,N
+6124,September,2020,Unprovoked,USA,Florida,Surfing,M,25.0,N
+6125,August,2020,Unprovoked,USA,North Carolina,Surfing,M,54.0,N
+6126,July,2020,Unprovoked,USA,Florida,Wading,F,12.0,N
+6128,November,2019,Unprovoked,USA,California,Surfing,F,22.0,N
+6130,February,2019,Unprovoked,USA,California,Surfing,M,22.0,N
+6136,September,2017,Unprovoked,USA,Florida,Surfing,M,22.0,N
+6141,January,2017,Unprovoked,USA,Florida,Wading,M,47.0,N
+6143,June,2016,Unprovoked,USA,North Carolina,Standing,M,19.0,N
+6148,January,2016,Unprovoked,USA,Hawaii,Paddle boarding,M,48.0,N
+6152,July,2015,Unprovoked,USA,California,Surfing,M,38.0,N
+6153,June,2015,Unprovoked,USA,South Carolina,Standing,M,43.0,N
+6158,April,2014,Unprovoked,USA,Florida,Swimming,M,42.0,N
+6164,May,2013,Unprovoked,USA,Florida,Swimming,M,11.0,N
+6166,April,2013,Unprovoked,USA,Florida,Surfing,M,21.0,N
+6167,October,2012,Unprovoked,USA,California,Surfing,M,39.0,Y
+6169,April,2012,Unprovoked,USA,Florida,Surfing,M,28.0,N
+6177,October,2011,Unprovoked,USA,Florida,Surfing,M,22.0,N
+6179,July,2011,Unprovoked,USA,North Carolina,Boogie Boarding,F,6.0,N
+6186,August,2009,Unprovoked,USA,Florida,Swimming,M,26.0,N
+6191,August,2008,Unprovoked,USA,US Virgin Islands,Treading water,F,38.0,N
+6192,August,2008,Unprovoked,USA,Hawaii,Diving,M,22.0,N
+6193,July,2008,Unprovoked,USA,North Carolina,Wading,M,9.0,N
+6195,March,2008,Unprovoked,USA,Florida,Boogie Boarding,M,22.0,N
+6197,August,2007,Unprovoked,USA,Hawaii,Body boarding,M,15.0,N
+6198,August,2007,Unprovoked,USA,Florida,Swimming,M,52.0,N
+6199,October,2006,Unprovoked,USA,Florida,Surfing,M,20.0,N
+6200,February,2006,Unprovoked,USA,Hawaii,Standing,F,15.0,N
+6205,October,2004,Unprovoked,USA,Hawaii,Spearfishing,M,34.0,N
+6206,October,2004,Unprovoked,USA,California,Surfing,M,40.0,N
+6208,August,2004,Unprovoked,USA,California,Surfing,M,22.0,N
+6209,June,2004,Unprovoked,USA,California,Surfing,M,45.0,N
+6212,July,2003,Unprovoked,USA,Florida,Wading,F,15.0,N
+6213,April,2003,Unprovoked,USA,Florida,Swimming (using a float),M,20.0,N
+6215,April,2001,Unprovoked,USA,Florida,Body boarding,M,12.0,N
+6219,March,2000,Unprovoked,USA,Florida,Boogie boarding,F,14.0,N
+6230,July,1995,Unprovoked,USA,Texas,Surfing,M,34.0,N
+6237,July,1992,Unprovoked,USA,Florida,Standing,F,42.0,N
+6240,September,1990,Unprovoked,USA,California,"Free diving / spearfishing, from paddleboard & floating on the surface",M,49.0,N
+6242,June,1989,Unprovoked,USA,Louisiana,Spearfishing,M,45.0,N
+6244,October,1988,Unprovoked,USA,Florida,Wading,F,23.0,N
+6247,June,1987,Provoked,USA,Florida,Fishing,M,22.0,N
+6249,September,1985,Unprovoked,USA,Florida,Scuba diving,M,22.0,N
+6250,July,1985,Unprovoked,USA,Florida,Surfing,M,15.0,N
+6252,October,1984,Unprovoked,USA,Florida,Surfing or body surfing,F,23.0,N
+6253,October,1984,Unprovoked,USA,Florida,Surfing,M,15.0,N
+6254,September,1984,Unprovoked,USA,California,"Free diving , but surfacing",M,22.0,N
+6255,August,1983,Unprovoked,USA,Florida,Diving,F,22.0,N
+6263,June,1976,Unprovoked,USA,Hawaii,Swimming,M,22.0,N
+6275,August,1967,Unprovoked,USA,Florida,Spearfishing,M,15.0,N
+6286,May,1961,Unprovoked,USA,Florida,Walking in chest-deep water,M,52.0,N
+6291,March,1959,Unprovoked,USA,Florida,Swimming,M,13.0,N
+6358,July,2023,Unprovoked,USA,Florida,Surfing,M,22.0,N
+6360,May,2023,Unprovoked,USA,Florida,Sitting,F,13.0,N
+6364,August,2022,Unprovoked,USA,South Carolina,Swimming,F,22.0,N
+6365,July,2022,Unprovoked,USA,Florida,Surfing,M,28.0,N
+6366,June,2022,Unprovoked,USA,California,Swimming,M,62.0,N
+6372,July,2021,Unprovoked,USA,Florida,Boogie boarding,M,11.0,N
+6375,May,2021,Unprovoked,USA,Hawaii,Kite Foiling,M,35.0,N
+6377,February,2021,Unprovoked,USA,Hawaii,Surfing,M,22.0,N
+6379,July,2020,Unprovoked,USA,Bahamas,Spearfishing,M,23.0,N
+6381,June,2020,Unprovoked,USA,Hawaii,Surfing,M,22.0,N
+6384,July,2019,Unprovoked,USA,North Carolina,Body-surfing,F,22.0,N
+6385,July,2019,Unprovoked,USA,Florida,Boogie boarding,F,16.0,N
+6386,June,2019,Unprovoked,USA,North Carolina,Swimming,M,8.0,N
+6389,November,2017,Unprovoked,USA,Florida,Surfing,F,14.0,N
+6390,October,2017,Unprovoked,USA,Florida,Swimming,M,22.0,N
+6394,February,2017,Unprovoked,USA,Florida,Swimming,M,22.0,N
+6399,August,2016,Unprovoked,USA,Florida,Surfing,M,22.0,N
+6401,June,2016,Unprovoked,USA,North Carolina,Surfing,M,11.0,N
+6404,May,2016,Unprovoked,USA,Florida,Swimming,F,22.0,N
+6410,October,2014,Unprovoked,USA,Hawaii,Surfing,F,34.0,N
+6412,June,2014,Unprovoked,USA,Florida,Swimming,F,22.0,N
+6413,May,2014,Unprovoked,USA,Florida,Body boarding,F,38.0,N
+6415,October,2013,Unprovoked,USA,Hawaii,Surfing,M,25.0,N
+6419,March,2012,Unprovoked,USA,Florida,Surfing,M,17.0,N
+6420,January,2012,Unprovoked,USA,Oregon,Surfing,M,53.0,N
+6422,October,2011,Unprovoked,USA,California,Surfing,M,27.0,N
+6423,October,2011,Unprovoked,USA,Florida,Wade fishing,M,22.0,N
+6424,June,2011,Unprovoked,USA,Florida,Scuba diving,M,28.0,N
+6428,September,2010,Unprovoked,USA,Florida,Surfing,M,22.0,N
+6430,November,2009,Unprovoked,USA,California,Surfing,M,21.0,N
+6432,April,2009,Unprovoked,USA,Florida,Wading,M,15.0,N
+6434,October,2008,Unprovoked,USA,Florida,Fishing,M,11.0,N
+6437,June,2008,Unprovoked,USA,South Carolina,Swimming,M,37.0,N
+6439,March,2008,Unprovoked,USA,Florida,Wading,M,14.0,N
+6440,August,2007,Unprovoked,USA,South Carolina,Playing,M,7.0,N
+6441,September,2006,Provoked,USA,Florida,Diving / Kissing the shark,M,22.0,N
+6442,July,2006,Unprovoked,USA,Florida,Walking,M,11.0,N
+6444,June,2006,Unprovoked,USA,Florida,Surfing,F,22.0,N
+6446,November,2005,Unprovoked,USA,Florida,Surfing,M,23.0,N
+6447,July,2005,Unprovoked,USA,Florida,Standing,M,19.0,N
+6450,June,2003,Unprovoked,USA,North Carolina,Surfing,M,33.0,N
+6451,August,2002,Unprovoked,USA,Hawaii,Surfing,M,16.0,N
+6452,August,2001,Unprovoked,USA,Florida,Wading,M,69.0,N
+6455,April,2001,Unprovoked,USA,Florida,Standing alongside surfboard,M,26.0,N
+6458,September,2000,Unprovoked,USA,Florida,Standing / surfing,M,49.0,N
+6460,July,2000,Unprovoked,USA,Florida,Wading,M,13.0,N
+6461,April,1999,Unprovoked,USA,Florida,Surfing,M,14.0,N
+6462,March,1999,Unprovoked,USA,Hawaii,Swimming near pod of whales,F,29.0,N
+6463,August,1998,Unprovoked,USA,Florida,Surfing,M,26.0,N
+6466,May,1997,Unprovoked,USA,Florida,Surfing,M,12.0,N
+6467,September,1996,Unprovoked,USA,Florida,Surfing / Swimming,M,19.0,N
+6469,May,1996,Unprovoked,USA,Florida,Surfing,M,22.0,N
+6470,January,1996,Provoked,USA,Florida,Wading,M,33.0,N
+6471,September,1995,Unprovoked,USA,California,Abalone diving using Hookah (resting on the surface),M,32.0,N
+6472,July,1995,Unprovoked,USA,Florida,Surfing,M,22.0,N
+6477,October,1994,Unprovoked,USA,Florida,Surfing,M,16.0,N
+6478,May,1994,Unprovoked,USA,Florida,Wading,F,36.0,N
+6481,July,1991,Unprovoked,USA,Florida,Snorkeling,M,39.0,N
+6483,June,1991,Unprovoked,USA,Florida,Surfing,M,18.0,N
+6484,April,1991,Unprovoked,USA,Florida,"Surfing, collided with shark",M,22.0,N
+6485,November,1990,Unprovoked,USA,Florida,Surfing,M,24.0,N
+6490,October,1987,Unprovoked,USA,California,Surfing,M,20.0,N
+6491,August,1987,Unprovoked,USA,California,Surfing (sitting on his board),M,40.0,N
+6492,February,1987,Unprovoked,USA,Florida,Windsurfing,M,22.0,N
+6499,December,1983,Unprovoked,USA,Florida,Surfing,M,17.0,N
+6500,June,1980,Provoked,USA,California,Scuba diving,F,44.0,N
+6508,June,1977,Provoked,USA,Florida,Spearfishing / Scuba diving,M,27.0,N
+6512,September,1974,Unprovoked,USA,California,Diving for abalone (Hookah),M,29.0,N
+6513,December,1973,Unprovoked,USA,Hawaii,Swimming,M,22.0,N
+6514,July,1971,Unprovoked,USA,Florida,Wading,M,8.0,N
+6517,August,1969,Unprovoked,USA,Florida,Body surfing,M,13.0,N
+6518,October,1968,Unprovoked,USA,Florida,Spearfishing using Scuba,M,22.0,N
+6521,September,1966,Provoked,USA,Florida,Hunting crayfish,M,14.0,N
+6522,July,1966,Provoked,USA,South Carolina,Killing a shark,M,34.0,N
+6525,March,1965,Unprovoked,USA,Florida,Free diving,M,16.0,N
+6529,September,1963,Provoked,USA,Florida,"Spearfishing, pulled shark’s tail",M,16.0,N
+6555,July,1954,Unprovoked,USA,Louisiana,Wading,F,4.0,N
+6558,June,1951,Unprovoked,USA,Hawaii,Swept out to sea while fishing,M,22.0,Y
+6646,December,2022,Unprovoked,USA,Hawaii,Swimming,M,68.0,N
+6647,July,2022,Provoked,USA,Florida,Fishing,M,22.0,N
+6648,August,2021,Unprovoked,USA,Florida,Snorkeling,M,15.0,N
+6650,June,2021,Unprovoked,USA,California,Swimming,M,38.0,N
+6651,April,2021,Unprovoked,USA,Florida,Surfing,F,64.0,N
+6653,July,2020,Unprovoked,USA,Florida,Surfing,F,15.0,N
+6654,March,2020,Unprovoked,USA,Florida,Surfing,M,22.0,N
+6656,October,2018,Unprovoked,USA,California,Kayak fishing,M,22.0,N
+6657,July,2018,Unprovoked,USA,New York,Boogie Boarding,M,13.0,N
+6658,May,2018,Unprovoked,USA,Florida,Walking,M,15.0,N
+6665,May,2017,Unprovoked,USA,Florida,Feeding sharks,M,22.0,N
+6667,August,2016,Unprovoked,USA,Hawaii,SUP Foil boarding,M,21.0,N
+6673,April,2015,Unprovoked,USA,Florida,Photographing the shark,M,48.0,N
+6676,September,2014,Unprovoked,USA,Alabama,Fishing,M,43.0,N
+6678,April,2014,Unprovoked,USA,Florida,Surfing,M,15.0,N
+6682,September,2013,Unprovoked,USA,Florida,Swimming,M,17.0,N
+6683,February,2013,Unprovoked,USA,Hawaii,Surfing,M,22.0,N
+6684,January,2013,Unprovoked,USA,Hawaii,Surfing,M,43.0,N
+6685,November,2012,Unprovoked,USA,Hawaii,Snorkeling,M,61.0,N
+6686,October,2012,Unprovoked,USA,California,Surfing,M,25.0,N
+6687,October,2012,Unprovoked,USA,Florida,Surfing,M,24.0,N
+6688,August,2012,Unprovoked,USA,Florida,Free diving,M,56.0,N
+6689,July,2012,Unprovoked,USA,California,Surfing,M,17.0,N
+6690,June,2012,Unprovoked,USA,South Carolina,Boogie Boarding,M,25.0,N
+6697,May,2011,Unprovoked,USA,Hawaii,Paddle boarding,F,22.0,N
+6701,August,2010,Unprovoked,USA,Florida,Boogie Boarding,M,10.0,N
+6704,November,2009,Unprovoked,USA,Florida,Surfing,M,22.0,N
+6709,June,2008,Unprovoked,USA,Florida,Surfing,M,29.0,N
+6710,January,2008,Unprovoked,USA,Florida,Surfing,M,20.0,N
+6711,October,2007,Unprovoked,USA,Florida,Surfing,M,16.0,N
+6712,September,2007,Unprovoked,USA,Florida,Jumping,F,12.0,N
+6713,August,2007,Unprovoked,USA,Florida,Floating near boat & observing bioluminesce,M,20.0,N
+6715,April,2007,Unprovoked,USA,Florida,Body boarding,M,12.0,N
+6718,September,2006,Unprovoked,USA,North Carolina,Surfing,M,16.0,N
+6728,July,2003,Unprovoked,USA,Florida,Surfing,M,18.0,N
+6732,May,2002,Unprovoked,USA,Florida,Fishing,M,31.0,N
+6736,August,2001,Unprovoked,USA,Florida,Surfing,F,17.0,N
+6738,April,2001,Unprovoked,USA,Florida,Surfing,M,12.0,N
+6739,April,2001,Unprovoked,USA,Florida,Surfing,M,19.0,N
+6741,June,2000,Unprovoked,USA,Florida,Snorkeling,M,13.0,N
+6742,April,2000,Unprovoked,USA,Florida,Walking,M,34.0,N
+6745,September,1998,Unprovoked,USA,Florida,Surfing,M,6.0,N
+6748,May,1998,Unprovoked,USA,Florida,Surfing,M,40.0,N
+6749,October,1997,Unprovoked,USA,Florida,Swimming,F,14.0,N
+6752,August,1997,Unprovoked,USA,Florida,Body surfing,M,17.0,N
+6753,September,1996,Unprovoked,USA,Florida,Sitting on surfboard,M,28.0,N
+6754,May,1995,Unprovoked,USA,Florida,Surfing,M,15.0,N
+6757,February,1994,Unprovoked,USA,Florida,Surfing,M,23.0,N
+6758,November,1993,Unprovoked,USA,Hawaii,"Surfing, paddling shorewards",M,22.0,N
+6759,November,1990,Unprovoked,USA,California,Scuba diving (but on surface),F,22.0,N
+6763,December,1986,Unprovoked,USA,Florida,Surfing,M,40.0,N
+6765,October,1985,Unprovoked,USA,California,Diving for abalone (Hookah),M,46.0,N
+6766,July,1984,Unprovoked,USA,Texas,Swimming,F,18.0,N
+6768,July,1982,Unprovoked,USA,California,Paddle Boarding,M,26.0,N
+6770,March,1981,Unprovoked,USA,Florida,Standing / Wading,M,19.0,N
+6773,July,1978,Provoked,USA,California,Fishing,M,27.0,N
+6782,March,1970,Unprovoked,USA,Florida,Wading,M,19.0,N
+6783,November,1969,Unprovoked,USA,Hawaii,Scuba diving for lobsters,M,22.0,N
+6798,June,1962,Provoked,USA,California,"Scuba diving, attempting to catch a captive shark",M,55.0,N
+6813,August,1957,Provoked,USA,Florida,Attempting to net shark in shark channel,M,22.0,N
+6814,July,1957,Provoked,USA,California,Spearfishing on Scuba,M,22.0,N
+6820,July,1953,Unprovoked,USA,Florida,Standing,F,26.0,N
+6821,July,1952,Provoked,USA,California,Fishing,M,34.0,N
