@@ -1,0 +1,1760 @@
+,Month,Year,Type,Area,Sex,Fatal (Y/N)
+0,July,2023,Unprovoked,Florida,F,N
+1,March,2022,Provoked,Florida,M,N
+2,January,2021,Unprovoked,Hawaii,M,N
+3,January,2021,Unprovoked,Florida,M,N
+4,August,2019,Unprovoked,Florida,M,N
+5,March,2019,Unprovoked,Florida,M,N
+6,July,2018,Unprovoked,New York,F,N
+7,July,2018,Unprovoked,South Carolina,F,N
+8,October,2017,Unprovoked,Hawaii,M,N
+9,September,2016,Unprovoked,California,M,N
+10,May,2016,Unprovoked,Florida,F,N
+11,July,2013,Unprovoked,Alabama,F,N
+12,June,2013,Provoked,Florida,M,N
+13,June,2011,Unprovoked,Florida,M,N
+14,May,2011,Unprovoked,Texas,F,N
+15,October,2010,Unprovoked,Oregon,M,N
+16,May,2010,Provoked,Florida,M,N
+17,November,2009,Unprovoked,Florida,M,N
+18,September,2008,Unprovoked,Florida,M,N
+19,September,2007,Unprovoked,Florida,F,N
+20,August,2007,Provoked,North Carolina,M,N
+21,September,2006,Unprovoked,Florida,M,N
+22,September,2006,Unprovoked,Florida,M,N
+23,June,2006,Unprovoked,Florida,F,N
+24,October,2005,Unprovoked,California,F,N
+25,April,2005,Unprovoked,Texas,M,N
+26,June,2004,Unprovoked,Florida,F,N
+27,October,2003,Unprovoked,Florida,M,N
+28,May,2003,Provoked,Florida,M,N
+29,November,2002,Unprovoked,California,M,N
+30,September,2002,Unprovoked,California,M,N
+31,April,2002,Unprovoked,Florida,M,N
+32,November,2000,Unprovoked,Florida,M,N
+33,August,2000,Unprovoked,Florida,F,N
+34,September,1999,Unprovoked,South Carolina,F,N
+35,November,1998,Unprovoked,Florida,M,N
+36,July,1998,Unprovoked,Florida,M,N
+37,October,1997,Unprovoked,Florida,M,N
+38,August,1997,Unprovoked,Florida,M,N
+39,June,1997,Unprovoked,Hawaii,M,N
+40,August,1996,Unprovoked,Hawaii,M,N
+41,July,1996,Unprovoked,Massachusetts,M,N
+42,July,1996,Unprovoked,Florida,F,N
+43,June,1995,Unprovoked,California,M,N
+44,June,1995,Unprovoked,Hawaii,M,N
+45,August,1993,Unprovoked,California,M,N
+46,March,1992,Unprovoked,Oregon,M,N
+47,February,1990,Unprovoked,Hawaii,M,Y
+48,June,1988,Unprovoked,Florida,M,N
+49,November,1984,Unprovoked,Florida,M,N
+50,January,1983,Provoked,North & South Carolina,M,N
+51,July,1982,Unprovoked,Florida,M,N
+52,August,1980,Unprovoked,Louisiana,M,N
+53,December,1977,Unprovoked,Florida,M,N
+54,June,1976,Unprovoked,Florida,M,N
+55,June,1975,Unprovoked,South Carolina,F,N
+56,March,1975,Unprovoked,Florida,M,N
+57,September,1970,Unprovoked,South Carolina,M,N
+58,August,1960,Provoked,Florida,M,N
+59,December,1952,Unprovoked,California,M,Y
+60,May,2023,Unprovoked,New Jersey,F,N
+61,August,2022,Unprovoked,South Carolina,F,N
+62,August,2021,Unprovoked,Florida,M,N
+63,June,2021,Unprovoked,Florida,M,N
+64,November,2020,Unprovoked,Hawaii,F,N
+65,August,2020,Unprovoked,California,M,N
+66,August,2020,Unprovoked,Florida,F,N
+67,July,2020,Unprovoked,Alabama,M,N
+68,October,2019,Unprovoked,Florida,M,N
+69,September,2019,Unprovoked,Hawaii,F,N
+70,August,2019,Unprovoked,Hawaii,M,N
+71,August,2018,Unprovoked,Massachusetts,M,N
+72,July,2018,Unprovoked,Florida,M,N
+73,June,2018,Provoked,Florida,M,N
+74,September,2017,Unprovoked,Florida,M,N
+75,December,2015,Unprovoked,Hawaii,M,N
+76,June,2015,Unprovoked,North Carolina,M,N
+77,June,2015,Unprovoked,Florida,F,N
+78,November,2014,Unprovoked,Florida,M,N
+79,December,2013,Unprovoked,Hawaii,M,Y
+80,June,2008,Unprovoked,Florida,F,N
+81,October,2007,Unprovoked,Hawaii,M,N
+82,August,2007,Unprovoked,Florida,M,N
+83,July,2007,Unprovoked,California,M,N
+84,May,2007,Unprovoked,Florida,F,N
+85,May,2007,Unprovoked,Hawaii,F,N
+86,May,2006,Unprovoked,Hawaii,M,N
+87,May,2006,Unprovoked,Guam,F,N
+88,November,2005,Unprovoked,California,M,N
+89,June,2005,Unprovoked,Texas,M,N
+90,May,2005,Unprovoked,Hawaii,M,N
+91,September,2003,Unprovoked,Florida,M,N
+92,September,2003,Unprovoked,South Carolina,M,N
+93,May,2003,Unprovoked,Florida,F,N
+94,April,2003,Unprovoked,Florida,M,N
+95,September,2001,Unprovoked,North Carolina,F,N
+96,January,2001,Unprovoked,California,M,N
+97,October,2000,Unprovoked,Florida,M,N
+98,June,1999,Unprovoked,Florida,M,N
+99,June,1999,Unprovoked,Florida,M,N
+100,April,1998,Unprovoked,Oregon,M,N
+101,August,1997,Unprovoked,Texas,F,N
+102,September,1995,Unprovoked,Florida,F,N
+103,November,1992,Unprovoked,California,M,N
+104,November,1991,Unprovoked,Hawaii,F,Y
+105,July,1991,Unprovoked,Florida,M,N
+106,October,1990,Unprovoked,Florida,M,N
+107,August,1990,Unprovoked,Texas,M,N
+108,April,1989,Unprovoked,Florida,M,N
+109,June,1988,Unprovoked,South Carolina,M,N
+110,January,1988,Provoked,Louisiana,M,N
+111,December,1986,Unprovoked,California,M,N
+112,January,1983,Provoked,South Carolina,M,N
+113,September,1981,Unprovoked,Florida,M,N
+114,August,1980,Unprovoked,Hawaii,M,N
+115,March,1979,Unprovoked,Florida,M,N
+116,March,1979,Unprovoked,California,M,N
+117,January,1979,Unprovoked,Hawaii,M,Y
+118,August,1978,Unprovoked,California,M,N
+119,August,1976,Unprovoked,Oregon,M,N
+120,September,1969,Unprovoked,California,M,N
+121,June,1968,Unprovoked,Florida,M,N
+122,July,1966,Unprovoked,Texas,M,N
+123,April,1963,Unprovoked,Hawaii,M,N
+124,June,1962,Unprovoked,Florida,M,N
+125,April,1961,Unprovoked,Florida,M,N
+126,April,1958,Provoked,Florida,M,N
+127,February,1958,Provoked,US Virgin Islands,M,N
+128,July,1956,Unprovoked,South Carolina,M,N
+129,July,2023,Unprovoked,Florida,M,N
+130,September,2022,Unprovoked,Florida,M,N
+131,March,2022,Unprovoked,Florida,M,N
+132,July,2021,Unprovoked,New York,M,N
+133,September,2020,Unprovoked,Florida,M,N
+134,March,2020,Unprovoked,Florida,M,N
+135,February,2020,Unprovoked,Maui,M,N
+136,September,2018,Unprovoked,Florida,M,N
+137,December,2017,Unprovoked,California,F,N
+138,July,2017,Unprovoked,Florida,M,N
+139,June,2017,Unprovoked,Florida,M,N
+140,October,2016,Unprovoked,Florida,M,N
+141,September,2016,Unprovoked,Hawaii,F,N
+142,June,2016,Unprovoked,Florida,M,N
+143,October,2015,Unprovoked,Florida,M,N
+144,July,2015,Unprovoked,Florida,M,N
+145,October,2014,Unprovoked,Florida,M,N
+146,November,2013,Unprovoked,Florida,M,N
+147,September,2013,Unprovoked,Florida,F,N
+148,August,2013,Unprovoked,Florida,M,N
+149,October,2012,Unprovoked,Hawaii,M,N
+150,September,2012,Unprovoked,Florida,M,N
+151,May,2012,Unprovoked,California,F,N
+152,March,2009,Unprovoked,Florida,F,N
+153,September,2008,Unprovoked,Florida,M,N
+154,August,2008,Unprovoked,Florida,M,N
+155,August,2007,Unprovoked,Florida,M,N
+156,September,2006,Unprovoked,Florida,M,N
+157,November,2005,Unprovoked,Florida,M,N
+158,August,2005,Unprovoked,Texas,M,N
+159,August,2005,Unprovoked,North Carolina,M,N
+160,April,2005,Unprovoked,Florida,F,N
+161,September,2004,Unprovoked,South Carolina,F,N
+162,December,2003,Unprovoked,Florida,M,N
+163,October,2003,Unprovoked,Florida,M,N
+164,October,2003,Unprovoked,Florida,F,N
+165,February,2003,Unprovoked,Florida,M,N
+166,June,2002,Unprovoked,Florida,M,N
+167,May,2002,Provoked,Florida,M,N
+168,September,2001,Unprovoked,North Carolina,M,N
+169,June,2001,Unprovoked,Texas,M,N
+170,March,2001,Unprovoked,Hawaii,M,N
+171,June,2000,Unprovoked,Alabama,M,N
+172,February,1998,Unprovoked,Florida,M,N
+173,July,1995,Unprovoked,Florida,M,N
+174,July,1994,Unprovoked,Florida,M,N
+175,October,1993,Unprovoked,Florida,F,N
+176,December,1992,Unprovoked,Hawaii,M,N
+177,July,1990,Unprovoked,Texas,F,N
+178,January,1989,Unprovoked,Hawaii,M,N
+179,July,1985,Unprovoked,South Carolina,F,N
+180,September,1984,Unprovoked,California,M,Y
+181,December,1981,Unprovoked,California,M,Y
+182,January,1981,Unprovoked,Florida,M,N
+183,December,1976,Unprovoked,California,M,N
+184,October,1972,Unprovoked,Florida,M,N
+185,August,1966,Unprovoked,Florida,M,N
+186,August,1964,Unprovoked,Florida,M,N
+187,April,1963,Unprovoked,US Virgin Islands,M,Y
+188,August,1962,Provoked,California,M,N
+189,June,1960,Unprovoked,Florida,M,N
+190,June,1958,Unprovoked,Florida,M,N
+191,January,2023,Provoked,Florida,M,N
+192,August,2022,Unprovoked,Florida,M,N
+193,July,2022,Unprovoked,Noirth Carolina,F,N
+194,July,2021,Unprovoked,California,F,N
+195,June,2021,Unprovoked,Florida,M,N
+196,December,2019,Unprovoked,California,M,N
+197,July,2019,Unprovoked,Florida,M,N
+198,March,2019,Unprovoked,Oregon,M,N
+199,January,2019,Unprovoked,California,M,N
+200,October,2018,Unprovoked,Florida,M,N
+201,August,2016,Unprovoked,Florida,M,N
+202,October,2015,Unprovoked,Florida,M,N
+203,August,2015,Unprovoked,Florida,F,N
+204,July,2014,Provoked,California,M,N
+205,December,2013,Unprovoked,Hawaii,M,N
+206,September,2013,Unprovoked,Florida,M,N
+207,July,2013,Unprovoked,Florida,M,N
+208,June,2013,Unprovoked,South Carolina,F,N
+209,September,2012,Unprovoked,Florida,M,N
+210,December,2009,Provoked,New Jersey,M,N
+211,July,2009,Unprovoked,Texas,F,N
+212,July,2009,Unprovoked,North Carolina,F,N
+213,July,2008,Provoked,Florida,M,N
+214,December,2007,Unprovoked,Hawaii,M,N
+215,November,2007,Unprovoked,Florida,M,N
+216,January,2007,Unprovoked,Hawaii,M,N
+217,November,2006,Unprovoked,Hawaii,M,N
+218,October,2006,Unprovoked,Texas,M,N
+219,August,2005,Unprovoked,South Carolina,M,N
+220,July,2005,Unprovoked,Florida,F,N
+221,September,2004,Unprovoked,Oregon,M,N
+222,June,2004,Unprovoked,Florida,M,N
+223,March,2004,Unprovoked,Hawaii,M,N
+224,October,2003,Unprovoked,Hawaii,F,N
+225,September,2003,Unprovoked,Florida,M,N
+226,April,2003,Unprovoked,Florida,M,N
+227,September,2002,Unprovoked,Hawaii,M,N
+228,September,2002,Unprovoked,Florida,M,N
+229,August,2001,Unprovoked,Florida,M,N
+230,April,2001,Unprovoked,Florida,M,N
+231,July,2000,Unprovoked,Florida,F,N
+232,July,1999,Unprovoked,Florida,M,N
+233,October,1998,Unprovoked,Florida,F,N
+234,August,1997,Unprovoked,Florida,M,N
+235,January,1994,Unprovoked,Hawaii,M,Y
+236,September,1989,Unprovoked,California,M,N
+237,November,1986,Unprovoked,Florida,M,N
+238,August,1985,Unprovoked,South Carolina,M,N
+239,May,1983,Unprovoked,Florida,M,N
+240,September,1982,Unprovoked,California,M,N
+241,September,1982,Unprovoked,California,M,N
+242,January,1976,Unprovoked,Hawaii,M,Y
+243,May,1972,Unprovoked,California,M,N
+244,October,1963,Unprovoked,Florida,M,N
+245,August,1962,Unprovoked,Texas,M,Y
+246,July,1962,Unprovoked,Georgia,M,N
+247,August,1960,Unprovoked,Connecticut,M,N
+248,May,1955,Provoked,California,M,N
+249,May,1952,Unprovoked,California,M,N
+250,December,2021,Unprovoked,Florida,F,N
+251,June,2021,Unprovoked,Florida,M,N
+252,April,2020,Unprovoked,Florida,F,N
+253,November,2019,Unprovoked,Florida,M,N
+254,September,2018,Unprovoked,Florida,M,N
+255,March,2015,Unprovoked,Hawaii,M,N
+256,January,2014,Unprovoked,Hawaii,M,N
+257,June,2012,Unprovoked,South Carolina,F,N
+258,May,2012,Unprovoked,North Carolina,F,N
+259,June,2010,Unprovoked,South Carolina,F,N
+260,October,2009,Unprovoked,California,M,N
+261,July,2008,Unprovoked,Florida,M,N
+262,April,2008,Unprovoked,Florida,F,N
+263,March,2008,Unprovoked,Florida,M,N
+264,November,2007,Unprovoked,Florida,M,N
+265,August,2007,Unprovoked,California,M,N
+266,September,2006,Unprovoked,Florida,M,N
+267,March,2004,Unprovoked,Florida,M,N
+268,October,2003,Unprovoked,Hawaii,F,N
+269,May,2003,Unprovoked,Hawaii,M,N
+270,August,2001,Unprovoked,Florida,M,N
+271,September,1999,Unprovoked,Florida,F,N
+272,June,1998,Unprovoked,Florida,M,N
+273,September,1997,Unprovoked,Florida,M,N
+274,July,1995,Unprovoked,South Carolina,F,N
+275,June,1995,Unprovoked,South Carolina,M,N
+276,June,1993,Unprovoked,North Carolina,F,N
+277,June,1991,Unprovoked,Florida,M,N
+278,October,1986,Unprovoked,Florida,M,N
+279,May,1985,Unprovoked,California,M,N
+280,September,1984,Unprovoked,California,M,N
+281,May,1981,Unprovoked,Florida,M,N
+282,July,1980,Unprovoked,New Jersey,M,N
+283,September,1976,Unprovoked,Florida,M,N
+284,September,1970,Unprovoked,Florida,M,N
+285,April,1966,Unprovoked,Puerto Rico,M,N
+286,August,1961,Unprovoked,South Carolina,M,N
+287,July,1959,Unprovoked,California,M,N
+288,July,1956,Unprovoked,Florida,F,N
+289,February,1955,Unprovoked,California,M,N
+290,January,1954,Unprovoked,Hawaii,M,N
+291,September,1953,Provoked,New York,M,N
+292,July,1953,Unprovoked,Hawaii,M,N
+293,August,1952,Unprovoked,Hawaii,M,Y
+294,June,2023,Unprovoked,Hawaii,M,N
+295,October,2022,Unprovoked,Louisiana,M,N
+296,June,2022,Unprovoked,Florida,F,N
+297,July,2021,Unprovoked,Florida,M,N
+298,August,2020,Provoked,Florida,M,N
+299,May,2020,Unprovoked,California,M,Y
+300,July,2019,Unprovoked,Florida,M,N
+301,June,2019,Unprovoked,North Carolina,F,N
+302,August,2018,Unprovoked,California,M,N
+303,May,2018,Unprovoked,South Carolina,M,N
+304,April,2018,Unprovoked,Hawaii,M,N
+305,April,2017,Unprovoked,Florida,F,N
+306,December,2016,Unprovoked,Florida,M,N
+307,November,2016,Unprovoked,Hawaii,F,N
+308,July,2016,Unprovoked,California,M,N
+309,June,2016,Unprovoked,Hawaii,M,N
+310,June,2016,Unprovoked,Texas,F,N
+311,November,2015,Unprovoked,Florida,F,N
+312,September,2015,Unprovoked,Florida,M,N
+313,October,2013,Unprovoked,Florida,M,N
+314,September,2013,Unprovoked,Florida,M,N
+315,November,2012,Unprovoked,Hawaii,M,N
+316,June,2012,Unprovoked,South Carolina,M,N
+317,September,2010,Unprovoked,Oregon,M,N
+318,July,2010,Unprovoked,Florida,M,N
+319,June,2010,Unprovoked,North Carolina,F,N
+320,May,2010,Unprovoked,Florida,F,N
+321,September,2008,Unprovoked,Florida,M,N
+322,March,2008,Unprovoked,Florida,M,N
+323,October,2006,Unprovoked,Florida,M,N
+324,October,2006,Unprovoked,Florida,M,N
+325,December,2005,Unprovoked,Oregon,M,N
+326,October,2005,Unprovoked,Hawaii,M,N
+327,October,2004,Unprovoked,California,M,N
+328,September,2002,Provoked,Florida,M,N
+329,July,2001,Unprovoked,Georgia,M,N
+330,July,2000,Unprovoked,Florida,F,N
+331,May,1996,Unprovoked,Florida,M,N
+332,November,1993,Unprovoked,Florida,M,N
+333,October,1993,Unprovoked,California,M,N
+334,July,1993,Unprovoked,Florida,F,N
+335,August,1991,Unprovoked,South Carolina,M,N
+336,August,1991,Unprovoked,Florida,F,N
+337,April,1988,Unprovoked,Florida,M,N
+338,October,1980,Unprovoked,Oregon,M,N
+339,January,1978,Unprovoked,Florida,F,N
+340,August,1969,Provoked,Massachusetts,M,N
+341,August,1968,Unprovoked,Florida,M,N
+342,July,1968,Unprovoked,South Carolina,M,N
+343,February,1968,Unprovoked,Florida,M,N
+344,November,1963,Provoked,Florida,M,N
+345,January,1962,Unprovoked,California,M,N
+346,August,1961,Unprovoked,Hawaii,M,N
+347,July,1960,Provoked,Virginia,M,N
+348,November,1959,Unprovoked,California,M,N
+349,August,1959,Provoked,California,M,N
+350,August,1956,Unprovoked,California,M,N
+351,July,1956,Provoked,California,M,N
+352,September,1955,Unprovoked,California,M,N
+353,April,2023,Unprovoked,Hawaii,M,N
+354,August,2022,Unprovoked,California,M,N
+355,July,2022,Unprovoked,New York,M,N
+356,December,2020,Unprovoked,California,M,N
+357,October,2019,Provoked,Florida,M,N
+358,November,2018,Unprovoked,Florida,M,N
+359,September,2017,Unprovoked,Florida,M,N
+360,April,2017,Unprovoked,Florida,F,N
+361,October,2016,Unprovoked,Hawaii,M,N
+362,September,2016,Unprovoked,Florida,M,N
+363,April,2016,Unprovoked,Florida,M,N
+364,October,2015,Unprovoked,Florida,M,N
+365,September,2015,Unprovoked,Florida,M,N
+366,August,2015,Provoked,California,M,N
+367,July,2014,Unprovoked,North Carolina,M,N
+368,May,2014,Unprovoked,Florida,F,N
+369,December,2012,Unprovoked,Hawaii,M,N
+370,March,2012,Unprovoked,Florida,M,N
+371,September,2011,Unprovoked,Florida,M,N
+372,September,2011,Unprovoked,Florida,M,N
+373,July,2010,Unprovoked,Texas,M,N
+374,November,2009,Unprovoked,Florida,M,N
+375,September,2008,Unprovoked,Florida,M,N
+376,July,2008,Unprovoked,North Carolina,F,N
+377,June,2008,Unprovoked,South Carolina,F,N
+378,April,2008,Unprovoked,Florida,M,N
+379,October,2007,Unprovoked,California,M,N
+380,September,2007,Unprovoked,California,M,N
+381,July,2007,Unprovoked,Florida,M,N
+382,July,2006,Unprovoked,Oregon,M,N
+383,September,2005,Unprovoked,North Carolina,F,N
+384,June,2003,Unprovoked,Florida,F,N
+385,April,2003,Unprovoked,Florida,M,N
+386,May,2002,Unprovoked,California,M,N
+387,April,2002,Unprovoked,Florida,M,N
+388,October,2000,Unprovoked,Florida,M,N
+389,October,1999,Unprovoked,Florida,M,N
+390,August,1999,Unprovoked,North Carolina,M,N
+391,February,1999,Unprovoked,Florida,M,N
+392,August,1996,Unprovoked,California,M,N
+393,September,1994,Unprovoked,Hawaii,F,N
+394,February,1992,Unprovoked,Hawaii,M,Y
+395,February,1990,Unprovoked,Florida,M,N
+396,September,1989,Provoked,Florida,M,N
+397,October,1988,Unprovoked,Florida,M,N
+398,August,1988,Provoked,Louisiana,M,N
+399,July,1988,Unprovoked,Florida,F,N
+400,April,1988,Unprovoked,California,M,N
+401,November,1978,Unprovoked,Hawaii,M,N
+402,July,1976,Unprovoked,Florida,M,N
+403,September,1970,Unprovoked,Florida,M,N
+404,June,1969,Unprovoked,Florida,M,N
+405,May,1969,Provoked,Florida,M,N
+406,March,1969,Unprovoked,Hawaii,M,N
+407,August,1964,Unprovoked,Florida,M,N
+408,December,1960,Unprovoked,Hawaii,M,Y
+409,May,1959,Unprovoked,California,M,Y
+410,June,1958,Provoked,Florida,M,N
+411,September,1956,Unprovoked,Florida,M,N
+412,September,2022,Unprovoked,Hawaii,F,N
+413,July,2022,Unprovoked,New York,M,N
+414,December,2020,Unprovoked,Oregon,M,N
+415,August,2020,Unprovoked,Florida,M,N
+416,June,2020,Unprovoked,North Carolina,M,N
+417,May,2019,Unprovoked,Hawaii,M,N
+418,June,2018,Unprovoked,Georgia,F,N
+419,November,2017,Unprovoked,Hawaii,M,N
+420,April,2017,Unprovoked,Florida,F,N
+421,April,2017,Unprovoked,Florida,M,N
+422,September,2016,Unprovoked,Florida,M,N
+423,May,2016,Unprovoked,Florida,F,N
+424,May,2016,Unprovoked,Louisiana,F,N
+425,January,2016,Unprovoked,Hawaii,M,N
+426,October,2015,Unprovoked,Hawaii,M,N
+427,August,2015,Unprovoked,California,F,N
+428,August,2015,Unprovoked,California,M,N
+429,July,2014,Unprovoked,Florida,M,N
+430,May,2014,Unprovoked,Georgia,M,N
+431,November,2013,Unprovoked,Hawaii,F,N
+432,October,2013,Unprovoked,Hawaii,M,N
+433,November,2012,Unprovoked,Hawaii,M,N
+434,June,2012,Unprovoked,Florida,M,N
+435,June,2012,Unprovoked,South Carolina,M,N
+436,April,2012,Unprovoked,Hawaii,M,N
+437,August,2011,Unprovoked,North Carolina,M,N
+438,October,2010,Unprovoked,Maine,M,N
+439,July,2010,Provoked,Florida,M,N
+440,January,2010,Unprovoked,Florida,M,N
+441,September,2007,Unprovoked,Florida,M,N
+442,September,2007,Unprovoked,Florida,M,N
+443,July,2006,Unprovoked,South Carolina,F,N
+444,June,2006,Unprovoked,Florida,M,N
+445,April,2006,Provoked,Florida,M,N
+446,January,2006,Unprovoked,Florida,M,N
+447,November,2005,Unprovoked,Florida,M,N
+448,October,2005,Unprovoked,Florida,M,N
+449,April,2003,Unprovoked,Florida,M,N
+450,April,2003,Unprovoked,Florida,M,N
+451,November,2002,Unprovoked,Florida,M,N
+452,July,2002,Unprovoked,North Carolina,F,N
+453,June,2002,Unprovoked,Florida,F,N
+454,June,2002,Unprovoked,Florida,M,N
+455,May,2002,Unprovoked,Florida,M,N
+456,September,2001,Provoked,Florida,M,N
+457,July,2001,Unprovoked,Florida,M,N
+458,July,2001,Unprovoked,Florida,M,N
+459,September,2000,Unprovoked,Florida,M,N
+460,June,2000,Unprovoked,Texas,M,N
+461,September,1999,Unprovoked,Florida,M,N
+462,August,1999,Unprovoked,Florida,M,N
+463,August,1999,Unprovoked,Florida,M,N
+464,July,1999,Unprovoked,Hawaii,M,N
+465,August,1997,Unprovoked,Florida,M,N
+466,September,1995,Unprovoked,Florida,M,N
+467,September,1995,Unprovoked,California,M,N
+468,January,1994,Unprovoked,Florida,M,N
+469,December,1992,Unprovoked,Hawaii,M,N
+470,September,1992,Unprovoked,Florida,M,N
+471,November,1991,Unprovoked,Hawaii,M,Y
+472,July,1991,Unprovoked,Florida,M,N
+473,April,1991,Unprovoked,Hawaii,M,N
+474,August,1990,Unprovoked,Texas,M,N
+475,June,1989,Unprovoked,Hawaii,M,N
+476,July,1987,Unprovoked,Texas,F,N
+477,February,1985,Unprovoked,Florida,M,N
+478,July,1983,Unprovoked,Florida,M,N
+479,September,1981,Unprovoked,Florida,M,N
+480,August,1981,Unprovoked,Florida,M,N
+481,August,1978,Unprovoked,Florida,M,N
+482,July,1975,Unprovoked,Florida,F,N
+483,November,1973,Unprovoked,Florida,M,N
+484,August,1969,Unprovoked,Florida,M,N
+485,July,1967,Unprovoked,Florida,M,N
+486,January,1966,Unprovoked,California,M,N
+487,February,1965,Unprovoked,Massachusetts,M,N
+488,July,1962,Unprovoked,South Carolina,M,N
+489,August,1959,Unprovoked,Florida,M,Y
+490,July,2023,Unprovoked,South Carolina,M,N
+491,October,2022,Provoked,Mississippi,M,N
+492,July,2022,Unprovoked,Florida,M,N
+493,July,2022,Unprovoked,Florida,M,N
+494,April,2022,Unprovoked,Florida,M,N
+495,November,2019,Unprovoked,Florida,M,N
+496,August,2019,Unprovoked,Florida,M,N
+497,June,2019,Unprovoked,North Carolina,M,N
+498,May,2018,Unprovoked,Florida,M,N
+499,March,2018,Unprovoked,Hawaii,M,N
+500,December,2017,Unprovoked,Hawaii,F,N
+501,September,2017,Unprovoked,Florida,M,N
+502,July,2017,Unprovoked,Washington,M,N
+503,October,2016,Unprovoked,Florida,M,N
+504,September,2016,Unprovoked,South Carolina,F,N
+505,September,2016,Unprovoked,California,M,N
+506,May,2016,Unprovoked,Hawaii,M,N
+507,September,2015,Unprovoked,Florida,M,N
+508,June,2015,Unprovoked,South Carolina,M,N
+509,May,2015,Unprovoked,Florida,M,N
+510,October,2014,Unprovoked,Florida,M,N
+511,August,2014,Unprovoked,Florida,F,N
+512,July,2014,Unprovoked,South Carolina,M,N
+513,June,2014,Unprovoked,Delaware,M,N
+514,October,2013,Unprovoked,Florida,M,N
+515,August,2013,Unprovoked,California,F,N
+516,June,2013,Unprovoked,South Carolina,M,N
+517,June,2013,Unprovoked,Florida,F,N
+518,May,2013,Unprovoked,Florida,M,N
+519,April,2013,Unprovoked,Hawaii,M,N
+520,May,2012,Unprovoked,Florida,F,N
+521,December,2011,Unprovoked,Florida,M,N
+522,September,2011,Unprovoked,Florida,M,N
+523,July,2011,Unprovoked,Texas,M,N
+524,August,2010,Unprovoked,North Carolina,M,N
+525,July,2010,Unprovoked,South Carolina,M,N
+526,April,2009,Unprovoked,Florida,M,N
+527,August,2008,Unprovoked,Florida,M,N
+528,May,2008,Unprovoked,North Carolina,M,N
+529,July,2007,Unprovoked,California,M,N
+530,July,2007,Unprovoked,North Carolina,F,N
+531,July,2006,Unprovoked,Florida,M,N
+532,October,2005,Unprovoked,Florida,M,N
+533,June,2005,Unprovoked,Florida,M,N
+534,March,2005,Provoked,New Mexico,M,N
+535,September,2003,Unprovoked,Florida,M,N
+536,September,2003,Unprovoked,Florida,M,N
+537,April,2003,Unprovoked,Florida,M,N
+538,October,2002,Unprovoked,Florida,M,N
+539,June,2002,Unprovoked,Florida,M,N
+540,April,2002,Unprovoked,Florida,M,N
+541,March,2002,Unprovoked,Florida,F,N
+542,August,2001,Unprovoked,Florida,F,N
+543,August,2000,Unprovoked,Florida,M,Y
+544,November,1999,Unprovoked,Florida,M,N
+545,October,1997,Unprovoked,Hawaii,M,N
+546,August,1997,Unprovoked,Florida,F,N
+547,August,1996,Unprovoked,Florida,M,N
+548,August,1995,Unprovoked,Florida,M,N
+549,August,1995,Unprovoked,South Carolina,F,N
+550,June,1995,Unprovoked,California,F,N
+551,July,1990,Unprovoked,Florida,M,N
+552,October,1988,Unprovoked,Oregon,M,N
+553,October,1985,Unprovoked,Hawaii,M,N
+554,February,1982,Unprovoked,Florida,F,Y
+555,August,1981,Unprovoked,Florida,F,Y
+556,June,1975,Unprovoked,South Carolina,M,N
+557,October,1970,Unprovoked,Florida,M,N
+558,October,1969,Unprovoked,Hawaii,M,N
+559,April,1965,Unprovoked,Florida,M,N
+560,February,1964,Unprovoked,Florida,M,N
+561,July,1961,Provoked,New York,M,N
+562,May,1959,Unprovoked,Florida,M,N
+563,October,1958,Unprovoked,California,M,N
+564,April,1955,Unprovoked,Hawaii,M,N
+565,January,1953,Unprovoked,Florida,F,N
+566,December,1952,Unprovoked,Hawaii,M,Y
+567,May,2023,Unprovoked,Florida,M,N
+568,November,2022,Unprovoked,Florida,F,N
+569,June,2022,Unprovoked,Florida,F,N
+570,August,2021,Unprovoked,Maryland,F,N
+571,September,2020,Unprovoked,Florida,M,N
+572,June,2020,Unprovoked,Florida,M,N
+573,September,2019,Unprovoked,Florida,M,N
+574,August,2019,Unprovoked,Florida,M,N
+575,May,2019,Unprovoked,Hawaii,F,N
+576,March,2019,Unprovoked,Hawaii,M,N
+577,May,2018,Provoked,Florida,M,N
+578,September,2017,Unprovoked,Florida,M,N
+579,July,2017,Unprovoked,California,M,N
+580,June,2017,Unprovoked,Florida,M,N
+581,April,2017,Unprovoked,South Carolina,F,N
+582,April,2017,Unprovoked,Hawaii,M,N
+583,October,2016,Unprovoked,Florida,M,N
+584,April,2016,Unprovoked,Florida,M,N
+585,November,2015,Unprovoked,Florida,F,N
+586,May,2015,Unprovoked,Florida,F,N
+587,April,2015,Unprovoked,Florida,M,N
+588,August,2014,Unprovoked,Florida,F,N
+589,August,2014,Unprovoked,Florida,M,N
+590,June,2014,Unprovoked,Texas,F,N
+591,February,2013,Unprovoked,Florida,M,N
+592,December,2012,Unprovoked,Florida,M,N
+593,September,2012,Unprovoked,Florida,M,N
+594,June,2012,Unprovoked,South Carolina,M,N
+595,March,2012,Unprovoked,Florida,M,N
+596,July,2011,Unprovoked,Texas,M,N
+597,July,2009,Unprovoked,Florida,F,N
+598,June,2006,Provoked,Florida,M,N
+599,May,2006,Unprovoked,Hawaii,M,N
+600,October,2005,Provoked,Florida,M,N
+601,August,2004,Unprovoked,Florida,F,N
+602,March,2004,Unprovoked,Hawaii,F,N
+603,September,2003,Unprovoked,Florida,M,N
+604,August,2002,Unprovoked,Florida,M,N
+605,March,2002,Unprovoked,Florida,M,N
+606,August,2001,Unprovoked,Florida,M,N
+607,October,2000,Unprovoked,Florida,M,N
+608,August,2000,Provoked,Alaska,M,N
+609,July,2000,Unprovoked,Texas,M,N
+610,March,2000,Unprovoked,Louisiana,M,N
+611,November,1998,Unprovoked,Florida,M,N
+612,November,1996,Unprovoked,Florida,M,N
+613,July,1996,Unprovoked,Florida,M,N
+614,January,1996,Unprovoked,Hawaii,M,N
+615,August,1995,Unprovoked,North Carolina,M,N
+616,June,1993,Unprovoked,Hawaii,M,N
+617,August,1992,Provoked,Florida,M,N
+618,December,1989,Provoked,Hawaii,M,N
+619,April,1989,Unprovoked,Hawaii,M,N
+620,January,1989,Unprovoked,Hawaii,M,Y
+621,March,1988,Unprovoked,Hawaii,M,N
+622,April,1986,Unprovoked,Hawaii,M,Y
+623,July,1985,Unprovoked,Florida,F,N
+624,September,1984,Unprovoked,Florida,M,N
+625,October,1982,Unprovoked,Florida,M,N
+626,September,1982,Unprovoked,Florida,M,N
+627,October,1981,Unprovoked,Florida,M,N
+628,March,1981,Unprovoked,Florida,M,N
+629,August,1980,Unprovoked,North Carolina,F,N
+630,June,1978,Unprovoked,Florida,M,N
+631,August,1976,Unprovoked,North Carolina,M,N
+632,July,1974,Unprovoked,California,M,N
+633,July,1969,Unprovoked,California,M,N
+634,September,1966,Provoked,Hawaii,M,N
+635,March,1964,Unprovoked,Florida,M,N
+636,July,1962,Unprovoked,Georgia,M,N
+637,May,1957,Unprovoked,Florida,M,N
+638,February,1957,Unprovoked,Florida,M,N
+639,August,1955,Provoked,California,M,N
+640,April,2023,Unprovoked,Florida,M,N
+641,March,2023,Unprovoked,Hawaii,M,N
+642,June,2022,Unprovoked,Florida,M,N
+643,April,2022,Unprovoked,Florida,M,N
+644,August,2021,Unprovoked,Florida,M,N
+645,April,2021,Unprovoked,Florida,M,N
+646,September,2018,Unprovoked,Massachusetts,M,Y
+647,March,2017,Unprovoked,Florida,M,N
+648,September,2016,Unprovoked,Florida,M,N
+649,August,2016,Unprovoked,Florida,M,N
+650,November,2015,Unprovoked,Florida,M,N
+651,October,2015,Unprovoked,Florida,M,N
+652,September,2015,Unprovoked,Hawaii,M,N
+653,June,2015,Unprovoked,South Carolina,M,N
+654,October,2014,Unprovoked,Florida,F,N
+655,September,2013,Unprovoked,Florida,M,N
+656,October,2012,Unprovoked,California,M,N
+657,September,2012,Unprovoked,Florida,M,N
+658,September,2012,Unprovoked,Florida,M,N
+659,July,2012,Unprovoked,Hawaii,M,N
+660,June,2012,Unprovoked,Florida,M,N
+661,March,2012,Unprovoked,Florida,M,N
+662,July,2010,Unprovoked,Florida,M,N
+663,August,2009,Unprovoked,California,M,N
+664,May,2009,Provoked,Florida,M,N
+665,April,2009,Unprovoked,California,M,N
+666,September,2007,Unprovoked,California,F,N
+667,July,2007,Unprovoked,Hawaii,M,N
+668,April,2007,Unprovoked,Florida,M,N
+669,October,2006,Unprovoked,Oregon,M,N
+670,July,2006,Unprovoked,South Carolina,F,N
+671,May,2004,Unprovoked,California,M,N
+672,March,2004,Unprovoked,Florida,M,N
+673,August,2003,Unprovoked,California,F,Y
+674,July,2002,Unprovoked,North Carolina,F,N
+675,August,2001,Unprovoked,Florida,M,N
+676,October,1999,Unprovoked,Hawaii,M,N
+677,November,1997,Unprovoked,Florida,M,N
+678,October,1995,Unprovoked,Florida,M,N
+679,August,1995,Unprovoked,North Carolina,M,N
+680,July,1995,Unprovoked,Florida,M,N
+681,November,1994,Unprovoked,Hawaii,F,N
+682,May,1994,Unprovoked,Florida,M,N
+683,March,1993,Unprovoked,California,M,N
+684,October,1989,Unprovoked,Texas,M,N
+685,August,1989,Unprovoked,Florida,M,N
+686,April,1989,Unprovoked,Washington,M,N
+687,October,1988,Unprovoked,Florida,M,N
+688,July,1987,Unprovoked,Florida,M,N
+689,July,1987,Unprovoked,Texas,F,N
+690,October,1983,Unprovoked,Florida,M,N
+691,July,1982,Unprovoked,Florida,F,N
+692,June,1982,Unprovoked,South Carolina,M,N
+693,May,1981,Unprovoked,Florida,M,N
+694,March,1968,Unprovoked,Florida,M,N
+695,January,1965,Provoked,California,M,N
+696,January,1964,Unprovoked,California,M,N
+697,June,1958,Provoked,Florida,M,N
+698,August,2023,Unprovoked,New York,F,N
+699,July,2023,Unprovoked,New York,M,N
+700,May,2023,Unprovoked,Florida,M,N
+701,July,2022,Unprovoked,New York,M,N
+702,June,2022,Unprovoked,New York,M,N
+703,April,2022,Provoked,New Jersey,F,N
+704,November,2021,Unprovoked,Hawaii,F,N
+705,July,2021,Unprovoked,Florida,M,Y
+706,May,2021,Unprovoked,Florida,F,N
+707,January,2021,Unprovoked,Hawaii,F,N
+708,October,2020,Unprovoked,Florida,M,N
+709,August,2020,Unprovoked,Florida,M,N
+710,July,2020,Unprovoked,Maine,F,Y
+711,August,2019,Provoked,Florida,M,N
+712,June,2019,Unprovoked,Florida,M,N
+713,August,2017,Provoked,Massachusetts,M,N
+714,April,2017,Unprovoked,Florida,M,N
+715,October,2015,Unprovoked,Hawaii,M,N
+716,July,2015,Provoked,California,M,N
+717,May,2015,Unprovoked,Florida,M,N
+718,July,2014,Unprovoked,North Carolina,M,N
+719,July,2014,Unprovoked,Hawaii,M,N
+720,May,2014,Unprovoked,South Carolina,F,N
+721,September,2013,Unprovoked,Florida,M,N
+722,October,2011,Unprovoked,Oregon,M,N
+723,July,2010,Unprovoked,South Carolina,M,N
+724,November,2009,Unprovoked,Florida,F,N
+725,September,2008,Unprovoked,Hawaii,M,N
+726,July,2008,Unprovoked,South Carolina,M,N
+727,April,2008,Unprovoked,California,M,Y
+728,June,2007,Provoked,Florida,M,N
+729,May,2006,Provoked,Hawaii,M,N
+730,June,2005,Unprovoked,South Carolina,F,N
+731,May,2005,Unprovoked,Florida,F,N
+732,May,2004,Unprovoked,Texas,M,N
+733,September,2003,Unprovoked,Florida,M,N
+734,June,2003,Unprovoked,Florida,M,N
+735,June,2003,Unprovoked,Johnston Atoll,M,N
+736,April,2003,Unprovoked,Florida,M,N
+737,November,2002,Unprovoked,Hawaii,F,N
+738,August,2002,Unprovoked,Alabama,F,N
+739,September,2001,Unprovoked,Virginia,M,Y
+740,March,2001,Unprovoked,Florida,M,N
+741,April,2000,Unprovoked,Florida,M,N
+742,March,2000,Unprovoked,Florida,M,N
+743,October,1995,Unprovoked,Florida,M,N
+744,September,1995,Unprovoked,Florida,M,N
+745,August,1995,Unprovoked,Florida,M,N
+746,February,1994,Provoked,Hawaii,M,N
+747,February,1991,Unprovoked,Oregon,M,N
+748,July,1989,Unprovoked,Florida,M,N
+749,September,1988,Unprovoked,Florida,M,N
+750,August,1988,Unprovoked,California,M,N
+751,May,1987,Unprovoked,Florida,M,N
+752,November,1986,Unprovoked,Florida,M,N
+753,June,1983,Unprovoked,Florida,M,N
+754,February,1982,Unprovoked,California,M,N
+755,August,1979,Unprovoked,Florida,M,N
+756,August,1974,Unprovoked,California,M,N
+757,July,1964,Provoked,Florida,M,N
+758,August,1962,Unprovoked,New Jersey,M,N
+759,June,1962,Unprovoked,California,M,N
+760,August,1960,Unprovoked,New Jersey,M,N
+761,June,1960,Unprovoked,Georgia,M,N
+762,May,1960,Unprovoked,California,F,N
+763,July,1958,Unprovoked,Florida,M,N
+764,April,1957,Provoked,Florida,M,N
+765,September,1953,Unprovoked,Hawaii,M,N
+766,July,2022,Unprovoked,New York,M,N
+767,March,2021,Unprovoked,Florida,M,N
+768,July,2020,Unprovoked,Florida,F,N
+769,April,2019,Unprovoked,Hawaii,M,N
+770,October,2018,Unprovoked,California,M,N
+771,August,2018,Unprovoked,North Carolina,M,N
+772,September,2017,Unprovoked,Florida,M,N
+773,September,2017,Unprovoked,Florida,M,N
+774,April,2017,Unprovoked,Florida,F,N
+775,September,2016,Unprovoked,Florida,M,N
+776,November,2015,Unprovoked,Hawaii,M,N
+777,September,2015,Provoked,California,M,N
+778,May,2015,Unprovoked,Florida,F,N
+779,March,2014,Unprovoked,Florida,M,N
+780,September,2013,Unprovoked,Florida,M,N
+781,September,2013,Unprovoked,Florida,M,N
+782,August,2013,Unprovoked,Hawaii,M,N
+783,August,2013,Unprovoked,Hawaii,F,N
+784,September,2012,Unprovoked,Florida,M,N
+785,July,2010,Unprovoked,North Carolina,F,N
+786,September,2008,Unprovoked,Florida,M,N
+787,April,2008,Provoked,Florida,M,N
+788,February,2008,Unprovoked,Florida,M,N
+789,August,2007,Unprovoked,Florida,F,N
+790,June,2007,Unprovoked,Florida,F,N
+791,March,2007,Provoked,Florida,M,N
+792,September,2005,Unprovoked,Florida,M,N
+793,February,2005,Provoked,Florida,M,N
+794,August,2004,Unprovoked,Florida,M,N
+795,July,2004,Unprovoked,Texas,F,N
+796,May,2004,Unprovoked,Florida,M,N
+797,October,2003,Unprovoked,Florida,M,N
+798,May,2003,Unprovoked,Florida,M,N
+799,August,2001,Unprovoked,Florida,M,N
+800,June,2001,Unprovoked,South Carolina,F,N
+801,July,2000,Unprovoked,Florida,M,N
+802,September,1999,Unprovoked,Florida,M,N
+803,September,1999,Provoked,Florida,M,N
+804,June,1999,Unprovoked,Florida,M,N
+805,March,1999,Unprovoked,Hawaii,F,Y
+806,December,1997,Unprovoked,Florida,M,N
+807,May,1997,Unprovoked,Florida,M,N
+808,August,1995,Unprovoked,South Carolina,M,N
+809,September,1994,Unprovoked,South Carolina,F,N
+810,July,1989,Unprovoked,Texas,F,N
+811,September,1988,Unprovoked,Florida,F,N
+812,May,1988,Unprovoked,Florida,M,N
+813,July,1984,Unprovoked,Florida,M,N
+814,February,1982,Unprovoked,Hawaii,F,N
+815,May,1981,Unprovoked,Hawaii,M,Y
+816,April,1979,Unprovoked,Florida,M,N
+817,August,1975,Unprovoked,Florida,M,N
+818,November,1974,Unprovoked,Florida,M,N
+819,May,1969,Provoked,Texas,M,N
+820,August,1969,Provoked,Florida,M,N
+821,June,1966,Unprovoked,Texas,M,N
+822,August,1964,Unprovoked,Florida,M,N
+823,July,1953,Provoked,California,M,N
+824,July,1950,Unprovoked,Florida,M,N
+825,June,2023,Unprovoked,Florida,M,N
+826,October,2022,Provoked,Florida,M,N
+827,June,2021,Unprovoked,North Carolina,F,N
+828,August,2019,Unprovoked,Hawaii,F,N
+829,May,2017,Provoked,South Carolina,F,N
+830,July,2016,Provoked,Massachusetts,M,N
+831,November,2015,Unprovoked,Florida,M,N
+832,June,2015,Unprovoked,North Carolina,M,N
+833,June,2015,Unprovoked,North Carolina,M,N
+834,September,2014,Provoked,Florida,M,N
+835,August,2014,Unprovoked,South Carolina,F,N
+836,August,2014,Unprovoked,Florida,M,N
+837,August,2013,Unprovoked,Florida,F,N
+838,May,2013,Unprovoked,Hawaii,M,N
+839,April,2013,Unprovoked,Florida,M,N
+840,September,2011,Unprovoked,California,M,N
+841,July,2011,Unprovoked,Texas,M,N
+842,March,2011,Provoked,Texas,M,N
+843,October,2010,Unprovoked,California,M,Y
+844,November,2009,Unprovoked,California,M,N
+845,May,2009,Unprovoked,Florida,M,N
+846,September,2008,Unprovoked,California,M,N
+847,April,2008,Unprovoked,Florida,M,N
+848,August,2007,Unprovoked,South Carolina,M,N
+849,August,2007,Unprovoked,South Carolina,M,N
+850,March,2007,Unprovoked,Florida,M,N
+851,August,2006,Unprovoked,Oregon,M,N
+852,August,2006,Unprovoked,North Carolina,F,N
+853,July,2006,Unprovoked,Florida,F,N
+854,June,2005,Unprovoked,Florida,F,Y
+855,May,2005,Unprovoked,Florida,M,N
+856,July,2003,Provoked,Florida,M,N
+857,July,2000,Unprovoked,Florida,F,N
+858,July,2000,Unprovoked,Florida,F,N
+859,October,1999,Unprovoked,Florida,M,N
+860,November,1998,Unprovoked,Florida,M,Y
+861,August,1997,Unprovoked,Florida,M,N
+862,October,1996,Unprovoked,California,M,N
+863,July,1996,Unprovoked,Florida,F,N
+864,July,1995,Unprovoked,Florida,M,N
+865,May,1994,Unprovoked,Florida,M,N
+866,January,1993,Unprovoked,Oregon,M,N
+867,October,1990,Unprovoked,Florida,M,N
+868,October,1990,Unprovoked,Florida,M,N
+869,September,1989,Unprovoked,North Carolina,M,N
+870,August,1987,Unprovoked,Florida,M,N
+871,September,1985,Unprovoked,California,M,N
+872,January,1984,Unprovoked,Florida,M,N
+873,October,1983,Unprovoked,Florida,M,N
+874,November,1981,Unprovoked,Hawaii,M,N
+875,July,1976,Unprovoked,Louisiana,M,N
+876,May,1975,Unprovoked,Florida,F,N
+877,July,1974,Unprovoked,Georgia,M,Y
+878,April,1974,Unprovoked,Florida,F,N
+879,August,1972,Unprovoked,Hawaii,M,N
+880,August,1969,Unprovoked,Florida,M,N
+881,July,1968,Unprovoked,Florida,M,N
+882,June,1967,Provoked,Florida,M,N
+883,August,1959,Unprovoked,Georgia,F,N
+884,July,1959,Provoked,California,M,N
+885,June,1959,Unprovoked,California,M,Y
+886,December,1958,Unprovoked,Hawaii,M,Y
+887,July,1950,Unprovoked,Texas,M,N
+888,March,2023,Unprovoked,Florida,M,N
+889,July,2021,Provoked,Florida,M,N
+890,June,2019,Unprovoked,Georgia,M,N
+891,February,2019,Unprovoked,Florida,M,N
+892,September,2018,Unprovoked,California,M,N
+893,November,2017,Unprovoked,California,M,N
+894,April,2017,Unprovoked,Florida,F,N
+895,October,2016,Unprovoked,Florida,M,N
+896,May,2016,Provoked,Florida,F,N
+897,September,2015,Unprovoked,Florida,M,N
+898,December,2014,Unprovoked,California,M,N
+899,August,2014,Unprovoked,North Carolina,M,N
+900,March,2014,Unprovoked,Florida,M,N
+901,July,2013,Unprovoked,South Carolina,M,N
+902,April,2013,Unprovoked,Florida,M,N
+903,July,2012,Unprovoked,Massachusetts,M,N
+904,June,2012,Unprovoked,Hawaii,F,N
+905,March,2012,Unprovoked,Florida,F,N
+906,September,2011,Unprovoked,South Carolina,M,N
+907,April,2011,Unprovoked,Florida,M,N
+908,June,2010,Unprovoked,Florida,M,N
+909,October,2009,Unprovoked,California,M,N
+910,September,2009,Unprovoked,Florida,M,N
+911,May,2009,Unprovoked,Florida,M,N
+912,April,2009,Unprovoked,Florida,M,N
+913,February,2008,Unprovoked,Florida,M,N
+914,September,2007,Unprovoked,Florida,M,N
+915,June,2007,Unprovoked,Florida,M,N
+916,July,2006,Unprovoked,Florida,M,N
+917,December,2005,Unprovoked,Hawaii,M,N
+918,August,2005,Unprovoked,South Carolina,M,N
+919,September,2003,Unprovoked,Florida,M,N
+920,August,2003,Provoked,Texas,M,N
+921,September,2001,Unprovoked,Florida,M,N
+922,August,2001,Unprovoked,Florida,F,N
+923,April,2001,Unprovoked,Florida,M,N
+924,November,2000,Unprovoked,California,M,N
+925,October,2000,Unprovoked,Florida,M,N
+926,June,2000,Unprovoked,Florida,M,N
+927,February,1996,Provoked,Missouri,F,N
+928,August,1995,Unprovoked,Florida,M,N
+929,August,1995,Unprovoked,Florida,M,N
+930,July,1995,Provoked,Mississippi,F,N
+931,May,1994,Unprovoked,Florida,M,N
+932,October,1991,Unprovoked,Florida,M,N
+933,January,1989,Unprovoked,California,F,Y
+934,November,1986,Unprovoked,Florida,M,N
+935,January,1986,Unprovoked,California,M,N
+936,November,1984,Provoked,Florida,M,N
+937,September,1984,Unprovoked,Florida,M,N
+938,August,1983,Provoked,Florida,M,N
+939,May,1983,Unprovoked,Florida,M,N
+940,June,1977,Unprovoked,Texas,M,N
+941,April,1977,Unprovoked,Hawaii,M,N
+942,November,1975,Unprovoked,Florida,M,N
+943,July,1975,Unprovoked,Florida,M,N
+944,July,1966,Unprovoked,Texas,M,N
+945,June,1961,Unprovoked,Florida,M,Y
+946,June,1954,Provoked,California,M,N
+947,October,1950,Unprovoked,California,M,N
+948,June,1950,Unprovoked,New York,M,N
+949,July,2023,Unprovoked,New York,M,N
+950,April,2023,Unprovoked,Florida,M,N
+951,November,2022,Provoked,Florida,M,N
+952,July,2020,Unprovoked,Florida,M,N
+953,March,2020,Unprovoked,California,M,N
+954,October,2019,Unprovoked,Guam,M,N
+955,July,2019,Unprovoked,Rhode Island,M,N
+956,May,2018,Unprovoked,South Carolina,M,N
+957,August,2017,Unprovoked,South Carolina,M,N
+958,July,2017,Unprovoked,Florida,M,N
+959,June,2017,Unprovoked,South Carolina,F,N
+960,July,2016,Unprovoked,Florida,F,N
+961,May,2016,Unprovoked,Florida,M,N
+962,May,2015,Unprovoked,Florida,F,N
+963,April,2015,Unprovoked,Hawaii,F,Y
+964,January,2015,Provoked,Hawaii,M,N
+965,August,2014,Unprovoked,South Carolina,M,N
+966,April,2014,Unprovoked,Florida,M,N
+967,March,2014,Unprovoked,Florida,M,N
+968,June,2013,Unprovoked,Florida,M,N
+969,September,2012,Unprovoked,Florida,F,N
+970,December,2011,Provoked,Hawaii,M,N
+971,February,2010,Provoked,Florida,M,N
+972,August,2007,Unprovoked,Florida,F,N
+973,July,2007,Unprovoked,North Carolina,M,N
+974,April,2007,Unprovoked,Florida,M,N
+975,July,2006,Unprovoked,Texas,M,N
+976,March,2006,Unprovoked,Hawaii,F,N
+977,November,2005,Unprovoked,Florida,M,N
+978,July,2004,Unprovoked,North Carolina,F,N
+979,July,2004,Unprovoked,Texas,M,N
+980,November,2003,Unprovoked,Florida,M,N
+981,August,2002,Unprovoked,Florida,M,N
+982,July,2002,Unprovoked,South Carolina,M,N
+983,September,2001,Unprovoked,Florida,M,N
+984,April,2001,Unprovoked,Florida,M,N
+985,April,2001,Unprovoked,Hawaii,M,N
+986,October,2000,Unprovoked,Florida,M,N
+987,August,2000,Unprovoked,Hawaii,M,N
+988,April,1998,Provoked,Florida,M,N
+989,October,1997,Unprovoked,Florida,M,N
+990,October,1994,Provoked,Florida,F,N
+991,May,1994,Unprovoked,Florida,M,N
+992,April,1994,Unprovoked,Florida,M,N
+993,August,1993,Unprovoked,North Carolina,F,N
+994,November,1992,Unprovoked,California,M,N
+995,October,1992,Unprovoked,California,M,N
+996,November,1987,Unprovoked,Florida,M,N
+997,September,1983,Unprovoked,Florida,M,N
+998,October,1981,Unprovoked,Florida,M,N
+999,September,1974,Unprovoked,California,M,N
+1000,September,1974,Unprovoked,Oregon,M,N
+1001,July,1971,Unprovoked,California,M,N
+1002,May,1961,Unprovoked,California,M,N
+1003,September,1960,Provoked,South Carolina,M,N
+1004,October,1959,Unprovoked,California,M,N
+1005,September,1958,Provoked,New York,M,N
+1006,September,1955,Unprovoked,Hawaii,M,N
+1007,July,2023,Unprovoked,Florida,M,N
+1008,May,2023,Provoked,Florida,M,N
+1009,December,2022,Unprovoked,Hawaii,F,Y
+1010,October,2022,Unprovoked,Hawaii,M,N
+1011,July,2021,Unprovoked,Georgia,M,N
+1012,April,2021,Unprovoked,Florida,M,N
+1013,March,2021,Unprovoked,Florida,M,N
+1014,January,2021,Unprovoked,Florida,M,N
+1015,September,2020,Unprovoked,Hawaii,F,N
+1016,May,2020,Unprovoked,California,F,N
+1017,December,2019,Unprovoked,Hawaii,M,N
+1018,August,2019,Unprovoked,Florida,M,N
+1019,May,2019,Unprovoked,Florida,M,N
+1020,February,2019,Unprovoked,Hawaii,M,N
+1021,July,2018,Provoked,California,F,N
+1022,October,2017,Unprovoked,Hawaii,F,N
+1023,May,2016,Unprovoked,California,F,N
+1024,October,2015,Unprovoked,Texas,M,N
+1025,October,2014,Unprovoked,Hawaii,F,N
+1026,April,2014,Unprovoked,Florida,M,N
+1027,November,2013,Unprovoked,New Jersey,M,N
+1028,October,2013,Unprovoked,Hawaii,M,N
+1029,September,2013,Provoked,Florida,M,N
+1030,July,2013,Unprovoked,Hawaii,F,N
+1031,July,2011,Unprovoked,New Jersey,M,N
+1032,May,2011,Unprovoked,Florida,M,N
+1033,May,2011,Unprovoked,Florida,M,N
+1034,July,2010,Provoked,New York,M,N
+1035,October,2009,Unprovoked,Hawaii,M,N
+1036,July,2009,Unprovoked,Florida,F,N
+1037,March,2009,Unprovoked,Hawaii,M,N
+1038,September,2008,Unprovoked,Florida,M,N
+1039,August,2008,Unprovoked,Florida,M,N
+1040,August,2008,Unprovoked,Florida,F,N
+1041,March,2007,Unprovoked,Florida,M,N
+1042,June,2006,Unprovoked,South Carolina,F,N
+1043,January,2006,Unprovoked,California,M,N
+1044,August,2005,Unprovoked,California,M,N
+1045,July,2005,Unprovoked,Texas,F,N
+1046,February,2005,Unprovoked,Hawaii,M,N
+1047,May,2004,Unprovoked,Texas,M,N
+1048,March,2004,Unprovoked,Florida,M,N
+1049,April,2003,Unprovoked,Florida,M,N
+1050,March,2002,Unprovoked,Florida,M,N
+1051,September,2001,Unprovoked,Florida,M,N
+1052,August,2001,Unprovoked,Florida,M,N
+1053,March,2000,Unprovoked,Florida,M,N
+1054,September,1999,Unprovoked,Florida,M,N
+1055,June,1999,Unprovoked,Florida,M,N
+1056,November,1998,Unprovoked,Oregon,M,N
+1057,March,1998,Unprovoked,Florida,M,N
+1058,March,1998,Unprovoked,Florida,M,N
+1059,September,1997,Unprovoked,Florida,M,N
+1060,October,1996,Unprovoked,California,M,N
+1061,August,1993,Unprovoked,Hawaii,M,N
+1062,March,1992,Unprovoked,Hawaii,F,N
+1063,May,1991,Unprovoked,Hawaii,M,N
+1064,July,1988,Unprovoked,Florida,M,N
+1065,November,1983,Unprovoked,Florida,M,N
+1066,September,1981,Unprovoked,Florida,M,N
+1067,September,1976,Unprovoked,Florida,M,Y
+1068,September,1974,Unprovoked,California,M,N
+1069,October,1967,Unprovoked,Florida,M,N
+1070,June,1966,Provoked,New Jersey,M,N
+1071,January,1966,Unprovoked,Florida,M,N
+1072,August,1961,Unprovoked,California,M,N
+1073,March,1960,Unprovoked,Florida,M,N
+1074,August,1954,Unprovoked,Louisiana,F,N
+1075,February,1953,Provoked,Hawaii,M,N
+1076,May,2023,Unprovoked,South Carolina,F,N
+1077,December,2022,Unprovoked,Samoa,M,N
+1078,April,2022,Unprovoked,Alabama,M,N
+1079,December,2021,Unprovoked,Hawaii,M,N
+1080,January,2020,Unprovoked,North Carolina,M,N
+1081,September,2019,Unprovoked,Florida,M,N
+1082,August,2019,Unprovoked,Cayman Islands,M,N
+1083,July,2019,Provoked,North Carolina,M,N
+1084,October,2017,Unprovoked,Florida,M,N
+1085,September,2015,Unprovoked,Florida,M,N
+1086,July,2015,Unprovoked,North Carolina,M,N
+1087,June,2015,Unprovoked,North Carolina,F,N
+1088,August,2014,Unprovoked,Florida,M,N
+1089,July,2014,Unprovoked,Florida,M,N
+1090,August,2013,Unprovoked,South Carolina,M,N
+1091,August,2011,Unprovoked,Texas,F,N
+1092,May,2011,Unprovoked,Hawaii,F,N
+1093,May,2011,Provoked,Florida,M,N
+1094,June,2010,Unprovoked,Florida,F,N
+1095,September,2008,Unprovoked,Florida,M,N
+1096,August,2007,Unprovoked,Florida,M,N
+1097,June,2006,Unprovoked,California,M,N
+1098,September,2005,Unprovoked,South Carolina,M,Y
+1099,October,2004,Unprovoked,California,M,N
+1100,October,2003,Provoked,Florida,M,N
+1101,July,2002,Provoked,Maryland,M,Y
+1102,March,2002,Unprovoked,Florida,M,N
+1103,August,2001,Unprovoked,Florida,M,N
+1104,May,2001,Unprovoked,South Carolina,M,N
+1105,April,2001,Unprovoked,Florida,M,N
+1106,October,2000,Unprovoked,North Carolina,M,N
+1107,September,2000,Unprovoked,Florida,M,N
+1108,December,1999,Unprovoked,Florida,M,N
+1109,December,1998,Provoked,Florida,M,N
+1110,August,1998,Unprovoked,Florida,M,N
+1111,August,1997,Unprovoked,Florida,M,N
+1112,August,1997,Unprovoked,California,M,N
+1113,September,1995,Unprovoked,Florida,M,N
+1114,August,1995,Unprovoked,Florida,M,N
+1115,September,1992,Unprovoked,Florida,F,N
+1116,April,1990,Unprovoked,Hawaii,M,N
+1117,April,1988,Unprovoked,Florida,M,N
+1118,April,1987,Unprovoked,Texas,F,N
+1119,October,1985,Provoked,Alabama,M,N
+1120,December,1981,Unprovoked,Hawaii,M,N
+1121,July,1981,Unprovoked,Florida,F,N
+1122,July,1975,Unprovoked,California,M,N
+1123,August,1973,Unprovoked,Virginia,M,N
+1124,July,1968,Unprovoked,California,M,N
+1125,June,1966,Provoked,Florida,M,N
+1126,April,1965,Unprovoked,Florida,M,N
+1127,August,1959,Provoked,South Carolina,M,N
+1128,July,1958,Unprovoked,Florida,M,N
+1129,February,1957,Unprovoked,Florida,M,N
+1130,July,1952,Unprovoked,Puerto Rico,M,N
+1131,January,1952,Unprovoked,Florida,M,Y
+1132,January,1950,Unprovoked,Florida,M,N
+1133,November,2022,Unprovoked,California,F,N
+1134,May,2019,Unprovoked,California,F,N
+1135,August,2018,Unprovoked,North Carolina,F,N
+1136,August,2017,Unprovoked,Florida,F,N
+1137,June,2017,Unprovoked,South Carolina,F,N
+1138,April,2017,Unprovoked,California,F,N
+1139,April,2017,Unprovoked,Florida,F,N
+1140,June,2016,Unprovoked,Florida,M,N
+1141,April,2016,Unprovoked,Florida,M,N
+1142,January,2016,Unprovoked,Texas,M,N
+1143,June,2015,Unprovoked,North Carolina,M,N
+1144,November,2014,Unprovoked,Florida,M,N
+1145,August,2014,Unprovoked,Louisiana,M,N
+1146,July,2014,Unprovoked,California,M,N
+1147,August,2013,Unprovoked,California,M,N
+1148,July,2013,Unprovoked,North Carolina,F,N
+1149,September,2012,Unprovoked,Florida,M,N
+1150,August,2012,Unprovoked,Alabama,M,N
+1151,May,2012,Unprovoked,Florida,M,N
+1152,June,2011,Unprovoked,California,M,N
+1153,July,2010,Unprovoked,California,M,N
+1154,April,2010,Unprovoked,Hawaii,M,N
+1155,May,2009,Unprovoked,Florida,M,N
+1156,August,2008,Unprovoked,Florida,M,N
+1157,June,2007,Unprovoked,California,F,N
+1158,July,2006,Unprovoked,Florida,M,N
+1159,July,2006,Unprovoked,South Carolina,M,N
+1160,April,2006,Unprovoked,Florida,F,N
+1161,November,2005,Unprovoked,Florida,M,N
+1162,September,2005,Unprovoked,South Carolina,F,N
+1163,August,2004,Unprovoked,California,M,Y
+1164,July,2003,Unprovoked,Florida,M,N
+1165,May,2003,Unprovoked,Florida,M,N
+1166,October,2002,Unprovoked,Florida,M,N
+1167,October,2002,Unprovoked,Florida,M,N
+1168,September,2002,Unprovoked,Oregon,M,N
+1169,September,2000,Unprovoked,California,M,N
+1170,August,2000,Unprovoked,North Carolina,M,N
+1171,July,2000,Unprovoked,North Carolina,F,N
+1172,July,2000,Unprovoked,Florida,F,N
+1173,June,1997,Unprovoked,Florida,M,N
+1174,June,1996,Unprovoked,South Carolina,F,N
+1175,August,1995,Unprovoked,Florida,M,N
+1176,August,1995,Unprovoked,Florida,M,N
+1177,December,1994,Unprovoked,California,M,Y
+1178,September,1993,Unprovoked,Florida,M,N
+1179,November,1992,Unprovoked,Florida,M,N
+1180,January,1989,Unprovoked,Virginia,M,N
+1181,January,1986,Unprovoked,Florida,M,N
+1182,October,1985,Unprovoked,Hawaii,M,N
+1183,July,1983,Unprovoked,Florida,F,N
+1184,April,1983,Unprovoked,Florida,M,N
+1185,March,1982,Unprovoked,Florida,M,N
+1186,February,1982,Unprovoked,Florida,M,Y
+1187,September,1981,Unprovoked,Florida,M,Y
+1188,August,1981,Unprovoked,Florida,M,N
+1189,July,1976,Unprovoked,Florida,M,N
+1190,June,1975,Unprovoked,Alabama,M,N
+1191,June,1974,Unprovoked,Florida,F,N
+1192,June,1962,Unprovoked,California,M,Y
+1193,August,1960,Unprovoked,Delaware,M,N
+1194,April,1957,Unprovoked,California,M,Y
+1195,August,1956,Unprovoked,Puerto Rico,M,Y
+1196,February,2023,Unprovoked,Florida,M,N
+1197,May,2022,Provoked,Georgia,M,N
+1198,June,2021,Unprovoked,Florida,M,N
+1199,October,2020,Unprovoked,"Franklin County, Florida",M,N
+1200,July,2019,Unprovoked,Hawaii,M,N
+1201,September,2017,Unprovoked,Texas,F,N
+1202,October,2016,Unprovoked,Hawaii,F,N
+1203,October,2014,Unprovoked,Hawaii,M,N
+1204,June,2014,Unprovoked,Palmyra Atoll,F,N
+1205,June,2013,Unprovoked,Texas,M,N
+1206,June,2012,Unprovoked,Florida,M,N
+1207,June,2011,Unprovoked,California,M,N
+1208,April,2011,Unprovoked,Florida,M,N
+1209,September,2010,Unprovoked,Florida,M,N
+1210,July,2008,Unprovoked,North Carolina,F,N
+1211,July,2008,Unprovoked,Florida,M,N
+1212,March,2007,Unprovoked,Florida,M,N
+1213,December,2006,Unprovoked,California,M,N
+1214,July,2005,Unprovoked,Florida,M,N
+1215,June,2005,Unprovoked,Florida,M,N
+1216,July,2004,Unprovoked,Alabama,M,N
+1217,October,2003,Unprovoked,Florida,M,N
+1218,June,2003,Unprovoked,Hawaii,M,N
+1219,September,2002,Unprovoked,Florida,M,N
+1220,March,2002,Unprovoked,Hawaii,M,N
+1221,September,2001,Unprovoked,Florida,M,N
+1222,August,2001,Unprovoked,Florida,M,N
+1223,July,2001,Unprovoked,Florida,M,N
+1224,September,2000,Unprovoked,Florida,M,N
+1225,July,1999,Unprovoked,Florida,F,N
+1226,May,1998,Unprovoked,Florida,M,N
+1227,June,1995,Unprovoked,Florida,M,N
+1228,June,1995,Unprovoked,Florida,F,N
+1229,August,1992,Unprovoked,California,M,N
+1230,December,1991,Unprovoked,California,M,N
+1231,July,1991,Unprovoked,California,M,N
+1232,October,1988,Unprovoked,Florida,M,N
+1233,November,1985,Provoked,California,M,N
+1234,June,1983,Unprovoked,Florida,M,N
+1235,March,1983,Unprovoked,Florida,M,N
+1236,February,1981,Unprovoked,Florida,M,N
+1237,November,1979,Unprovoked,Oregon,M,N
+1238,April,1979,Unprovoked,Florida,M,N
+1239,July,1976,Unprovoked,Hawaii,M,Y
+1240,December,1975,Unprovoked,California,M,N
+1241,August,1975,Unprovoked,California,M,N
+1242,July,1975,Unprovoked,California,M,N
+1243,June,1972,Unprovoked,Florida,M,N
+1244,August,1967,Provoked,California,M,N
+1245,August,1965,Unprovoked,New Jersey,M,N
+1246,June,1962,Unprovoked,Florida,M,N
+1247,November,1954,Unprovoked,Wake Island,M,N
+1248,July,2023,Unprovoked,Florida,M,N
+1249,July,2023,Unprovoked,New York,M,N
+1250,December,2022,Unprovoked,Texas,M,N
+1251,September,2021,Unprovoked,Louisiana,M,N
+1252,July,2020,Unprovoked,North Carolina,M,N
+1253,May,2019,Unprovoked,Hawaii,M,Y
+1254,July,2018,Unprovoked,Florida,M,N
+1255,October,2017,Unprovoked,Hawaii,M,N
+1256,September,2016,Unprovoked,Florida,M,N
+1257,July,2016,Provoked,Florida,M,N
+1258,May,2016,Unprovoked,Florida,M,N
+1259,August,2014,Unprovoked,Florida,M,N
+1260,May,2014,Unprovoked,Florida,M,N
+1261,December,2013,Unprovoked,Florida,M,N
+1262,July,2012,Unprovoked,North Carolina,F,N
+1263,September,2010,Unprovoked,Virginia,M,N
+1264,September,2010,Unprovoked,Florida,M,N
+1265,July,2010,Unprovoked,California,M,N
+1266,August,2009,Unprovoked,Louisiana,M,N
+1267,July,2008,Unprovoked,Hawaii,M,N
+1268,March,2008,Unprovoked,Florida,M,N
+1269,September,2007,Unprovoked,Florida,M,N
+1270,September,2007,Unprovoked,South Carolina,M,N
+1271,August,2007,Provoked,Delaware,M,N
+1272,September,2006,Unprovoked,Florida,M,N
+1273,July,2005,Unprovoked,North Carolina,M,N
+1274,February,2005,Unprovoked,Florida,M,N
+1275,July,2003,Unprovoked,Florida,M,N
+1276,June,2003,Unprovoked,Florida,M,N
+1277,September,2001,Provoked,Florida,M,N
+1278,May,2001,Unprovoked,South Carolina,M,N
+1279,April,2001,Unprovoked,Florida,M,N
+1280,November,1999,Unprovoked,California,M,N
+1281,August,1999,Unprovoked,South Carolina,M,N
+1282,September,1998,Unprovoked,Florida,M,N
+1283,September,1998,Unprovoked,Florida,M,N
+1284,October,1996,Unprovoked,Florida,M,N
+1285,November,1992,Unprovoked,Florida,M,N
+1286,November,1992,Unprovoked,Hawaii,M,Y
+1287,October,1992,Unprovoked,Hawaii,M,N
+1288,August,1990,Unprovoked,California,M,N
+1289,January,1990,Unprovoked,California,M,N
+1290,September,1988,Unprovoked,Florida,M,Y
+1291,June,1988,Unprovoked,Florida,M,N
+1292,April,1988,Unprovoked,Florida,M,N
+1293,May,1983,Unprovoked,Florida,M,N
+1294,September,1981,Unprovoked,Florida,M,N
+1295,September,1976,Unprovoked,Florida,M,Y
+1296,March,1976,Unprovoked,Florida,M,N
+1297,October,1972,Unprovoked,US Virgin Islands,M,Y
+1298,March,1972,Unprovoked,Hawaii,M,N
+1299,July,1963,Unprovoked,Florida,M,N
+1300,July,1963,Provoked,Mississippi,M,N
+1301,February,1961,Provoked,Pennsylvania,M,N
+1302,August,1960,Unprovoked,South Carolina,M,Y
+1303,July,1960,Unprovoked,Mississippi,M,N
+1304,June,1960,Provoked,South Carolina,M,N
+1305,April,1960,Unprovoked,California,M,N
+1306,July,1959,Provoked,Florida,M,N
+1307,January,1956,Provoked,Virginia,M,N
+1308,June,1955,Unprovoked,Rhode Island,M,N
+1309,April,1953,Unprovoked,Texas,F,N
+1310,May,2023,Provoked,Hawaii,M,N
+1311,October,2022,Unprovoked,California,M,N
+1312,March,2022,Provoked,Florida,M,N
+1313,February,2022,Unprovoked,Florida,M,N
+1314,December,2020,Unprovoked,Hawaii,M,Y
+1315,August,2020,Unprovoked,South Carolina,M,N
+1316,July,2020,Unprovoked,Florida,F,N
+1317,July,2019,Unprovoked,Florida,M,N
+1318,March,2019,Unprovoked,Florida,M,N
+1319,August,2018,Unprovoked,North Carolina,M,N
+1320,August,2018,Unprovoked,Texas,M,N
+1321,July,2018,Unprovoked,Florida,M,N
+1322,March,2016,Unprovoked,Florida,M,N
+1323,January,2016,Unprovoked,Hawaii,F,N
+1324,September,2015,Unprovoked,California,F,N
+1325,November,2014,Unprovoked,Hawaii,M,N
+1326,September,2013,Unprovoked,Florida,F,N
+1327,October,2012,Unprovoked,Hawaii,F,N
+1328,June,2012,Unprovoked,North Carolina,F,N
+1329,October,2011,Unprovoked,Oregon,M,N
+1330,August,2011,Unprovoked,North Carolina,F,N
+1331,December,2010,Unprovoked,Hawaii,M,N
+1332,December,2010,Unprovoked,Hawaii,M,N
+1333,August,2009,Unprovoked,California,F,N
+1334,August,2009,Unprovoked,Hawaii,M,N
+1335,May,2007,Unprovoked,South Carolina,F,N
+1336,May,2007,Provoked,Virginia,F,N
+1337,July,2006,Unprovoked,Florida,M,N
+1338,July,2006,Unprovoked,Florida,M,N
+1339,November,2005,Unprovoked,California,M,N
+1340,July,2004,Unprovoked,North Carolina,F,N
+1341,April,2004,Unprovoked,Hawaii,M,Y
+1342,November,2003,Unprovoked,Florida,F,N
+1343,October,2003,Unprovoked,Florida,M,N
+1344,November,2002,Unprovoked,Florida,M,N
+1345,October,2002,Unprovoked,Hawaii,F,N
+1346,September,2002,Provoked,Florida,M,N
+1347,August,2002,Unprovoked,Florida,M,N
+1348,July,2002,Provoked,Florida,M,N
+1349,September,2001,Unprovoked,North Carolina,M,Y
+1350,April,2001,Unprovoked,Florida,M,N
+1351,October,2000,Unprovoked,Hawaii,F,N
+1352,July,2000,Unprovoked,North Carolina,M,N
+1353,June,2000,Unprovoked,Alabama,M,N
+1354,August,1999,Unprovoked,Florida,M,N
+1355,March,1999,Unprovoked,Hawaii,M,N
+1356,September,1997,Unprovoked,Florida,M,N
+1357,August,1997,Unprovoked,Florida,M,N
+1358,May,1997,Unprovoked,Florida,M,N
+1359,September,1994,Unprovoked,Oregon,M,N
+1360,November,1991,Unprovoked,Hawaii,F,N
+1361,July,1991,Unprovoked,Virginia,M,N
+1362,June,1988,Unprovoked,North Carolina,M,N
+1363,May,1988,Unprovoked,Florida,M,N
+1364,December,1987,Unprovoked,Florida,M,N
+1365,September,1984,Unprovoked,Florida,M,N
+1366,July,1984,Unprovoked,Texas,F,N
+1367,June,1982,Unprovoked,Hawaii,M,N
+1368,August,1981,Provoked,Florida,M,N
+1369,July,1981,Unprovoked,Florida,M,N
+1370,June,1978,Unprovoked,Florida,M,N
+1371,November,1976,Unprovoked,Florida,M,N
+1372,September,1972,Unprovoked,California,M,N
+1373,October,1971,Unprovoked,California,M,N
+1374,January,1971,Unprovoked,California,M,N
+1375,July,1957,Unprovoked,North Carolina,M,Y
+1376,January,1957,Unprovoked,Florida,M,N
+1377,August,1954,Provoked,New Jersey,M,N
+1378,October,2022,Unprovoked,California,M,N
+1379,July,2022,Unprovoked,Florida,M,N
+1380,February,2022,Unprovoked,California,M,Y
+1381,October,2021,Unprovoked,California,M,N
+1382,April,2021,Unprovoked,Hawaii,F,N
+1383,March,2021,Unprovoked,Florida,M,N
+1384,July,2020,Unprovoked,Florida,M,N
+1385,May,2019,Unprovoked,New Jersey,M,N
+1386,April,2019,Unprovoked,Hawaii,F,N
+1387,July,2018,Unprovoked,Florida,M,N
+1388,October,2017,Unprovoked,Florida,F,N
+1389,October,2016,Unprovoked,Oregon,M,N
+1390,August,2016,Unprovoked,Florida,M,N
+1391,March,2016,Unprovoked,Hawaii,F,N
+1392,June,2015,Unprovoked,North Carolina,F,N
+1393,June,2015,Unprovoked,Florida,M,N
+1394,October,2014,Unprovoked,Florida,F,N
+1395,September,2014,Unprovoked,Florida,M,N
+1396,August,2014,Provoked,Florida,M,N
+1397,August,2014,Unprovoked,Florida,F,N
+1398,August,2013,Unprovoked,Hawaii,F,Y
+1399,July,2013,Unprovoked,Hawaii,M,N
+1400,September,2012,Unprovoked,Florida,M,N
+1401,June,2011,Unprovoked,North Carolina,F,N
+1402,August,2010,Unprovoked,Florida,F,N
+1403,April,2010,Provoked,Florida,M,N
+1404,April,2009,Unprovoked,Florida,M,N
+1405,July,2008,Unprovoked,Hawaii,F,N
+1406,June,2008,Unprovoked,Florida,M,N
+1407,April,2008,Unprovoked,Florida,M,N
+1408,March,2008,Unprovoked,Florida,M,N
+1409,September,2007,Unprovoked,Florida,F,N
+1410,September,2007,Unprovoked,Florida,F,N
+1411,May,2006,Unprovoked,Florida,F,N
+1412,April,2006,Unprovoked,Florida,M,N
+1413,October,2005,Unprovoked,California,M,N
+1414,March,2003,Provoked,Florida,F,N
+1415,September,2002,Unprovoked,Florida,M,N
+1416,April,2002,Unprovoked,Florida,M,N
+1417,January,2002,Unprovoked,Hawaii,M,N
+1418,May,2001,Unprovoked,Florida,M,N
+1419,August,1998,Unprovoked,California,M,N
+1420,January,1998,Unprovoked,Virginia,M,N
+1421,June,1997,Unprovoked,Florida,M,N
+1422,November,1992,Unprovoked,Florida,M,N
+1423,September,1989,Provoked,California,M,N
+1424,August,1983,Unprovoked,Oregon,M,N
+1425,August,1983,Unprovoked,Virginia,F,N
+1426,February,1982,Unprovoked,Hawaii,F,N
+1427,August,1977,Unprovoked,California,M,N
+1428,January,1976,Unprovoked,Florida,M,N
+1429,May,1974,Unprovoked,California,M,N
+1430,August,1972,Unprovoked,Florida,M,N
+1431,October,1971,Unprovoked,Florida,M,N
+1432,October,1970,Unprovoked,Hawaii,M,N
+1433,June,1970,Provoked,Florida,M,N
+1434,November,1962,Unprovoked,California,M,N
+1435,July,1962,Provoked,California,M,N
+1436,April,1959,Unprovoked,Hawaii,M,N
+1437,July,1958,Provoked,Florida,M,N
+1438,August,1955,Provoked,South Carolina,M,N
+1439,October,2021,Unprovoked,Florida,M,N
+1440,October,2021,Unprovoked,Florida,M,N
+1441,May,2021,Unprovoked,South Carolina,M,N
+1442,May,2021,Unprovoked,Hawaii,M,N
+1443,October,2020,Unprovoked,Florida,M,N
+1444,August,2020,Unprovoked,Virgin Islands,F,N
+1445,August,2019,Unprovoked,Florida,F,N
+1446,August,2019,Unprovoked,Florida,M,N
+1447,October,2018,Unprovoked,Florida,F,N
+1448,June,2017,Unprovoked,Florida,M,N
+1449,July,2016,Unprovoked,South Carolina,M,N
+1450,October,2015,Unprovoked,Hawaii,M,N
+1451,June,2015,Unprovoked,Florida,M,N
+1452,October,2014,Unprovoked,South Carolina,F,N
+1453,October,2014,Unprovoked,California,M,N
+1454,November,2013,Unprovoked,Oregon,M,N
+1455,October,2013,Unprovoked,California,M,N
+1456,June,2013,Unprovoked,Hawaii,M,N
+1457,November,2012,Unprovoked,Florida,M,N
+1458,September,2012,Unprovoked,Florida,F,N
+1459,June,2012,Provoked,Florida,M,N
+1460,June,2012,Unprovoked,Florida,F,N
+1461,February,2012,Provoked,Florida,M,N
+1462,August,2011,Unprovoked,Florida,M,N
+1463,February,2010,Unprovoked,Florida,M,Y
+1464,July,2009,Unprovoked,California,M,N
+1465,April,2009,Unprovoked,California,M,N
+1466,March,2008,Unprovoked,California,M,N
+1467,September,2007,Unprovoked,Florida,F,N
+1468,August,2007,Unprovoked,Florida,M,N
+1469,May,2007,Unprovoked,Florida,M,N
+1470,October,2002,Unprovoked,Florida,M,N
+1471,June,2001,Provoked,California,M,N
+1472,September,2000,Unprovoked,Florida,F,N
+1473,August,2000,Unprovoked,Florida,M,N
+1474,August,2000,Unprovoked,Florida,M,N
+1475,July,2000,Unprovoked,North Carolina,M,N
+1476,October,1999,Unprovoked,Florida,M,N
+1477,October,1998,Unprovoked,Florida,M,N
+1478,May,1998,Unprovoked,Florida,F,N
+1479,September,1996,Unprovoked,Florida,M,N
+1480,October,1995,Unprovoked,Florida,M,N
+1481,June,1995,Unprovoked,Georgia,M,N
+1482,December,1993,Unprovoked,Hawaii,M,Y
+1483,March,1993,Unprovoked,Florida,M,N
+1484,September,1992,Unprovoked,Oregon,M,N
+1485,November,1991,Provoked,Florida,M,N
+1486,October,1991,Unprovoked,California,M,N
+1487,October,1990,Unprovoked,Florida,M,N
+1488,October,1990,Unprovoked,Hawaii,M,N
+1489,April,1989,Unprovoked,Hawaii,M,N
+1490,October,1986,Unprovoked,Florida,F,N
+1491,February,1985,Unprovoked,California,M,N
+1492,September,1984,Unprovoked,Oregon,M,N
+1493,January,1984,Provoked,California,M,N
+1494,November,1982,Unprovoked,South Carolina,M,N
+1495,October,1980,Unprovoked,California,M,N
+1496,November,1978,Unprovoked,Florida,M,N
+1497,June,1975,Unprovoked,Florida,M,N
+1498,September,1974,Unprovoked,California,M,N
+1499,January,1973,Unprovoked,Hawaii,M,N
+1500,June,1962,Unprovoked,California,M,Y
+1501,June,1962,Unprovoked,South Carolina,M,N
+1502,August,1960,Unprovoked,New Jersey,M,N
+1503,July,1956,Provoked,Puerto Rico,M,Y
+1504,September,1953,Unprovoked,California,M,N
+1505,July,1953,Unprovoked,Hawaii,M,Y
+1506,July,1952,Provoked,South Carolina,M,N
+1507,July,1952,Provoked,South Carolina,M,N
+1508,July,2023,Unprovoked,New York,F,N
+1509,January,2022,Unprovoked,Florida,F,N
+1510,July,2021,Unprovoked,Florida,F,N
+1511,October,2018,Unprovoked,Florida,F,N
+1512,September,2018,Unprovoked,Hawaii,M,N
+1513,April,2018,Provoked,Texas,M,N
+1514,August,2017,Unprovoked,Massachusetts,M,N
+1515,July,2016,Unprovoked,Florida,F,N
+1516,June,2016,Unprovoked,South Carolina,M,N
+1517,October,2015,Unprovoked,South Carolina,F,N
+1518,September,2015,Unprovoked,Florida,M,N
+1519,August,2015,Unprovoked,South Carolina,M,N
+1520,April,2015,Unprovoked,Florida,M,N
+1521,August,2014,Provoked,Maryland,M,N
+1522,July,2014,Unprovoked,Florida,M,N
+1523,December,2011,Unprovoked,Oregon,F,N
+1524,June,2011,Unprovoked,Florida,M,N
+1525,November,2010,Provoked,Palmyra Atoll,M,N
+1526,September,2010,Unprovoked,Florida,M,N
+1527,June,2010,Unprovoked,Texas,M,N
+1528,July,2009,Provoked,Florida,F,N
+1529,May,2008,Unprovoked,Florida,M,N
+1530,April,2008,Unprovoked,Florida,M,N
+1531,July,2007,Unprovoked,Florida,M,N
+1532,June,2007,Unprovoked,Hawaii,M,N
+1533,April,2006,Unprovoked,Florida,M,N
+1534,July,2004,Unprovoked,Florida,F,N
+1535,April,2003,Unprovoked,Florida,M,N
+1536,August,2002,Unprovoked,North Carolina,M,N
+1537,May,2002,Unprovoked,Florida,M,N
+1538,November,1999,Unprovoked,Hawaii,F,N
+1539,August,1998,Unprovoked,Virginia,M,N
+1540,July,1997,Unprovoked,South Carolina,M,N
+1541,November,1996,Unprovoked,California,M,N
+1542,September,1996,Unprovoked,Florida,M,N
+1543,January,1996,Unprovoked,North Carolina,M,N
+1544,September,1995,Unprovoked,Florida,M,Y
+1545,July,1995,Unprovoked,Florida,M,N
+1546,May,1994,Unprovoked,Florida,M,N
+1547,March,1994,Provoked,California,M,N
+1548,March,1993,Unprovoked,Hawaii,M,N
+1549,August,1991,Provoked,Florida,M,N
+1550,March,1988,Unprovoked,Florida,F,N
+1551,April,1987,Unprovoked,Hawaii,M,Y
+1552,March,1985,Unprovoked,Florida,M,N
+1553,June,1984,Unprovoked,Hawaii,F,N
+1554,February,1982,Unprovoked,Florida,M,N
+1555,October,1981,Unprovoked,Florida,M,N
+1556,July,1980,Unprovoked,Delaware,F,N
+1557,October,1976,Unprovoked,California,M,N
+1558,July,1975,Unprovoked,Florida,M,N
+1559,May,1975,Unprovoked,Florida,M,N
+1560,June,1961,Unprovoked,Florida,M,N
+1561,February,1955,Unprovoked,California,M,N
+1562,September,1954,Unprovoked,California,M,N
+1563,July,2023,Unprovoked,New York,F,N
+1564,July,2021,Unprovoked,North Carolina,M,N
+1565,July,2021,Provoked,BAHAMAS,F,N
+1566,June,2021,Unprovoked,California,M,N
+1567,September,2020,Unprovoked,Florida,M,N
+1568,August,2020,Unprovoked,North Carolina,M,N
+1569,July,2020,Unprovoked,Florida,F,N
+1570,November,2019,Unprovoked,California,F,N
+1571,February,2019,Unprovoked,California,M,N
+1572,September,2017,Unprovoked,Florida,M,N
+1573,January,2017,Unprovoked,Florida,M,N
+1574,June,2016,Unprovoked,North Carolina,M,N
+1575,January,2016,Unprovoked,Hawaii,M,N
+1576,July,2015,Unprovoked,California,M,N
+1577,June,2015,Unprovoked,South Carolina,M,N
+1578,April,2014,Unprovoked,Florida,M,N
+1579,May,2013,Unprovoked,Florida,M,N
+1580,April,2013,Unprovoked,Florida,M,N
+1581,October,2012,Unprovoked,California,M,Y
+1582,April,2012,Unprovoked,Florida,M,N
+1583,October,2011,Unprovoked,Florida,M,N
+1584,July,2011,Unprovoked,North Carolina,F,N
+1585,August,2009,Unprovoked,Florida,M,N
+1586,August,2008,Unprovoked,US Virgin Islands,F,N
+1587,August,2008,Unprovoked,Hawaii,M,N
+1588,July,2008,Unprovoked,North Carolina,M,N
+1589,March,2008,Unprovoked,Florida,M,N
+1590,August,2007,Unprovoked,Hawaii,M,N
+1591,August,2007,Unprovoked,Florida,M,N
+1592,October,2006,Unprovoked,Florida,M,N
+1593,February,2006,Unprovoked,Hawaii,F,N
+1594,October,2004,Unprovoked,Hawaii,M,N
+1595,October,2004,Unprovoked,California,M,N
+1596,August,2004,Unprovoked,California,M,N
+1597,June,2004,Unprovoked,California,M,N
+1598,July,2003,Unprovoked,Florida,F,N
+1599,April,2003,Unprovoked,Florida,M,N
+1600,April,2001,Unprovoked,Florida,M,N
+1601,March,2000,Unprovoked,Florida,F,N
+1602,July,1995,Unprovoked,Texas,M,N
+1603,July,1992,Unprovoked,Florida,F,N
+1604,September,1990,Unprovoked,California,M,N
+1605,June,1989,Unprovoked,Louisiana,M,N
+1606,October,1988,Unprovoked,Florida,F,N
+1607,June,1987,Provoked,Florida,M,N
+1608,September,1985,Unprovoked,Florida,M,N
+1609,July,1985,Unprovoked,Florida,M,N
+1610,October,1984,Unprovoked,Florida,F,N
+1611,October,1984,Unprovoked,Florida,M,N
+1612,September,1984,Unprovoked,California,M,N
+1613,August,1983,Unprovoked,Florida,F,N
+1614,June,1976,Unprovoked,Hawaii,M,N
+1615,August,1967,Unprovoked,Florida,M,N
+1616,May,1961,Unprovoked,Florida,M,N
+1617,March,1959,Unprovoked,Florida,M,N
+1618,July,2023,Unprovoked,Florida,M,N
+1619,May,2023,Unprovoked,Florida,F,N
+1620,August,2022,Unprovoked,South Carolina,F,N
+1621,July,2022,Unprovoked,Florida,M,N
+1622,June,2022,Unprovoked,California,M,N
+1623,July,2021,Unprovoked,Florida,M,N
+1624,May,2021,Unprovoked,Hawaii,M,N
+1625,February,2021,Unprovoked,Hawaii,M,N
+1626,July,2020,Unprovoked,Bahamas,M,N
+1627,June,2020,Unprovoked,Hawaii,M,N
+1628,July,2019,Unprovoked,North Carolina,F,N
+1629,July,2019,Unprovoked,Florida,F,N
+1630,June,2019,Unprovoked,North Carolina,M,N
+1631,November,2017,Unprovoked,Florida,F,N
+1632,October,2017,Unprovoked,Florida,M,N
+1633,February,2017,Unprovoked,Florida,M,N
+1634,August,2016,Unprovoked,Florida,M,N
+1635,June,2016,Unprovoked,North Carolina,M,N
+1636,May,2016,Unprovoked,Florida,F,N
+1637,October,2014,Unprovoked,Hawaii,F,N
+1638,June,2014,Unprovoked,Florida,F,N
+1639,May,2014,Unprovoked,Florida,F,N
+1640,October,2013,Unprovoked,Hawaii,M,N
+1641,March,2012,Unprovoked,Florida,M,N
+1642,January,2012,Unprovoked,Oregon,M,N
+1643,October,2011,Unprovoked,California,M,N
+1644,October,2011,Unprovoked,Florida,M,N
+1645,June,2011,Unprovoked,Florida,M,N
+1646,September,2010,Unprovoked,Florida,M,N
+1647,November,2009,Unprovoked,California,M,N
+1648,April,2009,Unprovoked,Florida,M,N
+1649,October,2008,Unprovoked,Florida,M,N
+1650,June,2008,Unprovoked,South Carolina,M,N
+1651,March,2008,Unprovoked,Florida,M,N
+1652,August,2007,Unprovoked,South Carolina,M,N
+1653,September,2006,Provoked,Florida,M,N
+1654,July,2006,Unprovoked,Florida,M,N
+1655,June,2006,Unprovoked,Florida,F,N
+1656,November,2005,Unprovoked,Florida,M,N
+1657,July,2005,Unprovoked,Florida,M,N
+1658,June,2003,Unprovoked,North Carolina,M,N
+1659,August,2002,Unprovoked,Hawaii,M,N
+1660,August,2001,Unprovoked,Florida,M,N
+1661,April,2001,Unprovoked,Florida,M,N
+1662,September,2000,Unprovoked,Florida,M,N
+1663,July,2000,Unprovoked,Florida,M,N
+1664,April,1999,Unprovoked,Florida,M,N
+1665,March,1999,Unprovoked,Hawaii,F,N
+1666,August,1998,Unprovoked,Florida,M,N
+1667,May,1997,Unprovoked,Florida,M,N
+1668,September,1996,Unprovoked,Florida,M,N
+1669,May,1996,Unprovoked,Florida,M,N
+1670,January,1996,Provoked,Florida,M,N
+1671,September,1995,Unprovoked,California,M,N
+1672,July,1995,Unprovoked,Florida,M,N
+1673,October,1994,Unprovoked,Florida,M,N
+1674,May,1994,Unprovoked,Florida,F,N
+1675,July,1991,Unprovoked,Florida,M,N
+1676,June,1991,Unprovoked,Florida,M,N
+1677,April,1991,Unprovoked,Florida,M,N
+1678,November,1990,Unprovoked,Florida,M,N
+1679,October,1987,Unprovoked,California,M,N
+1680,August,1987,Unprovoked,California,M,N
+1681,February,1987,Unprovoked,Florida,M,N
+1682,December,1983,Unprovoked,Florida,M,N
+1683,June,1980,Provoked,California,F,N
+1684,June,1977,Provoked,Florida,M,N
+1685,September,1974,Unprovoked,California,M,N
+1686,December,1973,Unprovoked,Hawaii,M,N
+1687,July,1971,Unprovoked,Florida,M,N
+1688,August,1969,Unprovoked,Florida,M,N
+1689,October,1968,Unprovoked,Florida,M,N
+1690,September,1966,Provoked,Florida,M,N
+1691,July,1966,Provoked,South Carolina,M,N
+1692,March,1965,Unprovoked,Florida,M,N
+1693,September,1963,Provoked,Florida,M,N
+1694,July,1954,Unprovoked,Louisiana,F,N
+1695,June,1951,Unprovoked,Hawaii,M,Y
+1696,December,2022,Unprovoked,Hawaii,M,N
+1697,July,2022,Provoked,Florida,M,N
+1698,August,2021,Unprovoked,Florida,M,N
+1699,June,2021,Unprovoked,California,M,N
+1700,April,2021,Unprovoked,Florida,F,N
+1701,July,2020,Unprovoked,Florida,F,N
+1702,March,2020,Unprovoked,Florida,M,N
+1703,October,2018,Unprovoked,California,M,N
+1704,July,2018,Unprovoked,New York,M,N
+1705,May,2018,Unprovoked,Florida,M,N
+1706,May,2017,Unprovoked,Florida,M,N
+1707,August,2016,Unprovoked,Hawaii,M,N
+1708,April,2015,Unprovoked,Florida,M,N
+1709,September,2014,Unprovoked,Alabama,M,N
+1710,April,2014,Unprovoked,Florida,M,N
+1711,September,2013,Unprovoked,Florida,M,N
+1712,February,2013,Unprovoked,Hawaii,M,N
+1713,January,2013,Unprovoked,Hawaii,M,N
+1714,November,2012,Unprovoked,Hawaii,M,N
+1715,October,2012,Unprovoked,California,M,N
+1716,October,2012,Unprovoked,Florida,M,N
+1717,August,2012,Unprovoked,Florida,M,N
+1718,July,2012,Unprovoked,California,M,N
+1719,June,2012,Unprovoked,South Carolina,M,N
+1720,May,2011,Unprovoked,Hawaii,F,N
+1721,August,2010,Unprovoked,Florida,M,N
+1722,November,2009,Unprovoked,Florida,M,N
+1723,June,2008,Unprovoked,Florida,M,N
+1724,January,2008,Unprovoked,Florida,M,N
+1725,October,2007,Unprovoked,Florida,M,N
+1726,September,2007,Unprovoked,Florida,F,N
+1727,August,2007,Unprovoked,Florida,M,N
+1728,April,2007,Unprovoked,Florida,M,N
+1729,September,2006,Unprovoked,North Carolina,M,N
+1730,July,2003,Unprovoked,Florida,M,N
+1731,May,2002,Unprovoked,Florida,M,N
+1732,August,2001,Unprovoked,Florida,F,N
+1733,April,2001,Unprovoked,Florida,M,N
+1734,April,2001,Unprovoked,Florida,M,N
+1735,June,2000,Unprovoked,Florida,M,N
+1736,April,2000,Unprovoked,Florida,M,N
+1737,September,1998,Unprovoked,Florida,M,N
+1738,May,1998,Unprovoked,Florida,M,N
+1739,October,1997,Unprovoked,Florida,F,N
+1740,August,1997,Unprovoked,Florida,M,N
+1741,September,1996,Unprovoked,Florida,M,N
+1742,May,1995,Unprovoked,Florida,M,N
+1743,February,1994,Unprovoked,Florida,M,N
+1744,November,1993,Unprovoked,Hawaii,M,N
+1745,November,1990,Unprovoked,California,F,N
+1746,December,1986,Unprovoked,Florida,M,N
+1747,October,1985,Unprovoked,California,M,N
+1748,July,1984,Unprovoked,Texas,F,N
+1749,July,1982,Unprovoked,California,M,N
+1750,March,1981,Unprovoked,Florida,M,N
+1751,July,1978,Provoked,California,M,N
+1752,March,1970,Unprovoked,Florida,M,N
+1753,November,1969,Unprovoked,Hawaii,M,N
+1754,June,1962,Provoked,California,M,N
+1755,August,1957,Provoked,Florida,M,N
+1756,July,1957,Provoked,California,M,N
+1757,July,1953,Unprovoked,Florida,F,N
+1758,July,1952,Provoked,California,M,N
